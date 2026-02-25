@@ -1,0 +1,17 @@
+TAGGED TEXT (ARABIC)
+نهار غريب بجميع المقاييس كان هو ديال البارح.
+البارح كان مقرر فـ <GPE> المغرب </GPE> يتدار واحد الندوة صحفية من طرف <ORG> بنك المغرب </ORG> ، باش يتقرا التقرير ديال الثلاثة شهور، سواء من ناحية الوضع داخل <GPE> المغرب </GPE> ولا من ناحية الوضع فالخارج، ويفسرو علاش ترفعات نسبة الفائدة.
+هاد الندوة ما دارتش، وهاد الشي خلا بزاف ديال التساؤلات. ما كان حتى توضيح رسمي على السبب. كاينين اللي قالو يمكن يكون السبب صحي، ولكن ما كانت حتى معلومة مؤكدة. ومن بعد تذكر باللي المشكل غير تقني فالموقع الإلكتروني ديال <ORG> بنك المغرب </ORG> ، ولكن ما تشرحش علاش الندوة ما توقعاتش.
+فنفس <DATE> اليوم </DATE> خرجات أرقام التضخم، وكان مرتفع بزاف. التوقع كان فحدود <CARDINAL> 9.2 </CARDINAL> فالمية، خصوصا مع الغلاء اللي كان فبعض المواد بحال الطماطم والبصلة. هاد الارتفاع خلا الوضع يبان أكثر غرابة.
+حتى فـ <DATE> 2020 </DATE> و <DATE> 2021 </DATE> كانت وقعات مواقف اللي تبدلات فيها بعض المواعيد، ولكن دابا التساؤل بقى مطروح على سبب الإلغاء وغياب التوضيح الرسمي.
+كاينين بعض الصحافيين اللي مشاو بعيد فالتأويلات، ولكن فالأخير كيبقى المهم هو تكون شفافية أكثر من طرف <ORG> بنك المغرب </ORG> باش تتوضح الأمور وما يبقاش المجال مفتوح لأي تفسير.
+الوضع كان غريب وخلا بزاف ديال علامات الاستفهام.
+---
+TAGGED TEXT (CLEAN ARABIZI)
+nhar ghrib bjami3 lmaqayis kan howa dyal lbar7.
+lbar7 kan mqarrar f <GPE> lmghrib </GPE> ytdar wa7d nadowa s7afiya mn taraf <ORG> Bank Al Maghrib </ORG> , bach ytqra rapport dyal tlata shhor, sawa2 mn na7iyat lwad3 dakhel <GPE> lmghrib </GPE> wala mn na7iyat lwad3 f lkharej, w yfassro 3lash trf3at nisbat lfayda.
+had nadowa ma tdatrch, w had shi khlla bzaf dyal tsawolat. ma kan 7tta tawdi7 rasmi 3la sabab. kaynin li galou ymken ykoun sabab s7i, walakin ma kant 7tta ma3loma m2akkada. w mn b3d tdkker belli lmochkil ghir ta9ni f lmawqi3 l2iliktironi dyal <ORG> Bank Al Maghrib </ORG> , walakin ma tchar7ch 3lash nadowa ma tw9a3atch.
+f nafs <DATE> lyoum </DATE> kharjat ar9am tadakhom, w kan mrtfa3 bzaf. ttaw9o3 kan f 7doud <CARDINAL> 9.2 </CARDINAL> f lmya, khoussousan m3a lghla li kan f ba3d lmawad b7al tomatich w lbasla. had lirtifa3 khla lwad3 yban aktar ghraba.
+7tta f <DATE> 2020 </DATE> w <DATE> 2021 </DATE> kanat w9a3at mawa9if li tbaddlat fiha ba3d lmwa3id, walakin daba tsawol ba9i matrro7 3la sabab l2ilgha2 w ghiab ttawdi7 rasmi.
+kaynin ba3d s7afiyin li mchaw b3id f ta2wilat, walakin f lakhher kayb9a lmohim howa tkoun chafafiya aktar mn taraf <ORG> Bank Al Maghrib </ORG> bach ttwad7 l2omor w ma yb9ach lmajal maftou7 l ay tafsir.
+lwad3 kan ghrib w khlla bzaf dyal 3alamat lstifham.

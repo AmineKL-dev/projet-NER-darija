@@ -1,0 +1,13 @@
+=== CHAT: Darija NER Tagging Assistant Workflow ===
+
+[Assistant Response 1]:
+TAGGED TEXT (ARABIC)
+الفرق بين <NORP>الطبقة الفقيرة</NORP> و <NORP>الطبقة المتوسطة</NORP> و <NORP>الطبقة الغنية</NORP> ماشي هو <PERSON_AGG>الصالير</PERSON_AGG> اللي كيشدو أولا شحال كيوفرو كل <DATE>شهر</DATE>. الفرق الحقيقي بين هاد <CARDINAL>تلاتة</CARDINAL> ديال <NORP>الطبقات</NORP> كاين فشنو هو الهدف من <PERSON_AGG>المال</PERSON_AGG>. بالنسبة <NORP>للناس اللي فقراء</NORP>، الغاية والهدف الأساسي من لفلوس هو لقمة العيش وصافي.
+
+TAGGED TEXT (CLEAN ARABIZI)
+lfarq bin <NORP>tabaqa lfaqira</NORP> w <NORP>tabaqa lmotawassita</NORP> w <NORP>tabaqa lghaniya</NORP> machi hwa <PERSON_AGG>lsalaire</PERSON_AGG> lli kicheddo awla chhal kiyewfro koll <DATE>chhar</DATE>. lfarq lhaqiqi bin had <CARDINAL>tlata</CARDINAL> dyal <NORP>tabaqat</NORP> kayn f chno hwa lhadaf mn <PERSON_AGG>lmal</PERSON_AGG>. bnisba <NORP>lnass lli foqara</NORP>, lghaya w lhadaf l-asassi mn lflous hwa loqmat l-aich w safi.
+
+Would you like me to process another text following these specific tagging rules?
+
+--------------------------------------
+

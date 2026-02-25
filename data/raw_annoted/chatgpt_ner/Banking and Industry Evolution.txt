@@ -1,0 +1,34 @@
+TAGGED TEXT (ARABIC)
+هاد <DATE> 6 شهور </DATE> كان كاين هضرة على اسوأ بنكه فـ <GPE> المغرب </GPE> ، ودابا الهضرة على افضل بنكه وتحليل كيفاش نعرفو بنكه مزيانة ولا لا، وشكون هي الاحسن فـ <GPE> المغرب </GPE> .
+فأي قطاع كاينين <CARDINAL> 3 </CARDINAL> انواع ديال الشركات:
+النوع <ORDINAL> الاول </ORDINAL> هو الليدر، القائد فالمجال، كيكون عندو لابار مارشي كبيرة ومسيطر على بزاف ديال الزبناء.
+النوع <ORDINAL> الثاني </ORDINAL> هو الشركات المتتبعة، لا سيرفيس زوين بزاف لا خايب بزاف، غير وسط.
+النوع <ORDINAL> الثالث </ORDINAL> هو الشركات المبلبلة، اللي كتكون صغيرة فالحصة ديالها وكتحاول تجيب الجديد والابداع باش تكبر.
+القائد كيكون عندو بزاف ديال الكليان ومكيغامرش بزاف، حيت خدام ومحتاجش يبدع. المتتبعين كيمشيو بنفس الريتم. اما الشركات المبلبلة هي اللي كتجيب الاختراع والابتكار، وكتقدر فالمستقبل تولي هي الليدر.
+هاد الشي كيوقع فـ <GOV> القطاع </GOV> ديال الابناك وكيوقع حتى فـ <GOV> قطاع </GOV> السيارات. فـ <GOV> قطاع </GOV> السيارات كانت <ORG> فورد </ORG> و <ORG> جي إم سي </ORG> مسيطرين. من بعد <ORG> طويوطا </ORG> ركزات على سيارات اقتصادية فالاستهلاك وكتدوم، وقدرات تاخذ بلاصتها. ومن بعد جات <ORG> تيسلا </ORG> قلبات السوق بسيارات كهربائية وبتكنولوجيا جديدة وحتى فكرة السيارات اللي كتتحرك بوحدها. ركزات على حاجة الشركات الكبار ما مركزينش عليها وربحات لابار مارشي كبيرة.
+فـ <GPE> المغرب </GPE> ، فالماضي كانت الابناك كتاخذ كوميسيون شهرية وغالية. كانت <ORG> BMCE </ORG> معروفة فـ <DATE> التسعينات </DATE> وبداية <DATE> 2000 </DATE> كأفضل بنكه. من بعدها <ORG> التجاري وفا بنك </ORG> ومن وراها <ORG> البنك الشعبي </ORG> .
+من بعد جات <ORG> CIH </ORG> وحيدات الكوميسيون للشباب اقل من <CARDINAL> 30 </CARDINAL> عام وهاد الشي كان ضربة قوية للسوق. دارت حتى حسابات للنساء فابور، وخذات زبناء جداد خصوصا اللي دارو <CARDINAL> 18 </CARDINAL> عام.
+من حوالي <DATE> 2013 </DATE> ركزات <ORG> CIH </ORG> على الابليكاسيون. ولات تقدر تخلص الفواتير من الهاتف، وتدير بزاف ديال العمليات بلا ما تمشي للاجونس. الناس اللي خدامين فالتجارة الالكترونية فضلوها حيث سهلة فالتحويلات.
+من الخدمات اللي تزادو انك تبدل الوكالة البنكية ديالك من الابليكاسيون وبلا خلصان، بينما بنوك اخرى كتطلب تقريبا <CARDINAL> 200 </CARDINAL> درهم.
+حتى خدمة <ORG> Apple Pay </ORG> دارتها <ORG> CIH </ORG> قبل، ومن بعدها تبعاتها <ORG> التجاري وفا بنك </ORG> .
+من ناحية الماركتينغ، <ORG> CIH </ORG> ركزات على الانترنت والميمز والهضرة اللي قريبة للشباب، عكس بنوك اخرى باقيين فاسلوب قديم.
+كاينين شكايات على السكيورتي، ولكن البنك ما كي سرقش. فـ <GPE> المغرب </GPE> كاين نظام تأمين اجباري على الودائع، واي افلاس كيكون فيه تعويض حسب التأمين. بزاف ديال المشاكل كيكون السبب فيها الناس اللي كيعطيو الكارت والكود ديالهم.
+كاين حتى مشكل ديال الضغط فالاجونس وقلة الموارد البشرية، ولكن فالمستقبل التوجه هو الابليكاسيون ونقص الاجونس، وهاد الشي راه موجود فـ <GPE> اوروبا </GPE> و <LOC> امريكا </LOC> .
+اختيار افضل بنكه كيكون حسب الحاجيات ديال كل واحد، ولكن فالمجال الرقمي <ORG> CIH </ORG> ولات عندها بلاصة كبيرة فالسوق وكتبان كشركة مبلبلة اللي كتقود التغيير.
+TAGGED TEXT (CLEAN ARABIZI)
+had <DATE> 6 shhor </DATE> kan kayn hdra 3la aswa banka f <GPE> lmghrib </GPE> w daba lhdra 3la afdal banka w tahlil kifach n3erfo banka mzyana wla la, w shkon hiya l7sen f <GPE> lmghrib </GPE> .
+f ay qita3 kaynin <CARDINAL> 3 </CARDINAL> anwa3 dyal charikat
+naw3 <ORDINAL> lowel </ORDINAL> howa lider, lqa2id f lmajjal, kaykon 3ndo lbar marshi kbira w msayter 3la bzaf dyal zbnaya
+naw3 <ORDINAL> tani </ORDINAL> howa charikat lmotatabi3a, la service zwine بزاف la khayb بزاف, ghir wast
+naw3 <ORDINAL> talet </ORDINAL> howa charikat lmblabla, li kaykono sghar f 7essa dyalhom w kay7awlo yjibo jdid w ibda3 bach ykbro
+lqa2id kaykon 3ndo bzaf dyal kliyan w makayghamerch, 7it khddam w ma7tajch ybda3. lmotatabi3in kaymchiw b nafs ritm. ama charikat lmblabla hiya li katjib l ikhtira3 w l ibtikar w t9dar f lmosta9bal twelli hiya lider.
+had shi kayw9a3 f <GOV> lqita3 </GOV> dyal labnak w kayw9a3 7ta f <GOV> qita3 </GOV> siyart. f <GOV> qita3 </GOV> siyart kanat <ORG> Ford </ORG> w <ORG> GMC </ORG> msaytrin. mn ba3d <ORG> Toyota </ORG> rkkzat 3la siyart iqtisadiya f lconsomation w katdom w 9drat takhod blast-ha. mn ba3d jat <ORG> Tesla </ORG> 9lbat soq b siyart kahraba2iya w technologie jdida w 7ta fikrat siyart li kattherrak بو7dha. rkkzat 3la haja charikat lkbar ma rkkzinech 3liha w rb7at lbar marshi kbira.
+f <GPE> lmghrib </GPE> f lmadi kanat labnak katakhod commission chahriya w ghalya. kanat <ORG> BMCE </ORG> ma3rofa f <DATE> ts3inat </DATE> w bidayat <DATE> 2000 </DATE> ka afdal banka. mn ba3dha <ORG> Attijari Wafa Bank </ORG> w mn wraha <ORG> Chaabi Bank </ORG> .
+mn ba3d jat <ORG> CIH </ORG> 7yadat commission lchabab a9al mn <CARDINAL> 30 </CARDINAL> 3am w had shi kan darba qwiya lsoq. darat 7ta 7isabat l3yalat fabor w khdat zbnaya jdad khossosan li daro <CARDINAL> 18 </CARDINAL> 3am.
+mn 7doud <DATE> 2013 </DATE> rkkzat <ORG> CIH </ORG> 3la lapplication. wlat t9dar tkhalles lfawatir mn telephone w tdir bzaf dyal l3amaliyat بلا ma tmchi l agence. ناس li khddamin f tijara electroniya faddloha 7it sahla f tahwilat.
+mn lkhadamat li tzado annk tbdel lwakala البنكية dyalk mn lapplication w بلا tkhless, wla bnok okhra kaytlo bo ta9riban <CARDINAL> 200 </CARDINAL> dirham.
+7ta khidmat <ORG> Apple Pay </ORG> daratha <ORG> CIH </ORG> 9bel, w mn ba3dha tb3atha <ORG> Attijari Wafa Bank </ORG> .
+mn ناحية marketing <ORG> CIH </ORG> rkkzat 3la internet w memes w hdra 9riba lchabab, 3ks bnok okhra ba9yin f uslub 9dim.
+kaynin chkaayat 3la security walakin banka ma katsr9ch. f <GPE> lmghrib </GPE> kayn nidam ta2min ijbari 3la lwdai3 w ay iflas kaykon fih ta3wid 7asab ta2min. bzaf dyal lmchkil kaykon sbbo nass li kay3tiw lkart w lcode dyalhom.
+kayn 7ta moshkil dyal daght f agences w 9illat lmawarid lbachariya, walakin f lmosta9bal tawajoh howa lapplication w n9s agences, w had shi rah kayn f <GPE> Europa </GPE> w <LOC> America </LOC> .
+ikhtiyar afdal banka kaykon 7asab l7ajiyat dyal kol wa7d, walakin f المجال الرقمي <ORG> CIH </ORG> wlat 3ndha blasa kbira f so9 w katban ka charika mblabla li kat9od taghyir.

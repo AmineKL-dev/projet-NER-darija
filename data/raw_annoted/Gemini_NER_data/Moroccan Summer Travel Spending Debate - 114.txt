@@ -1,0 +1,23 @@
+=== CHAT: Moroccan Summer Travel Spending Debate ===
+
+[Assistant Response 1]:
+TAGGED TEXT (ARABIC)
+<NORP>المغاربة</NORP> كايخسرو زبالة د الفلوس ف <DATE>الصيف</DATE> باش يسافرو لشي <GPE>مدينة</GPE>، المبلغ كيوصل ل <CARDINAL>2</CARDINAL> <CARDINAL>المليون</CARDINAL>، وعلى الأقل كثر من <CARDINAL>5000</CARDINAL> درهم، وكاين اللي كايخسر مابين <CARDINAL>20</CARDINAL> <CARDINAL>ألف</CARDINAL> تال <CARDINAL>100</CARDINAL> <CARDINAL>ألف</CARDINAL> درهم. المشكل هو أن الأسعار كاتكون غالية بزاف ف <LOC>الشمال</LOC> كل <DATE>عام</DATE>، وهادشي كايطرح تساؤلات على واش خاص إعادة النظر ف <LAW>قانون حرية الأسعار</LAW> باش مابقاش بنادم يدير مابغا.
+
+<PERSON_AGG>نائب رئيس</PERSON_AGG> <ORG>الجامعة المغربية لحماية المستهلك</ORG> و <PERSON_AGG>رئيس</PERSON_AGG> <ORG>الفيدرالية الجهوية لحقوق المستهلك</ORG> ب <GPE>جهة سوس ماسة</GPE> أكد بلي <ORG>الوبيات</ORG> هوما السبب ف هاد الغلاء، وماشي <GOV_AGG>الدولة</GOV_AGG>. كاين آراء مختلفة ف الموضوع، بحال <PERSON>العدواني</PERSON> اللي كايشوف بلي المواطن خاصو يقاطع أي حاجة غالية، و <PERSON>برشيم</PERSON> اللي كايعتبر بلي تسقيف الأسعار يقدر يطيح الجودة د الخدمات.
+
+ف <GPE>المغرب</GPE>، الاقتصاد كايتحكم فيه العرض والطلب، ويلا تفرض التسقيف، <ORG>الشركات</ORG> تقدر ماتزعمش دير مشاريع، وحتى <NORP>التوريست</NORP> يقدرو مايجيوش، وهادشي غايضر ب <LOC>الشمال</LOC>. ف <GPE>ميريكان</GPE> مثلا، كايعتبرو اتفاق <ORG>الشركات</ORG> على توحيد الأسعار جنحة.
+
+<NORP>المغاربة المقيمين بالخارج</NORP> كايجيو يدوزو <DATE>العطله</DATE> وكايجيبو <CARDINAL>الأورو</CARDINAL> و <CARDINAL>الدولار</CARDINAL>، وهاد التحويلات عتقات <GPE>المغرب</GPE> ف أزمة <DATE>2020</DATE>. الحل المقترح هو تشجيع السياحة الداخلية ف مدن بحال <GPE>سيدي سليمان</GPE> باش يخفاف الضغط على <GPE>طنجه</GPE>، وهكا تنتعش مناطق جديدة. كاين فئة كاتفضل تمشي ل <GPE>البرازيل</GPE> ولا <GPE>البرتغال</GPE> وتخسر فلوسها تما، واخا كاين ليميت ديال <ORG>مكتب الصرف</ORG>. المهم هو الناس اللي دايرين مشاريع سياحية خاصهم يخلصو <LAW>الضرائب</LAW> ويخرجو من القطاع غير المهيكل باش يعاونو ف تنمية <GPE>المغرب</GPE>.
+
+TAGGED TEXT (CLEAN ARABIZI)
+<NORP>lmgharba</NORP> kaykhasro zabala d lflous f <DATE>sif</DATE> bach ysafro lchi <GPE>mdina</GPE>, lmablagh kaywsal l <CARDINAL>2</CARDINAL> <CARDINAL>lmlyoun</CARDINAL>, w 3la l2aqal ktar mn <CARDINAL>5000</CARDINAL> dh, w kayn li kaykhsar mabin <CARDINAL>20</CARDINAL> <CARDINAL>alf</CARDINAL> tal <CARDINAL>100</CARDINAL> <CARDINAL>alf</CARDINAL> dh. lmochkli hwa ana l2as3ar katkon ghalya bezaf f <LOC>chamal</LOC> kol <DATE>3am</DATE>, w hadchi kaytr7 tasa2oulat 3la wach khass i3adat nadar f <LAW>qanoun horyat l2as3ar</LAW> bach mabqach bnadem ydir mabgha.
+
+<PERSON_AGG>na2ib ra2is</PERSON_AGG> <ORG>ljami3a lmaghribiya lihimayat lmostahlik</ORG> w <PERSON_AGG>ra2is</PERSON_AGG> <ORG>lfidiraliya ljihawiya lihoqoq lmostahlik</ORG> b <GPE>jihat souss massa</GPE> akkad bli <ORG>loubiyat</ORG> homa sbab f had lghala, w machi <GOV_AGG>dawla</GOV_AGG>. kayn ara2 mokhtalfa f lmawdo3, bhal <PERSON>l3adwani</PERSON> li kaychouf bli l mowatin khasso y9at3 ay haja ghalya, w <PERSON>berchim</PERSON> li kay3tabr bli tas9if l2as3ar y9dar ytayah ljawda d lkhadamat.
+
+f <GPE>lmghrib</GPE>, li9tisad kayt7akam fih l3ard w talab, w yla tfarad tas9if, <ORG>charikat</ORG> t9dar matz3amch dir machari3, w hata <NORP>tourist</NORP> y9dro mayjiwch, w hadchi ghaydar b <LOC>chamal</LOC>. f <GPE>mirikan</GPE> matalan, kay3tabro ttifa9 <ORG>charikat</ORG> 3la tawhid l2as3ar jon7a.
+
+<NORP>lmgharba lmoqimin bilkharij</NORP> kayjiw ydwzo <DATE>l3otla</DATE> w kayjibo <CARDINAL>l2oro</CARDINAL> w <CARDINAL>dollar</CARDINAL>, w had ta7wilat 3t9at <GPE>lmghrib</GPE> f azmat <DATE>2020</DATE>. l7al lmo9tara7 hwa tachji3 siaya7a ddakhiliya f modon b7al <GPE>sidi slimane</GPE> bach ykhfaf daght 3la <GPE>tanger</GPE>, w haka tnta3ch manati9 jdida. kayn fi2a katfdal tmchi l <GPE>brazil</GPE> wla <GPE>portugal</GPE> w tkhsar flousha tamma, wakha kayn limit dyal <ORG>maktab sarf</ORG>. lmohim hwa nnas li dayrin machari3 siya7iya khasshom ykhalso <LAW>dara2ib</LAW> w ykhrjo mn l9ita3 ghayr lmohaykal bach y3awno f tanmiyat <GPE>lmghrib</GPE>.
+
+--------------------------------------
+

@@ -1,0 +1,36 @@
+TAGGED TEXT (ARABIC)
+سولنا <ORG> تشات جي بي تي </ORG> على <GPE> المغرب </GPE> فـ <DATE> 2027 </DATE> كيفاش كيشوف الاقتصاد ديالو، واش غادي يكون تطور ولا لا، وشنو الصعوبات اللي ممكن تواجه البلاد. وتطرقات الهدرة حتى لـ <PERSON_AGG>الرئيس</PERSON_AGG> ديال <GPE> الجزائر </GPE> باش نعرفو كيفاش كيشوف بلادو فـ <DATE> 2027 </DATE> ، وشنو الاستثمارات اللي دايرا باش تقوى اقتصاديا.
+بالنسبة لـ <GPE> المغرب </GPE> ، عطا <ORG> تشات جي بي تي </ORG> <CARDINAL> ثلاثة </CARDINAL> ديال المحاور. المحور <ORDINAL> الأول </ORDINAL> هو العوامل اللي تقدر تأثر على الاقتصاد بشكل إيجابي ولا سلبي حتى لـ <DATE> 2027 </DATE> . المحور <ORDINAL> الثاني </ORDINAL> هو التوقعات ديال الوضعية الاقتصادية، والمحور <ORDINAL> الثالث </ORDINAL> هو المشاكل اللي ممكن يعاني منها <GPE> المغرب </GPE> وكيفاش يقدر يتعامل معاها.
+كاينين <CARDINAL> أربعة </CARDINAL> عوامل يقدرو يأثرو على الاقتصاد ديال <GPE> المغرب </GPE> :
+<ORDINAL> الأول </ORDINAL> سياسة <GOV_AGG>الحكومة</GOV_AGG>،
+<ORDINAL> الثاني </ORDINAL> الظروف الاقتصادية العالمية،
+<ORDINAL> الثالث </ORDINAL> الأحداث الطبيعية،
+و <ORDINAL> الرابع </ORDINAL> التطور التكنولوجي.
+من ناحية سياسة <GOV_AGG>الحكومة</GOV_AGG>، <GPE> المغرب </GPE> دابا ماشي فطريق اقتصادي مزيان، ولكن إلا تبدل التوجه حتى لـ <DATE> 2027 </DATE> يقدر يوقع مشكل. إلا المشاريع اللي بداو فـ السنوات الأخيرة تطبقات كيف ما تخطط ليها، يقدر يكون اقتصاد إيجابي ومنتج.
+بالنسبة للظروف العالمية، <EVENT_AGG>الحرب</EVENT_AGG> بين <GPE> روسيا </GPE> و <GPE> أوكرانيا </GPE> أثرت مباشرة على <GPE> المغرب </GPE> ، وحتى <EVENT_AGG>أزمة</EVENT_AGG> الجائحة فـ <DATE> 2020 </DATE> خلات تأثير كبير. تغيّرات الدولار وشنو واقع فـ <GPE> أمريكا </GPE> كيبان أثرهم هنا، والأسعار والبترول والصراعات العالمية كاملين كيأثرو على الاقتصاد المحلي. هاد الشي عطانا تضخم مرتفع فـ السنوات الأخيرة، ووقع حتى مشكل ديال الثقة بين المواطنين و<GOV_AGG>الحكومة</GOV_AGG>.
+الأحداث الطبيعية بحال الزلزال والجفاف حتى هما عوامل ماشي ساهل يتحكمو فيهم، وكيقدرو يأثرو على الاقتصاد خصوصا ملي كيوقعو بشكل مفاجئ.
+أما التطور التكنولوجي، فالرقمنة مهمة بزاف. كلما الخدمات والتعاملات ولات رقمية، كلما زادت الإنتاجية وتقوى الاقتصاد المحلي. ولكن التحول الرقمي باقي بطيء، وكاين مشكل فتعامل المجتمع مع الأداء الإلكتروني رغم المجهودات ديال <ORG> بنك المغرب </ORG> .
+حسب <ORG> تشات جي بي تي </ORG> ، إلا بقى <GPE> المغرب </GPE> غادي فـ نفس الوتيرة، وما بقاش معول بزاف على الفلاحة والسياحة، وركز على الصناعة والطاقة المتجددة والخدمات والأوفشورينغ، يقدر يحقق نمو اقتصادي مزيان. وزيد على هاد الشي <EVENT> كأس العالم 2030 </EVENT> اللي غادي يتنظم فـ <DATE> 2030 </DATE> ، واللي يقدر يعطي دفعة قوية للاقتصاد.
+كاينين <CARDINAL> ثلاثة </CARDINAL> مخاطر خاص يلقاو ليها حلول:
+<ORDINAL> الأول </ORDINAL> البطالة بسبب الانتقال من الفلاحة للصناعة والخدمات،
+<ORDINAL> الثاني </ORDINAL> الفوارق الاجتماعية اللي كتكبر،
+وخاص دعم مباشر ولا غير مباشر للفئات الهشة.
+من جهة أخرى، <PERSON_AGG>الرئيس</PERSON_AGG> ديال <GPE> الجزائر </GPE> كيخطط باش يدير أكبر مزرعة فالعالم بمساحة <CARDINAL> 117 </CARDINAL> ألف هكتار، باستثمار حوالي <CARDINAL> 3.5 </CARDINAL> مليار دولار، لإنتاج الحليب المجفف فالجنوب. ولكن الجنوب ديال <GPE> الجزائر </GPE> كيعاني من قلة المياه، وحتى دول بحال <GPE> المغرب </GPE> و <GPE> تونس </GPE> و <GPE> مصر </GPE> غادي يعانيو من نفس المشكل مستقبلا، وهاد المشروع يقدر يطرح تحديات كبيرة من ناحية الموارد المائية.
+TAGGED TEXT (CLEAN ARABIZI)
+Swlna <ORG> Chat GPT </ORG> 3la <GPE> lmghrib </GPE> f <DATE> 2027 </DATE> kifach kaychof liqtisad dyalo, wash ghadi ykon tatawor wla la, w shno s3obat li momkin twajeh lblad. W ttrqat lhdra hta l <PERSON_AGG>rais</PERSON_AGG> dyal <GPE> ljazair </GPE> bash n3erfo kifach kaychof blado f <DATE> 2027 </DATE> , w shno listitmarat li dayra bash tqwa iqtisadiyan.
+Bnisba l <GPE> lmghrib </GPE> , 3ta <ORG> Chat GPT </ORG> <CARDINAL> 3 </CARDINAL> dyal lmahawir. Lma7war <ORDINAL> lowel </ORDINAL> howa l3awamil li t9dar t2ater 3la liqtisad bchakl ijabi wla سلبي hta l <DATE> 2027 </DATE> . Lma7war <ORDINAL> tani </ORDINAL> howa ttawa9o3at dyal lwad3iya liqtisadiya, wlma7war <ORDINAL> talt </ORDINAL> howa lmashakil li momkin y3ani menha <GPE> lmghrib </GPE> w kifach y9dar yt3amel m3aha.
+Kaynin <CARDINAL> 4 </CARDINAL> 3awamil y9dro y2atro 3la liqtisad dyal <GPE> lmghrib </GPE> :
+<ORDINAL> lowel </ORDINAL> siyasat <GOV_AGG>lhokoma</GOV_AGG>,
+<ORDINAL> tani </ORDINAL> الظروف liqtisadiya l3alamiya,
+<ORDINAL> talt </ORDINAL> la7dat tabi3iya,
+w <ORDINAL> rabe3 </ORDINAL> tatawor teknoloji.
+Men ناحية siyasat <GOV_AGG>lhokoma</GOV_AGG>, <GPE> lmghrib </GPE> daba ماشy ftri9 iqtisadi mzyan, walakin ila tbdel ttawajoh hta l <DATE> 2027 </DATE> y9dar ywa93 moshkil. Ila lmashari3 li bdaw f snin lakhra ttab9at kifma tkhattat liha, y9dar ykon iqtisad ijabi w منتج.
+Bnisba lzrof l3alamiya, <EVENT_AGG>7arb</EVENT_AGG> bin <GPE> rosya </GPE> w <GPE> okrania </GPE> 2atret mobachara 3la <GPE> lmghrib </GPE> , w hta <EVENT_AGG>azma</EVENT_AGG> dyal ljai7a f <DATE> 2020 </DATE> khllat ta2tir kbir. Taghyorat dollar w shno wa9e3 f <GPE> amrika </GPE> kayban atharhom hna, w l2atmina w petrol w ssira3at l3alamiya kamlin kay2atro 3la liqtisad lma7ali. Had shi 3tana tadakhom mratfa3 f snin lakhra, w wa93 hta moshkil dyal ti9a bin lmowatinin w <GOV_AGG>lhokoma</GOV_AGG>.
+La7dat tabi3iya b7al zlizal w ljafaf hta homa 3awamil mashi sahl yt7akmo fihom, w kay9dro y2atro 3la liqtisad.
+Ama tatawor teknoloji, far9mana mohimma bzaf. Kolma lkhdamat w t3amolat wlat ra9miya, kolma zadat lintajiya w t9wa liqtisad lma7ali. Walakin t7awol ra9mi ba9i bti2, w kayn moshkil f ta3amol lmjtema3 m3a l2ada2 elektroniki rghm lmajhod dyal <ORG> Bank Al Maghrib </ORG> .
+7asab <ORG> Chat GPT </ORG> , ila b9a <GPE> lmghrib </GPE> ghadi f nafs lwatira, w ma b9ach m3awel bzaf 3la lfla7a w siyaha, w rkkez 3la sina3a w ta9a motajadida w lkhadamat w offshoring, y9dar y7a9a9 nomo iqtisadi mzyan. W zid 3la had shi <EVENT> Kas Al 3alam 2030 </EVENT> f <DATE> 2030 </DATE> , li y9dar y3ti daf3a 9wiya lqtisad.
+Kaynin <CARDINAL> 3 </CARDINAL> mkhatir khas ytl9aw liha 7olol:
+<ORDINAL> lowel </ORDINAL> lbatala bsabab linti9al men lfla7a lsina3a w lkhadamat,
+<ORDINAL> tani </ORDINAL> lfawari9 lijtima3iya li katkbar,
+w khas da3m mobachir wla ghir mobachir lfi2at lhasha.
+Men jiha okhra, <PERSON_AGG>rais</PERSON_AGG> dyal <GPE> ljazair </GPE> kaykhatet bash ydir akbar mazra3a f l3alam b misaha <CARDINAL> 117 </CARDINAL> alf hektar, b istitmar 7wali <CARDINAL> 3.5 </CARDINAL> milyar dollar, l intaj l7lib lmojafaf f janob. Walakin janob dyal <GPE> ljazair </GPE> kay3ani men 9ilat lma, w hta boldan b7al <GPE> lmghrib </GPE> w <GPE> tounes </GPE> w <GPE> masr </GPE> ghadi y3aniw men nafs lmoshkil mosta9balan.

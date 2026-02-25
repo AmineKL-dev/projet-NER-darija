@@ -1,0 +1,15 @@
+=== CHAT: Darija NER Tagging Assistant Workflow ===
+
+[Assistant Response 1]:
+TAGGED TEXT (ARABIC)
+
+فاش بدات <EVENT_AGG>الروينة</EVENT_AGG> في <GPE>المغرب</GPE>، كانو جوج حاجات مهمين. الحاجة <ORDINAL>الاولى</ORDINAL> هي أن هاد الناس ماشي <ORG>جمعية</ORG> ولا <ORG>حزب</ORG> وما <ORG>منظمينش</ORG> وما عندهومش <LAW>رخصة</LAW>، وهذا مشكل. واخا تبغي <GOV_AGG>قطاع الصحة</GOV_AGG> يتبدل ولا <GOV_AGG>التعليم</GOV_AGG> يزيان، من حقك تدير <EVENT_AGG>مظاهرات</EVENT_AGG> ولكن بطريقة <LAW>قانونية</LAW> بـ <LAW>تصريح</LAW> و <LAW>رخصة</LAW>. أما تخرج بلا <LAW>ترخيص</LAW> و <GOV_AGG>الدولة</GOV_AGG> ما عارفاش شكون اللي كيهضر، راه في <LOC>العالم</LOC> كامل هادشي كيسالي بـ <EVENT_AGG>التخريب</EVENT_AGG>. دابا الموضوع مابقاش هو <GOV_AGG>الصحة</GOV_AGG> ولا <GOV_AGG>التعليم</GOV_AGG>، ولا مشكل ديال <EVENT_AGG>تخريب</EVENT_AGG>. هادشي علاش <GOV_AGG>الأمن</GOV_AGG> تدخل في <DATE>البدية</DATE> بديك الطريقة، حيت عارفين <EVENT_AGG>النهاية</EVENT_AGG> غتكون فيها <EVENT_AGG>خسائر</EVENT_AGG>. هادشي راه كيتقرى في <LANGUAGE>السوسيولوجي</LANGUAGE>، كيفاش <ORG>الجماعة</ORG> كتعامل فاش ماكتكونش <ORG>منظمة</ORG>.
+
+TAGGED TEXT (CLEAN ARABIZI)
+
+Fash bdat <EVENT_AGG>lrwina</EVENT_AGG> fi <GPE>lmghrib</GPE>, kano joj hajat mohimin. lhaja <ORDINAL>lowla</ORDINAL> hiya an had nnas mashi <ORG>jam3iya</ORG> wala <ORG>hizb</ORG> w ma <ORG>monadaminsh</ORG> w ma 3ndhomsh <LAW>rokhsa</LAW>, w hada moshkil. wakha tbeghi <GOV_AGG>qita3 ssaha</GOV_AGG> ytbeddel wala <GOV_AGG>tta3lim</GOV_AGG> yzyan, mn hqqek tdir <EVENT_AGG>modaharat</EVENT_AGG> walakin b tariqa <LAW>qanoniya</LAW> b <LAW>tasrih</LAW> w <LAW>rokhsa</LAW>. amma tkhroj bla <LAW>tarkhis</LAW> w <GOV_AGG>ddawla</GOV_AGG> ma 3arfash shkon lli kayhder, rah fi <LOC>l3alam</LOC> kamel hadshi kaysali b <EVENT_AGG>ttakhrib</EVENT_AGG>. daba lmawdo3 mabqash hwa <GOV_AGG>ssaha</GOV_AGG> wala <GOV_AGG>tta3lim</GOV_AGG>, olla moshkil dyal <EVENT_AGG>ttakhrib</EVENT_AGG>. hadshi 3lash <GOV_AGG>lamn</GOV_AGG> tdekhel fi <DATE>lbidaya</DATE> b dik ttariqa, hit 3arfin <EVENT_AGG>lnihaya</EVENT_AGG> ghatkon fiha <EVENT_AGG>khasair</EVENT_AGG>. hadshi rah kaytqra fi <LANGUAGE>sociology</LANGUAGE>, kifash <ORG>ljama3a</ORG> kat3amel fash makatkonsh <ORG>monadama</ORG>.
+
+Would you like me to extract a summary of the specific entities identified or perform the same task on another text?
+
+--------------------------------------
+

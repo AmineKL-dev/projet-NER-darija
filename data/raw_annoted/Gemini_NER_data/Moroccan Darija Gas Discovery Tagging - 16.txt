@@ -1,0 +1,23 @@
+=== CHAT: Moroccan Darija Gas Discovery Tagging ===
+
+[Assistant Response 1]:
+TAGGED TEXT (ARABIC)
+
+<ORG>شركة بريطانية</ORG> اكتشفات <LOC>لغاز طبيعي</LOC> فجهة <GPE>لغرب</GPE> ف<GPE>لمغريب</GPE>. هاد <ORG>لشركة لإنجليزية</ORG> <ORG>एस डी एक्स एनर्जी (SDX Energy)</ORG> حفرات كتر من <CARDINAL>عشرين</CARDINAL> بئر ف<GPE>لمنطقة د لغرب</GPE>، ولبئر لخر اللي لباو فيه <LOC>لغاز</LOC> سميتو <LOC>KSR-21</LOC>، ووصل لحفر فيه لعمق <CARDINAL>1955 متر</CARDINAL> لتحت الأرض. هاد لخدمة كديرها <ORG>لشركة</ORG> باش تعزز <EVENT_AGG>لأمن لطاقي</EVENT_AGG> و <EVENT_AGG>لتنمية لإقتصادية</EVENT_AGG>.
+
+على حساب لمعطيات، هاد لبئر يقدر يعطي <CARDINAL>3 ديال لملايين</CARDINAL> قدم مكعب ديال <LOC>لغاز</LOC> ف<DATE>ليوم</DATE>، وهادي كمية مزيانة ل<GPE>لمغريب</GPE> باش ميبقاش معول على <NORP>بلدان</NORP> خرين، بحال لواقيعة اللي وقعات ف<EVENT_AGG>لأنبوب ديال لغاز</EVENT_AGG> مع <GPE>لجزائر</GPE>. <GPE>لمغريب</GPE> حاليا كيستورد <CARDINAL>90%</CARDINAL> من لطاقة ديالو من برا، وهادشي كيخلي لأثمنة طالعة بزاف مقارنة مع <GPE>ميريكان</GPE> اللي عندها <LOC>لبترول</LOC> و <LOC>لمنصات</LOC> ديالها.
+
+هاد <EVENT_AGG>لإكتشاف</EVENT_AGG> غادي يساهم فخلق <EVENT_AGG>فرص شغل</EVENT_AGG>، ولكن خاصنا نعرفو بلي <ORG>لشركة د تنقيب</ORG> ماشي هي <ORG>لشركة د لإنتاج</ORG>، و <GPE>لمغريب</GPE> كيحتاج <ORG>شركات مختصة</ORG> باش تجبد هاد <LOC>لغاز</LOC> وتصاوبو. هاد لعملية كتاخد <DATE>سنوات</DATE> ديال <EVENT_AGG>لدراسة</EVENT_AGG> و <EVENT_AGG>لخدمة</EVENT_AGG> عاد نوصلو لـ <EVENT_AGG>لإنتاج</EVENT_AGG> ولتخفيض لأثمنة. وخا كاين <PERSON_AGG>ناس</PERSON_AGG> متفائلين وكاين <PERSON_AGG>مشككين</PERSON_AGG>، هاد لمشروع كيبقى خطوة باش ينقص لعيء لمالي على <NORP>لمغاربة</NORP> ف<DATE>لمستقبل</DATE>، خاصة مع توجه لعالم لـ <LOC>لطاقة لمتجددة</LOC>.
+
+TAGGED TEXT (CLEAN ARABIZI)
+
+<ORG>Charika britaniya</ORG> ktachfat <LOC>lgaz tabi3i</LOC> f jihat <GPE>lgharb</GPE> f <GPE>lmghrib</GPE>. Had <ORG>lcharika l'ingliziya</ORG> <ORG>SDX Energy</ORG> hfrat kter mn <CARDINAL>20</CARDINAL> bir f <GPE>lmantiqa d lgharb</GPE>, o lbir lkher li lqaw fih <LOC>lgaz</LOC> smito <LOC>KSR-21</LOC>, o wsel lhfr fih l'omq <CARDINAL>1955 miter</CARDINAL> lteht l'ard. Had lkhdma kadirha <ORG>lcharika</ORG> bach t'aziz <EVENT_AGG>l'amn ltaqi</EVENT_AGG> o <EVENT_AGG>ltanmiya l'iqtisadiya</EVENT_AGG>.
+
+3la hsab lmoti3yat, had lbir iqder ya3ti <CARDINAL>3 d lmalayin</CARDINAL> qadam mokhab dyal <LOC>lgaz</LOC> f <DATE>lyoum</DATE>, o hadi kamiyat mzyana l <GPE>lmghrib</GPE> bach mibqach m3owel 3la <NORP>boldan</NORP> khrin, bhal lwaqi3a li oq3at f <EVENT_AGG>lanboub d lgaz</EVENT_AGG> m3a <GPE>ljazair</GPE>. <GPE>lmghrib</GPE> haliyan kaystoured <CARDINAL>90%</CARDINAL> mn ltaqa dyalo mn bra, o hadchi kaykhali l'atman tal3a bzaf moqarana m3a <GPE>mirikan</GPE> li 3ndha <LOC>lbitrol</LOC> o <LOC>lminasat</LOC> dyalha.
+
+Had <EVENT_AGG>liktichaf</EVENT_AGG> ghadi ysahm f khlq <EVENT_AGG>foras choghl</EVENT_AGG>, walakin khasna na3rfo bli <ORG>lcharika d tanqib</ORG> machi hiya <ORG>lcharika d l'intaj</ORG>, o <GPE>lmghrib</GPE> kayhtaj <ORG>charikat mokhtassa</ORG> bach tjbed had <LOC>lgaz</LOC> o tsawbo. Had l'amaliya katakhoud <DATE>sanawat</DATE> dyal <EVENT_AGG>ldirasa</EVENT_AGG> o <EVENT_AGG>lkhdma</EVENT_AGG> 3ad nwaslo l <EVENT_AGG>l'intaj</EVENT_AGG> o ltakhfid l'atman. Wakha kayn <PERSON_AGG>nas</PERSON_AGG> motafailin o kayn <PERSON_AGG>mochakikin</PERSON_AGG>, had lmachrou3 kaybqqa khotwa bach ynqos l'ib' lmali 3la <NORP>lmgharba</NORP> f <DATE>lmostaqbal</DATE>, khassatan m3a tawajoh l'alam l <LOC>ltaqa lmotajadida</LOC>.
+
+Would you like me to tag another text or focus on a specific region's dialect for the next one?
+
+--------------------------------------
+

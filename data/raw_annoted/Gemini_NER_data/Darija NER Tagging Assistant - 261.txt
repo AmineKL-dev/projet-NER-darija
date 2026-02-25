@@ -1,0 +1,15 @@
+=== CHAT: Darija NER Tagging Assistant ===
+
+[Assistant Response 1]:
+TAGGED TEXT (ARABIC)
+
+قريب غادي تخرج واحد المراقبة من واحد <ORG>أورغانيزم عالمي</ORG> على <GPE>المغرب</GPE>. هاد التقرير مهم بزاف للاقتصاد ديال <GPE>المغرب</GPE> ومن الناحية المالية ديالو، حيت كيشوف الوضعية قبل ما يجي هاد <ORG>الأورغانيزم</ORG>. <GPE>المغرب</GPE> حاليا كاين في <EVENT_AGG>اللائحة الرمادية</EVENT_AGG> ديال <ORG>لـ "كافي"</ORG> (<ORG>GAFI</ORG>)، وهادشي كيخلي الصورة ما واضحاش بخصوص واش البلاد حاكمة الوضع فـ <EVENT_AGG>غسيل الأموال</EVENT_AGG>. يلا خرج <GPE>المغرب</GPE> من <EVENT_AGG>اللائحة الرمادية</EVENT_AGG> غادي يستافد بزاف، والسندات اللي كيطرح برا غادي يولي يطرحهم بـ <CARDINAL>ليزانتيري</CARDINAL> هابطين. <ORG_AGG>الأورغانيزم المغربي</ORG_AGG> <ORG>AMMC</ORG> قال <DATE>مؤخرا</DATE> باللي خاص هاد <ORG>الأورغانيزم</ORG> ديال <ORG>لـ "كافي"</ORG> يقنن <WORK_OF_ART>الكريبتو</WORK_OF_ART> بقوانين <LAW>سارمة</LAW> ومراقبة باش يتعرف شكون كيشري ويخلصوا <LAW>الضريبة</LAW>. <GPE>المغرب</GPE> غادي ينفتح على <WORK_OF_ART>الكريبتو</WORK_OF_ART> ولكن بمراقبة كبيرة، و <ORG_AGG>الأبناك</ORG_AGG> غادي يتزيروا في هادشي. بالنسبة للناس اللي خدامين <WORK_OF_ART>أونلاين</WORK_OF_ART> خاصهم يقادوا الوضعية المالية ديالهم حيت <GOV_AGG>الدولة</GOV_AGG> غادة في الزيار باش ما تبقاش السيبة.
+
+TAGGED TEXT (CLEAN ARABIZI)
+
+9rib ghadi tkhroj wahd lmora9aba mn wahd <ORG>organisme alami</ORG> ela <GPE>lmghrib</GPE>. Had tta9rir mhm bzzaf l'iqtisad dyal <GPE>lmghrib</GPE> o mn nnahiya lmaliya dyalo, hit kiychouf lwadaiya 9bl ma yji had <ORG>organisme</ORG>. <GPE>lmghrib</GPE> haliyan kayn fi <EVENT_AGG>llaiha rrmadiya</EVENT_AGG> dyal <ORG>l'GAFI</ORG>, o hadchi kikhalli sora ma wadhash bkhousous wach lblad hakma lwad f <EVENT_AGG>ghassil l-amwal</EVENT_AGG>. Ila khrj <GPE>lmghrib</GPE> mn <EVENT_AGG>llaiha rrmadiya</EVENT_AGG> ghadi ystafd bzzaf, o ssanadat lli kiytrh brra ghadi yfelli ytrhhom b <CARDINAL>les interets</CARDINAL> habtine. <ORG_AGG>l'organisme lmghribi</ORG_AGG> <ORG>AMMC</ORG> gal <DATE>mouakharan</DATE> blli khass had <ORG>l'organisme</ORG> dyal <ORG>l'GAFI</ORG> y9nnin <WORK_OF_ART>crypto</WORK_OF_ART> b9wanine <LAW>sarma</LAW> o mora9aba bash yt-arf chkon kiychri o ykhllso <LAW>dariba</LAW>. <GPE>lmghrib</GPE> ghadi ynfath ela <WORK_OF_ART>crypto</WORK_OF_ART> walakin b-mora9aba kbira, o <ORG_AGG>labnak</ORG_AGG> ghadi ytziyro f hadchi. Bnnisba lnnas lli khddamin <WORK_OF_ART>online</WORK_OF_ART> khasshom y9addo lwadaiya lmaliya dyalhom hit <GOV_AGG>ddawla</GOV_AGG> ghada f zzyar bash ma tb9ach ssiba.
+
+Would you like me to extract a summary of the financial implications mentioned in this text?
+
+--------------------------------------
+

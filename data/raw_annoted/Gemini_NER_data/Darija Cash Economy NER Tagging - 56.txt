@@ -1,0 +1,22 @@
+=== CHAT: Darija Cash Economy NER Tagging ===
+
+[Assistant Response 1]:
+TAGGED TEXT (ARABIC)
+<PERSON_AGG>صحافي</PERSON_AGG> طرح سؤال في <EVENT>ندوة صحفية</EVENT> ديال <GOV>بنك المغرب</GOV> على المشكل ديال <CARDINAL>الكاش</CARDINAL> اللي غادي وكيكبر بـ <CARDINAL>درجة كبيرة</CARDINAL>. هاد السيركولاسيون ديال <CARDINAL>الفلوس</CARDINAL> كانت كطلع بـ <CARDINAL>6%</CARDINAL> كل <DATE>عام</DATE> وسط <NORP>المغاربة</NORP> في <GPE>المغرب</GPE>، ولكن من <DATE>2020</DATE> حتى لـ <DATE>2023</DATE> تزاد بزاف بسباب <EVENT_AGG>التهرب الضريبي</EVENT_AGG>. بزاف ديال الناس كيتخلصوا بـ <CARDINAL>الدرهم</CARDINAL> وما كيبغيوش يدخلو لـ <ORG>البنكة</ORG> باش ما يخلصوش <LAW>الضرائب</LAW> لـ <GOV_AGG>الدولة</GOV_AGG>. <GOV>بنك المغرب</GOV> كيشوف باللي كاين مشكل <LANGUAGE>ثقافي</LANGUAGE> حيت <NORP>المغاربة</NORP> ولفوا يشدوا <CARDINAL>الكاش</CARDINAL> وصعيب تبدل ليهم هاد العقلية. كاين مثال ديال <GPE>إثيوبيا</GPE> اللي دارت طريقة باش تنقص من هادشي، واخا <GPE>المغرب</GPE> متفوق عليها في <CARDINAL>التعليم</CARDINAL>. <GOV_AGG>الدولة</GOV_AGG> كتخسر <CARDINAL>ملايين</CARDINAL> ديال <CARDINAL>الدولارات</CARDINAL> كل <DATE>سنة</DATE> غير في الطبع ديال <CARDINAL>الوراق</CARDINAL>، وهادشي كيخلق مشكل كبير. <PERSON_AGG>والي</PERSON_AGG> <GOV>بنك المغرب</GOV> كيهضر على هاد التحديات اللي ك تواجه <CARDINAL>الاقتصاد</CARDINAL>.
+
+TAGGED TEXT (CLEAN ARABIZI)
+<PERSON_AGG>Safi</PERSON_AGG> trah soal fi <EVENT>ndwa sahfiya</EVENT> dyal <GOV>Bank Lmaghrib</GOV> ala lmochkil dyal <CARDINAL>lkash</CARDINAL> li ghadi o kiykber b <CARDINAL>daraja kbira</CARDINAL>. Had l-sirklasyn dyal <CARDINAL>lflous</CARDINAL> kant katlaa b <CARDINAL>6%</CARDINAL> kol <DATE>aam</DATE> wst <NORP>lmgharba</NORP> fi <GPE>lmaghrib</GPE>, walakin mn <DATE>2020</DATE> hta l <DATE>2023</DATE> tzad bzaf bsbab <EVENT_AGG>ltahroub daribi</EVENT_AGG>. Bzaf dyal lnas kitkhalsou b <CARDINAL>drhem</CARDINAL> o ma kibghiwch idkhlo l <ORG>lbanka</ORG> bach ma ikhalsouch <LAW>darayib</LAW> l <GOV_AGG>ldawla</GOV_AGG>. <GOV>Bank Lmaghrib</GOV> kiychouf bli kayn mochkil <LANGUAGE>thaqafi</LANGUAGE> hit <NORP>lmgharba</NORP> walfou ichdou <CARDINAL>lkash</CARDINAL> o sibe tbdel lihom had l-aqliya. Kayn mital dyal <GPE>Ethiopia</GPE> li dart tariqa bach tnqas mn hadchi, wakha <GPE>lmaghrib</GPE> mtfoweq aliha fi <CARDINAL>taalim</CARDINAL>. <GOV_AGG>Ldawla</GOV_AGG> katkhsr <CARDINAL>mlayin</CARDINAL> dyal <CARDINAL>dollarat</CARDINAL> kol <DATE>sna</DATE> ghir fi tbe dyal <CARDINAL>lwraq</CARDINAL>, o hadchi kiykhlaq mochkil kbir. <PERSON_AGG>Wali</PERSON_AGG> <GOV>Bank Lmaghrib</GOV> kiyhder ala had ltahadiyat li katwajh <CARDINAL>liqdisad</CARDINAL>.
+
+Would you like me to extract a specific list of all tagged entities and their categories from this text?
+
+--------------------------------------
+
+[Assistant Response 2]:
+TAGGED TEXT (ARABIC)
+القضية صعابت في <GPE>مصر</GPE> على <NORP>الإخوان</NORP> لدرجة أن <PERSON_AGG>الرئيس</PERSON_AGG> <PERSON>السيسي</PERSON> كيقول ليهم ديروا غير <CARDINAL>طبق واحد</CARDINAL> <ORDINAL>فقط</ORDINAL> في <DATE>رمضان</DATE> وما تعمروش الطبلة. هنا كيبان أن <NORP>المصري</NORP> بدا كياكل العصا، والأسعار ما بغاوش يهبطوا و<GOV_AGG>الدولة</GOV_AGG> ما قدراتش تواكب الوضع الاقتصادي العالمي، وهنا فين زادت غراقات القضية. في <DATE>شهر رمضان</DATE> خاص يتحط <CARDINAL>طبق واحد</CARDINAL> ويكون فيه يا دجاج يا اللي كان، ونشوفوا بعضياتنا وهادي نعتبروها <DATE>موضة</DATE>.
+
+TAGGED TEXT (CLEAN ARABIZI)
+lqadiya s3abat fi <GPE>misr</GPE> 3la <NORP>likhwan</NORP> ldaraja an <PERSON_AGG>lrais</PERSON_AGG> <PERSON>sissi</PERSON> kigoul lihom diro ghir <CARDINAL>tbaq wahid</CARDINAL> <ORDINAL>faqat</ORDINAL> fi <DATE>ramdan</DATE> wma t3mrouch ltabla. hna kiban an <NORP>lmasri</NORP> bda kayakol l3sa, wl2as3ar ma bgawch ihbto w<GOV_AGG>ldawla</GOV_AGG> ma qdratch twakb lwad3 liqtisadi l3alami, whna fin zadat graqat lqadiya. fi <DATE>chhar ramdan</DATE> khass ithat <CARDINAL>tbaq wahid</CARDINAL> wikoun fih ya djaj ya lli kan, wnchoufo b3dyatna whadi n3tbroha <DATE>mouda</DATE>.
+
+--------------------------------------
+

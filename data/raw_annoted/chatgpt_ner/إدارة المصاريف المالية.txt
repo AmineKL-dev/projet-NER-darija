@@ -1,0 +1,15 @@
+TAGGED TEXT (ARABIC)
+من بين الأخطاء المالية اللي كيديرو بزاف ديال الناس فاش كيخدمو <ORDINAL> أول </ORDINAL> مرة وكيبدا يدخل ليهم <CARDINAL> سالير </CARDINAL> ، سواء خدام موظف ولا عندو مشروع ولا شي <ORG> بزنس </ORG> ، هو أنهم كيتزوجو بسرعة وكيخدو كريدي ديال شقة وسيارة.
+أنا ماشي ضد الكريدي ولا مع الكريدي، هادي مسألة أخرى، ولكن كنشوفوها غير من منظور مالي. المهم هو تعرف كيفاش تتعامل مع داك الفلوس، حيت قبل ما عمرك جاوك الفلوس، كنت كتطلب من الدار وكيعطيوك، ودابا وليتي انت اللي كتخلص وعندك مصاريف جداد.
+خاص الإنسان يحسب مزيان أي حاجة غادي يخسر لمدة طويلة بالشهور، بحال مصاريف المدرسة ديال الدراري الصغار، وكل واحد والوضع المالي ديالو على حساب الحال ديالو. وكاينين حوايج كيجيّو على غفلة بحال المرض، الله يحفظ، كتجيك حالة خاصك تخلص الطبيب ولا شي علاج وكتزيد عليك المصاريف.
+المصاريف المستقبلية خاصك تفكر فيها مزيان، شنو غادي تقدر تخسر فالمستقبل وشنو غادي تدير لولادك والجيل ديالك. من بعد ما تفكر فالمستقبل، خاصك تشوف راسك واش تقدر تقتطع مثلا <CARDINAL> 1500 </CARDINAL> درهم. إلا ما قادرش تعيش غير بمستوى عادي بهاد المبلغ، ما خاصكش تزير على راسك.
+تقدر تبدا بشوية، مثلا تزيد <CARDINAL> 500 </CARDINAL> درهم، ومن بعد تزيد <CARDINAL> 500 </CARDINAL> أخرى تولي <CARDINAL> 1000 </CARDINAL> ، وتقدر تزيد حتى <CARDINAL> 500 </CARDINAL> أخرى تولي <CARDINAL> 1500 </CARDINAL> ولا حتى <CARDINAL> 2000 </CARDINAL> على حساب الوضع المالي والعوامل اللي كاتحدد شحال تقدر تزيد.
+بهذه الطريقة كتبقى مرتاح، وما كتخلق حتى شي مشكل لا لعائلتك ولا لراسك من الناحية المالية، وكلشي يمشي مزيان.
+---
+TAGGED TEXT (CLEAN ARABIZI)
+Mn bin l2akhata2 lmalya lli kaydiru bzaf dyal nnas fash kaykhdmo <ORDINAL> awal </ORDINAL> marra w kaybda ydkhol lihom <CARDINAL> salir </CARDINAL> , sawa2 khdam mwaddaf wla 3ndo mashro3 wla chi <ORG> bizness </ORG> , howa annahom kaytzowjo bsor3a w kaykhdo kredi dyal shaqa w tomobil.
+Ana mashi dd l kredi wla m3a l kredi, hadi mas2ala okhra, walakin kanshofouha ghir mn mandor mali. Lmohim howa t3ref kifash tta3amel m3a dak lflous, hit qbel ma 3mrk jawk lflous, kont katetlbb mn ddar w kay3tiwk, w daba wlit nta lli katkheless w 3ndk masarif jdad.
+Khas linsan y7seb mzyan ay haja ghadi ykhsar lmodda twila bshhor, bhal masarif lmdrasa dyal ddrari sghar, w kol wahed w lwd3 lmali dyalo 3la 7sab lhal dyalo. W kaynin 7wayj kayjiw 3la ghafla bhal lmarad, lah y7fed, katjik 7ala khassek tkheless tbib wla chi 3ilaj w katzid 3lik lmasarif.
+Lmasarif lmoustaqbaliya khassek tfker fiha mzyan, shno ghadi tqdar tkhsar flmoustaqbal w shno ghadi tdir lwladk w ljil dyalk. Mn b3d ma tfker flmoustaqbal, khassek tshof rask wash tqdar tqte3 مثلا <CARDINAL> 1500 </CARDINAL> drham. Ila ma qaderch t3ich ghir bmostawa 3adi bhad lmablagh, ma khassekch tzir 3la rask.
+Tqdar tbda bshwiya, مثلا tzid <CARDINAL> 500 </CARDINAL> drham, w mn b3d tzid <CARDINAL> 500 </CARDINAL> okhra twelli <CARDINAL> 1000 </CARDINAL> , w tqdar tzid 7ta <CARDINAL> 500 </CARDINAL> okhra twelli <CARDINAL> 1500 </CARDINAL> wla 7ta <CARDINAL> 2000 </CARDINAL> 3la 7sab lwd3 lmali w l3awamil lli kat7edded shhal tqdar tzid.
+Bhad ttariqa katbqa merta7, w ma katkhleq 7ta chi moshkil la l3a2iltk la lrasak mn nnahiya lmalya, w kolshi ymshi mzyan.

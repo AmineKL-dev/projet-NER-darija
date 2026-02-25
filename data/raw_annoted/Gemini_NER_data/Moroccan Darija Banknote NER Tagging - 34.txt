@@ -1,0 +1,25 @@
+=== CHAT: Moroccan Darija Banknote NER Tagging ===
+
+[Assistant Response 1]:
+TAGGED TEXT (ARABIC)
+
+بسباب <EVENT_AGG>التزوير</EVENT_AGG> ديال <CARDINAL>100</CARDINAL> درهم و <CARDINAL>200</CARDINAL> درهم اللي كاين هاد <DATE>السنوات الأخيرة</DATE>، <GOV>بنك المغرب</GOV> خرج ورقة بنكية جديدة من فئة <CARDINAL>200</CARDINAL> درهم بـ <DATE>12 يناير 2024</DATE>. هاد الورقة هي جزء من سلسلة جديدة ديال لوراق والقطع النقدية اللي صاوباتها <NORP>كفاءات مغربية</NORP> في <GOV>دار السكة</GOV>. هاد لورقة الجديدة فيها عناصر أمان متطورة وكتعبر على <EVENT_AGG>التطور الاقتصادي</EVENT_AGG> ديال <GPE>المغرب</GPE> في <EVENT_AGG>الصناعة</EVENT_AGG> و <EVENT_AGG>البنية التحتية</EVENT_AGG>.
+
+الوجه القدامي ديال لورقة فيه صورة <PERSON_AGG>الملك</PERSON_AGG> <PERSON>محمد السادس</PERSON>، وشعار <GPE>المملكة</GPE>، ومعالم معمارية بحال <LOC>قنطرة محمد السادس</LOC>. والظهر ديالها فيه <LOC>برج محمد السادس</LOC> و <LOC>مطار مراكش منارة الدولي</LOC>، مع رموز ديال <EVENT_AGG>التكنولوجيا الرقمية</EVENT_AGG>.
+
+من ناحية الأمان، لورقة فيها خيط أمان بـ <EVENT_AGG>تأثير ديناميكي ثلاثي الأبعاد</EVENT_AGG> فيه رقم <CARDINAL>200</CARDINAL> و <LANGUAGE_AGG>درهم</LANGUAGE_AGG>، والعلامة المائية فيها صورة <PERSON_AGG>الملك</PERSON_AGG> <PERSON>محمد السادس</PERSON>. كاين عاوتاني حبر كيتبدل لونو، وطباعة بارزة باش تعاون <NORP>الناس اللي مكيشوفوش مزيان</NORP> يعرفوا لورقة باللمس عن طريق <CARDINAL>أربعة</CARDINAL> ديال <LOC>النجوم الخماسية</LOC>.
+
+<GOV>بنك المغرب</GOV> كيبدل لفلوس تقريبا كل <DATE>10 سنين</DATE> لأسباب أمنية. وكاينين أوراق تذكارية خرجو قبل بحال <CARDINAL>20</CARDINAL> درهم و <CARDINAL>50</CARDINAL> درهم في <DATE>2019</DATE> و <CARDINAL>25</CARDINAL> درهم في <DATE>2012</DATE>. وكاينين قطع من الفضة ديال <CARDINAL>250</CARDINAL> درهم كتخرج في <EVENT_AGG>عيد العرش</EVENT_AGG> وكتتباع في <LOC>متحف بنك المغرب</LOC>. أما بخصوص <EVENT_AGG>التضخم</EVENT_AGG>، <GOV>بنك المغرب</GOV> كيواجهو عن طريق <EVENT_AGG>رفع سعر الفائدة المرجعي</EVENT_AGG> باش ينقص لفلوس اللي كتخرج بـ <EVENT_AGG>الكريديات</EVENT_AGG>.
+
+TAGGED TEXT (CLEAN ARABIZI)
+
+Bsbad <EVENT_AGG>tzwir</EVENT_AGG> dyal <CARDINAL>100</CARDINAL> drhem w <CARDINAL>200</CARDINAL> drhem lli kayn had <DATE>snwat lakhira</DATE>, <GOV>bank lmghrib</GOV> khrej wrqa bnkiya jdida mn fiat <CARDINAL>200</CARDINAL> drhem b <DATE>12 yanayir 2024</DATE>. Had lwrqa hiya joz' mn silsila jdida dyal lوراق w lqita3 lnaqdiya lli sawbat'ha <NORP>kafaat mghribiya</NORP> fi <GOV>dar ssikka</GOV>. Had lwrqa ljdida fiha 3anasir aman mtatwra w kat3bber 3la <EVENT_AGG>ttatawor l'iqtisadi</EVENT_AGG> dyal <GPE>lmghrib</GPE> fi <EVENT_AGG>ssina3a</EVENT_AGG> w <EVENT_AGG>lbinya ltahtiya</EVENT_AGG>.
+
+lwej lqdami dyal lwrqa fih sort <PERSON_AGG>lmalik</PERSON_AGG> <PERSON>mohammed ssadiss</PERSON>, w شعار <GPE>lmamlaka</GPE>, w ma3alim mi3mariya bhal <LOC>qantarat mohammed ssadiss</LOC>. W ddhar dyalha fih <LOC>borj mohammed ssadiss</LOC> w <LOC>mtar mrakch mnara ddawli</LOC>, m3a romoz dyal <EVENT_AGG>ttechnology rraqmiya</EVENT_AGG>.
+
+Mn nahit l'aman, lwrqa fiha khit aman b <EVENT_AGG>ta'tir dinamiki tlati l'ab3ad</EVENT_AGG> fih rqm <CARDINAL>200</CARDINAL> w <LANGUAGE_AGG>drhem</LANGUAGE_AGG>, w l3alama lma'iya fiha sort <PERSON_AGG>lmalik</PERSON_AGG> <PERSON>mohammed ssadiss</PERSON>. Kayn 3awtani hbar kitbeddel louno, w tba3a barza bach t3awn <NORP>nnas lli makichofoch mzyan</NORP> ya3rfo lwrqa b lams 3an tariq <CARDINAL>arb3a</CARDINAL> dyal <LOC>nnjom lkhomasiya</LOC>.
+
+<GOV>bank lmghrib</GOV> kibeddel lflos taqriban koll <DATE>10 snin</DATE> l'asbab amniya. W kaynin awraq tadkariya kharjo qbel bhal <CARDINAL>20</CARDINAL> drhem w <CARDINAL>50</CARDINAL> drhem fi <DATE>2019</DATE> w <CARDINAL>25</CARDINAL> drhem fi <DATE>2012</DATE>. W kaynin qita3 mn lfidda dyal <CARDINAL>250</CARDINAL> drhem katkhrej fi <EVENT_AGG>3id l3arch</EVENT_AGG> w katttba3 fi <LOC>mthaf bank lmghrib</LOC>. Amma bkhosos <EVENT_AGG>ttadakhom</EVENT_AGG>, <GOV>bank lmghrib</GOV> kiwajho 3an tariq <EVENT_AGG>raf3 si3r lfa'ida lmarji3i</EVENT_AGG> bach ynqqas lflos lli katkhrej b <EVENT_AGG>lkridiyat</EVENT_AGG>.
+
+--------------------------------------
+

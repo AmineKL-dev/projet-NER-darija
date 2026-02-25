@@ -1,0 +1,36 @@
+TAGGED TEXT (ARABIC)
+<EVENT> كاس العالم </EVENT> فـ <DATE> 2030 </DATE> جاب ارقام قياسيه فـ التوريزم فـ <GPE> المغرب </GPE> ، وتوقعات بواحد الدفعه كبيره فـ الاستثمارات باتفاقيات كبار مع شركات جايه من <GPE> الصين </GPE> و< GPE>كوريا الجنوبيه </GPE> وبعض الدول فـ <GPE> اوروبا </GPE> ، وغادي يستاقرو فـ <GPE> المغرب </GPE> . الاقتصاد ولا كيتنوع، وما بقاش معول غير على الفلاحه، وولات مجالات اخرى داخله فالسوق. كاينين حتى اتفاقيات مع دول فـ <LOC> افريقيا </LOC> باش التصدير يكون من <GPE> المغرب </GPE> ، وخصوصا من <GPE> الداخله </GPE> .
+<GPE> المغرب </GPE> مكلاصي <ORDINAL> الاول </ORDINAL> فـ التصدير ديال السيارات، والفوسفاط ديالو غادي يطلع عليه الطلب ابتداء من <DATE> 2030 </DATE> حيث كيتستعمل فالفلاحه وفمجالات اخرى غادي نحتاجوها فالمستقبل. التخزين ديال الفوسفاط حتى هو مكلاصي <ORDINAL> الاول </ORDINAL> فالعالم. البنيه التحتيه من الاحسن فـ <LOC> افريقيا </LOC> وكاين تطوير تدريجي.
+كاين سؤال واش <GPE> المغرب </GPE> يقدر يولي دوله متقدمه من هنا لـ <DATE> 2030 </DATE> من بعد <EVENT> كاس العالم </EVENT> . حسب <ORG> صندوق النقد الدولي </ORG> و <ORG> البنك الدولي </ORG> وبعض المؤسسات الاخرى، الدول المتقدمه كتتحدد على حساب مؤشرات اقتصاديه.
+حسب <ORG> صندوق النقد الدولي </ORG> كاين تقريبا <CARDINAL> 41 </CARDINAL> دوله متقدمه، وحسب <ORG> الامم المتحده </ORG> كاين غير <CARDINAL> 37 </CARDINAL> ، و <ORG> منظمه التعاون والتنميه الاقتصاديه </ORG> كتقول <CARDINAL> 38 </CARDINAL> .
+المعيار <ORDINAL> الاول </ORDINAL> هو معدل الدخل الفردي: كنقسمو حجم الاقتصاد على عدد السكان. فـ <DATE> 2024 </DATE> ، <GPE> المغرب </GPE> وصل تقريبا <CARDINAL> 3993 </CARDINAL> دولار فالسنه للفرد، بينما فـ <GPE> فرنسا </GPE> تقريبا <CARDINAL> 46792 </CARDINAL> دولار سنويا، والفرق كبير.
+المعيار <ORDINAL> الثاني </ORDINAL> هو تنويع الاقتصاد وما يكونش معتمد غير على قطاع واحد. <GPE> المغرب </GPE> بدا كينوع ولكن مازال ما وصلش لمستوى بزاف ديال الدول المتقدمه.
+المعيار <ORDINAL> الثالث </ORDINAL> هو مؤشر التنميه البشريه. بعض الدول بحال <GPE> لبنان </GPE> و< GPE>ليبيا </GPE> كيبانو فترتيب احسن بسبب الفرق بين السعر الرسمي والسوق الموازي، ومع ذلك ترتيب <GPE> المغرب </GPE> مازال ضعيف.
+المعيار <ORDINAL> الرابع </ORDINAL> هو قوه المؤسسات والحكامه، بحال محاربه الرشوه وسرعه الاجراءات الاداريه. الرقمنه ممكن تبدل الوضع فـ <DATE> 3 </DATE> حتى <DATE> 4 </DATE> سنين جايين.
+المعيار <ORDINAL> الخامس </ORDINAL> هو جوده البنيه التحتيه. <GPE> المغرب </GPE> متقدم فـ <LOC> شمال افريقيا </LOC> ولكن باقي بعيد على بعض الدول المتقدمه.
+المعيار <ORDINAL> السادس </ORDINAL> هو الاستقرار الاجتماعي والامن. <GPE> المغرب </GPE> متقدم فهاد الجانب مقارنة مع دول فـ نفس المستوى، وكيخدم على التغطيه الصحيه والمساعدات الاجتماعيه.
+المعيار <ORDINAL> السابع </ORDINAL> هو الخدمات الماليه بحال الابناك والكريديات. <GPE> المغرب </GPE> حسن من بعض الدول اللي حداه ولكن مازال بعيد على الدول المتقدمه.
+المعيار <ORDINAL> الثامن </ORDINAL> هو استعمال التكنولوجيا فـ الاداره والاقتصاد. <GPE> المغرب </GPE> بدا فـ الرقمنه ولكن مازال خاصو يمشي بعيد. من هنا لـ <DATE> 2030 </DATE> يقدر يقرب ولكن صعيب يوصل لدوله متقدمه.
+كاينين دول عندها جوده حياه مرتفعه ولكن ماكتتصنفش دول متقدمه بحال <GPE> الامارات </GPE> ، <GPE> قطر </GPE> ، <GPE> الصين </GPE> ، <GPE> البرازيل </GPE> ، <GPE> المكسيك </GPE> ، و< GPE>تركيا </GPE> . وحتى بعض الناس من <LOC> اوروبا </LOC> و< GPE>كندا </GPE> و< GPE>امريكا </GPE> كيمشيو يعيشو فـ <GPE> الامارات </GPE> حيث الجوده ديال الحياه زوينه.
+التركيز خاصو يكون على <CARDINAL> 3 </CARDINAL> حوايج:
+<ORDINAL> الاول </ORDINAL> الاستقرار الاجتماعي ودعم الفئات الضعيفه،
+<ORDINAL> الثاني </ORDINAL> مناخ جيد للاستثمار المحلي والاجنبي بلا عراقيل بيروقراطيه،
+<ORDINAL> الثالث </ORDINAL> تنويع القطاعات باش الاقتصاد مايبقاش معتمد على مجال واحد.
+TAGGED TEXT (CLEAN ARABIZI)
+<EVENT> kas l3alam </EVENT> f <DATE> 2030 </DATE> jab ar9am 9iyasiya f torizm f <GPE> lmghrib </GPE> , w twa9o3at b wa7d dafa kbira f listitmarat b itifaqiyat kbar m3a charikat jayin mn <GPE> sin </GPE> w <GPE> koria ljanobiya </GPE> w ba3d dowal f <GPE> oroba </GPE> , w ghadi yst9aro f <GPE> lmghrib </GPE> . l i9tisad wla kaytnawa3, w ma b9ach m3awel ghir 3la lfilaha, wlat majalat okhra dakhla f so9. kaynin 7ta itifaqiyat m3a dowal f <LOC> ifri9ia </LOC> باش tasdir ykoun mn <GPE> lmghrib </GPE> , w khososan mn <GPE> dakhla </GPE> .
+<GPE> lmghrib </GPE> mklassi <ORDINAL> lowel </ORDINAL> f tasdir dyal sayarat, w lfosfat dyalo ghadi ytla3 3lih talab ibtida2an mn <DATE> 2030 </DATE> 7it kaytst3mel f lfilaha w f majalat okhra ghadi n7tajoha f lmosta9bal. takhzin dyal lfosfat 7ta howa mklassi <ORDINAL> lowel </ORDINAL> f l3alam. lbniya ta7tiya mn la7san f <LOC> ifri9ia </LOC> w kayn tatwir تدريji.
+kayen soal wash <GPE> lmghrib </GPE> y9dar ywli dawla mota9addima mn hna l <DATE> 2030 </DATE> mn ba3d <EVENT> kas l3alam </EVENT> . 7asab <ORG> sndo9 nna9d dawli </ORG> w <ORG> bank dawli </ORG> w ba3d lmo2assasat okhra, dowal mota9addima katthdd 3la 7sab mo2achirat i9tisadiya.
+7asab <ORG> sndo9 nna9d dawli </ORG> kayn ta9riban <CARDINAL> 41 </CARDINAL> dawla mota9addima, w 7asab <ORG> l2omam lmotta7ida </ORG> kayn ghir <CARDINAL> 37 </CARDINAL> , w <ORG> monadamat ta3awon watanmiya li9tisadiya </ORG> kat9ol <CARDINAL> 38 </CARDINAL> .
+lmi3yar <ORDINAL> lowel </ORDINAL> howa mo3adal dakhl lfardi. f <DATE> 2024 </DATE> <GPE> lmghrib </GPE> wsal ta9riban <CARDINAL> 3993 </CARDINAL> dollar f sana, baynama f <GPE> fransa </GPE> ta9riban <CARDINAL> 46792 </CARDINAL> dollar sanawiyan.
+lmi3yar <ORDINAL> tani </ORDINAL> howa tanwi3 l i9tisad. <GPE> lmghrib </GPE> bda kaynawa3 walakin mazal ma wslch lmostawa dyal بزاف dowal mota9addima.
+lmi3yar <ORDINAL> talit </ORDINAL> howa mo2achir tanmiya bachariya. dowal b7al <GPE> lobnan </GPE> w <GPE> libya </GPE> kaybano 7san f tartib, walakin tartib <GPE> lmghrib </GPE> mazal da3if.
+lmi3yar <ORDINAL> rabe3 </ORDINAL> howa 9owat lmo2assasat wal7akama. r9mana mumkin tbdel lwa9i3 f <DATE> 3 </DATE> 7ta <DATE> 4 </DATE> snin jayin.
+lmi3yar <ORDINAL> khames </ORDINAL> howa jowdat lbniya ta7tiya. <GPE> lmghrib </GPE> mota9addim f <LOC> chamal ifri9ia </LOC> walakin ba9i b3id 3la dowal mota9addima.
+lmi3yar <ORDINAL> sades </ORDINAL> howa listi9rar lijtima3i wal2amn. <GPE> lmghrib </GPE> mota9addim f had janeb.
+lmi3yar <ORDINAL> sabe3 </ORDINAL> howa lkhadamat lmalya b7al labnak w lkredit. <GPE> lmghrib </GPE> 7san mn ba3d dowal li 7dah walakin mazal b3id 3la dowal mota9addima.
+lmi3yar <ORDINAL> tamen </ORDINAL> howa isti3mal teknologi. <GPE> lmghrib </GPE> bda f r9mana walakin mazal khaso ymchi b3id. mn hna l <DATE> 2030 </DATE> y9dar y9rab walakin s3ib ywsel.
+kaynin dowal b jowdat 7ayat mratfa3a walakin ma kattsnfach dawla mota9addima b7al <GPE> limarat </GPE> , <GPE> qatar </GPE> , <GPE> sin </GPE> , <GPE> brazil </GPE> , <GPE> mexik </GPE> , w <GPE> torkia </GPE> . w 7ta nas mn <LOC> oroba </LOC> w <GPE> kanada </GPE> w <GPE> amrika </GPE> kaymchiw y3icho f <GPE> limarat </GPE> .
+tarqiz khaso ykoun 3la <CARDINAL> 3 </CARDINAL> 7wayej:
+<ORDINAL> lowel </ORDINAL> listi9rar lijtima3i,
+<ORDINAL> tani </ORDINAL> manakh jayed listitmar,
+<ORDINAL> talit </ORDINAL> tanwi3 l9ita3at.

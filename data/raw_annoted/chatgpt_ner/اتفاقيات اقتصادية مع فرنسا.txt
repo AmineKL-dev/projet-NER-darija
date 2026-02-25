@@ -1,0 +1,38 @@
+TAGGED TEXT (ARABIC)
+كاينين <CARDINAL> 22 </CARDINAL> اتفاقية ما بين <GPE> المغرب </GPE> و <GPE> فرنسا </GPE> فعدة مجالات اقتصادية واستراتيجية.
+الاتفاقية <ORDINAL> الأولى </ORDINAL> هي مذكرة تفاهم على استيراد القطارات فائقة السرعة، توقعات ما بين المدير العام ديال <ORG> المكتب الوطني للسكك الحديدية </ORG> <PERSON> محمد ربيع الخليع </PERSON> والمدير العام ديال شركة <ORG> ألستوم </ORG> <PERSON> هنري بوبرت لافارج </PERSON> . شركة <ORG> ألستوم </ORG> متخصصة فالقطارات السريعة، وهاذ الصناعة ثقيلة وقلال الدول اللي كتصاوب هاذ النوع ديال القطارات. الشرط كان هو اللي بغا يخدم فهاذ المشروع خاصو يدير وحدة صناعية فـ <GPE> المغرب </GPE> ويشغل مغاربة، باش البلاد تربح المعرفة والتكنولوجيا، ومن بعد تقدر تصاوب قطارات موجهة حتى لافريقيا.
+الاتفاقية <ORDINAL> الثانية </ORDINAL> إعلان نوايا للتعاون المالي فمجال السكك الحديدية، توقعات من طرف وزيرة الاقتصاد والمالية <PERSON> نادية فتاح </PERSON> ومسؤولين فرنسيين. الهدف هو الدفع بالرقمنة فالإدارة والقطاع المالي، وهاد الشي داخل فاستراتيجية <EVENT> ديجيتال موروكو 2030 </EVENT> ، اللي غادي تعاون على إدماج القطاع غير المهيكل وتحسين الرؤية الاقتصادية.
+الاتفاقيتين <ORDINAL> الثالثة </ORDINAL> و <ORDINAL> الرابعة </ORDINAL> داخلين فإطار تطوير البنية التحتية ديال السكك الحديدية، بمشاركة شركات فرنسية خدامة فالهندسة والتصميم.
+الاتفاقية <ORDINAL> الخامسة </ORDINAL> كتهم تنفيذ العرض المغربي للهيدروجين الأخضر، مع شركة <ORG> توتال إنيرجي </ORG> . كاين مشروع سميتو <WORK_OF_ART>شبيكة بروجيكت</WORK_OF_ART> قرب <GPE> كلميم واد نون </GPE> لإنتاج حوالي <CARDINAL> 1 </CARDINAL> جيغاواط من الطاقات المتجددة عبر الرياح والشمس، وإنتاج قرابة <CARDINAL> 200 ألف </CARDINAL> طن سنوياً من الأمونيا الخضراء للتصدير نحو <GPE> أوروبا </GPE> ، خصوصاً <ORG> الاتحاد الأوروبي </ORG> اللي محتاج أكثر من <CARDINAL> 10 ملايين </CARDINAL> طن فـ <DATE> 2030 </DATE> .
+الاتفاقية <ORDINAL> السادسة </ORDINAL> شراكة استراتيجية فمجال الطاقة والانتقال الطاقي، باش <GPE> المغرب </GPE> يعزز الطاقات المتجددة ويقلل الاعتماد على الطاقة التقليدية، ويولي مصدر للطاقة مستقبلاً.
+الاتفاقية <ORDINAL> السابعة </ORDINAL> مذكرة تفاهم ما بين <GPE> المغرب </GPE> وشركة <ORG> سافران </ORG> لإحداث موقع صناعي لإصلاح وصيانة محركات الطائرات. <GPE> المغرب </GPE> عندو تجربة فالتعاون مع <ORG> بوينغ </ORG> و <ORG> إيرباص </ORG> ، وهاد المشروع غادي يقوي هاذ التخصص.
+كاين اتفاقيات أخرى فمجال الحماية المدنية وحماية المناطق الطبيعية.
+الاتفاقية <CARDINAL> 10 </CARDINAL> كتهم الموانئ، و <GPE> المغرب </GPE> خدام على تطويرها خصوصاً ميناء <GPE> الداخلة </GPE> باش يكون حلقة وصل ما بين <GPE> أوروبا </GPE> و <GPE> إفريقيا </GPE> .
+الاتفاقية <CARDINAL> 11 </CARDINAL> فمجال الماء، سواء تحلية المياه أو تقنيات أخرى، حيث <GPE> المغرب </GPE> عندو تحديات مائية.
+الاتفاقية <CARDINAL> 12 </CARDINAL> كتهم التعاون فالتعليم ما بين <DATE> 2024 </DATE> و <DATE> 2026 </DATE> ، وكتمتد حتى للتعليم العالي والبحث العلمي والابتكار بين الجامعات.
+كاين تعاون كذلك فمجال الفلاحة.
+الاتفاقية <CARDINAL> 15 </CARDINAL> كتهم التعاون الثقافي بين <GPE> المغرب </GPE> و <GPE> فرنسا </GPE> .
+الاتفاقية <CARDINAL> 16 </CARDINAL> كتهم دعم الصناعات الثقافية والإبداعية وألعاب الفيديو، وهو قطاع اقتصادي كينمو بقوة.
+الاتفاقية <CARDINAL> 17 </CARDINAL> مذكرة تفاهم لإحداث مركز تسريع الاستثمارات المغربي الفرنسي لتقليص البيروقراطية.
+الاتفاقية <CARDINAL> 18 </CARDINAL> ما بين <ORG> المكتب الشريف للفوسفاط </ORG> و <ORG> الوكالة الفرنسية للتنمية </ORG> فمجال إزالة الكربون.
+الاتفاقية <CARDINAL> 19 </CARDINAL> ما بين مجموعة <ORG> OCP </ORG> وشركة <ORG> إنجي </ORG> فمجال التحول الطاقي.
+كاين كذلك مشاريع فالمرحلة <ORDINAL> الثانية </ORDINAL> من مزارع الرياح، واتفاقيات ما بين <ORG> سيجيم </ORG> و <ORG> طنجة المتوسط </ORG> ، وإنشاء مركز بحث مشترك سميتو <ORG> CFGM </ORG> .
+هاد الاتفاقيات كاملة داخلة فإطار تقوية الاقتصاد وتعزيز الشراكة الاستراتيجية ما بين <GPE> المغرب </GPE> و <GPE> فرنسا </GPE> .
+TAGGED TEXT (CLEAN ARABIZI)
+kaynin <CARDINAL> 22 </CARDINAL> اتفاقية ma bin <GPE> lmghrib </GPE> w <GPE> fransa </GPE> f3dda majalat i9tisadiya wistratijiya.
+littifaqiya <ORDINAL> الأولى </ORDINAL> hiya modakarat tafahom 3la istirad l9itat fast speed, tw9a3at ma bin lmodir l3am dyal <ORG> lmaktab lwatani lissikk lhadidiya </ORG> <PERSON> mohamed rabi3 lkhali3 </PERSON> w lmodir l3am dyal <ORG> alstom </ORG> <PERSON> henri bobert lafarge </PERSON> . <ORG> alstom </ORG> mota5assisa fl9itat sariya, w had sina3a t9ila w 9lal dduwal li katsawb had naw3. shart kan howa lli bgha ykhdem khaso idir wahda sina3iya f <GPE> lmghrib </GPE> w ychghal mgharba bash lblad تربح lma3rifa w teknolojiya.
+littifaqiya <ORDINAL> الثانية </ORDINAL> i3lan nia ftta3awon lmali fmajjal السكك, w hadshi dakhel f <EVENT> digital morocco 2030 </EVENT> bash idmaj l9ita3 ghir mhiakal.
+littifaqiyat <ORDINAL> الثالثة </ORDINAL> w <ORDINAL> الرابعة </ORDINAL> fbinya ta7tiya dyal السكك.
+littifaqiya <ORDINAL> الخامسة </ORDINAL> ma3 <ORG> total energy </ORG> 3la lhidrojine lakhdar, mashrou3 <WORK_OF_ART>chbika project</WORK_OF_ART> 9rb <GPE> guelmim oued noun </GPE> b9owa <CARDINAL> 1 </CARDINAL> gigawatt w intaj <CARDINAL> 200 alf </CARDINAL> ton sanawiyan l <GPE> oroba </GPE> khasatan <ORG> alittihad alorobi </ORG> lli محتاج aktar mn <CARDINAL> 10 malayin </CARDINAL> ton f <DATE> 2030 </DATE> .
+littifaqiya <ORDINAL> السادسة </ORDINAL> fmajjal ta9a w intiqal ta9i bash <GPE> lmghrib </GPE> ywli mosaddir.
+littifaqiya <ORDINAL> السابعة </ORDINAL> ma3 <ORG> safran </ORG> bash ytsawb maw9i3 sina3i lislah mo7arrikat tiyaran, w <GPE> lmghrib </GPE> khdam m3a <ORG> boeing </ORG> w <ORG> airbus </ORG> .
+littifaqiya <CARDINAL> 10 </CARDINAL> 3la lmwana2 khasatan <GPE> dakhla </GPE> rabt ma bin <GPE> oroba </GPE> w <GPE> ifri9iya </GPE> .
+littifaqiya <CARDINAL> 11 </CARDINAL> fmajjal lma2.
+littifaqiya <CARDINAL> 12 </CARDINAL> fta3lim bin <DATE> 2024 </DATE> w <DATE> 2026 </DATE> .
+littifaqiya <CARDINAL> 15 </CARDINAL> ta3awon ta9afi bin <GPE> lmghrib </GPE> w <GPE> fransa </GPE> .
+littifaqiya <CARDINAL> 16 </CARDINAL> sina3at ta9afiya w video games.
+littifaqiya <CARDINAL> 17 </CARDINAL> markaz tasri3 listitmarat.
+littifaqiya <CARDINAL> 18 </CARDINAL> ma bin <ORG> lmaktab الشريف lfosfat </ORG> w <ORG> lwakala lfransiya littanmiya </ORG> f izalat karbon.
+littifaqiya <CARDINAL> 19 </CARDINAL> ma bin <ORG> OCP </ORG> w <ORG> engie </ORG> fta7awol ta9i.
+w kaynin itifaqiyat okhrin ma bin <ORG> segim </ORG> w <ORG> tanja المتوسط </ORG> w markaz bahth <ORG> CFGM </ORG> .
+had liti9afiyat kamlin kayqawwyo l3ala9a bin <GPE> lmghrib </GPE> w <GPE> fransa </GPE> .

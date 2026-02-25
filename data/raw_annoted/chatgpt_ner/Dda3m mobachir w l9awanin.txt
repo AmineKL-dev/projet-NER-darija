@@ -1,0 +1,10 @@
+TAGGED TEXT (ARABIC)
+توقف الدعم المباشر على <CARDINAL> 245 ألف </CARDINAL> أسرة فـ <DATE> الشهر اللي فات </DATE> . السؤال علاش وقع هاد التوقف.
+فـ <DATE> الشهور اللولين ديال عام 2022 </DATE> تبدا يتطبق <LAW> القانون 98 15 </LAW> اللي دخل التغطية الصحية الإجبارية للناس اللي ماشي أجراء، يعني اللي خدامين لحسابهم ماشي سالاري ولا موظف. هاد الفئة كتشكّل تقريباً <CARDINAL> واحد جوج المليون </CARDINAL> أسرة.
+المشكل كان أن بزاف منهم ما كانوش كيخلصو المبالغ اللي خاصهم يخلصو. فـ <DATE> شهر 12 2023 </DATE> ، ومن بعد شهور من الانطلاقة العملية، <GOV_AGG>الحكومة</GOV_AGG> خرجات <LAW> القانون 41 23 </LAW> اللي عطا لهد الناس إعفاء من المستحقات اللي عليهم من <DATE> شهر 11 2023 </DATE> حتى للوقت اللي كان خاصهم يبداو يخلصو فيه، وهاد الإعفاء غادي يسالي فـ <DATE> نهاية شهر 4 2024 </DATE> .
+إلا سالات المدة ديال هاد القانون، غادي يرجع يتراكم عليهم داكشي اللي ما خلصوش. والحل الثاني اللي دارتو <GOV_AGG>الحكومة</GOV_AGG> هو <LAW> القانون 46 43 </LAW> ، واللي كيقول اللي ما خلصش المستحقات ديالو ما غاديش يستافد من الدعم المباشر للأسر.
+TAGGED TEXT (CLEAN ARABIZI)
+twe9ef dda3m lmobachir 3la <CARDINAL> 245 alf </CARDINAL> osra f <DATE> chher lli fat </DATE> . so2al 3lash wa9e3 had ttwe9of.
+f <DATE> chhor llowlin dyal 3am 2022 </DATE> tbda yttbe9 <LAW> 9anon 98 15 </LAW> lli dkhal ttghatiya ssi7iya lijbariya lnnas lli mashi ojara, ya3ni lli khdamin l7ssabhom mashi salari wla mowadaf. had lf2a katchekkel ta9riban <CARDINAL> wa7ed juj lmilyon </CARDINAL> osra.
+lmouchkil kan an bzzaf menhom ma kanouch kaykhellso lmabalegh lli khas-hom ykhellso. f <DATE> chher 12 2023 </DATE> , w men ba3d chhor men linta9a l3amaliya, <GOV_AGG>lhokoma</GOV_AGG> khrjat <LAW> 9anon 41 23 </LAW> lli 3ta lhad nnas i3fa2 men lmosta7a9at lli 3lihom men <DATE> chher 11 2023 </DATE> 7tta l lwa9t lli kan khas-hom ybda ykhellso fih, w had li3fa2 ghadi ysali f <DATE> nihayat chher 4 2024 </DATE> .
+ila salat lmouda dyal had l9anon, ghadi يرجع ytrakam 3lihom dakchi lli ma khlsouch. w l7al tani lli dartou <GOV_AGG>lhokoma</GOV_AGG> howa <LAW> 9anon 46 43 </LAW> , w lli kaygol lli ma khellesch lmosta7a9at dyalo ma ghadi ystafedch men dda3m lmobachir ll2osar.

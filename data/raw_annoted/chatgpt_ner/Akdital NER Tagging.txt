@@ -1,0 +1,12 @@
+TAGGED TEXT (ARABIC)
+المعلومة زوينة على <ORG> أكديطال </ORG> . الناس لي شراو <CARDINAL> ليزاكسون </CARDINAL> ديالها، وحتى لي مازال باغيين يشريو <CARDINAL> ليزاكسون </CARDINAL> ديال <ORG> أكديطال </ORG> ، خاصهم يعرفو باللي البزنس ديالها قوي وعندو قابلية يدخل <GOV> البورصة </GOV> . هادا هو التقاعد الحقيقي، حيت التقاعد ديال <GOV_AGG>الدولة</GOV_AGG> ولا التقاعد البريفي يقدر يوقع فيه مشكل وحتى إفلاس. مؤخرا فـ <DATE> نهار الاثنين </DATE> خرجات الوزيرة وهدرت على إمكانية الإفلاس.
+بالنسبة للاكتتاب ديال <ORG> أكديطال </ORG> ، بزاف ديال الناس طلبو يشريو <CARDINAL> ليزاكسون </CARDINAL> . المجموع ديال الفلوس لي تدفعات فالاكتتاب باش يتشراو <CARDINAL> ليزاكسون </CARDINAL> وصل تقريباً لـ <CARDINAL> 4,500 </CARDINAL> مليار، بينما العرض كان غير شي <CARDINAL> مليار </CARDINAL> وشوية. يعني الطلب كان طالع بزاف على العرض.
+هاد الرأي شخصي وماشي نصيحة استثمار، وماشي ضروري يوقع كلشي بنسبة <CARDINAL> 100% </CARDINAL> ، حيت كاينين بزاف ديال العوامل لي يقدرو يأثرو ويرفعو ولا يهبطو الثمن.
+كاينين شركات خرين دخلو لـ <GOV> البورصة </GOV> ووقع عليهم طلب كبير، خصوصاً من الناس فـ <GPE> الدار البيضاء </GPE> .
+بالنسبة لـ <ORG> أكديطال </ORG> ، كاين اهتمام كبير من المستثمرين.
+TAGGED TEXT (CLEAN ARABIZI)
+lma3louma zwina 3la <ORG> Akdital </ORG> . nnas li chraw <CARDINAL> lizaxon </CARDINAL> dyalha, w hata li mazal baghyin ychriw <CARDINAL> lizaxon </CARDINAL> dyal <ORG> Akdital </ORG> , khas-hom ya3rfo belli lbizness dyalha qwi w 3ando qabiliya ydkhol <GOV> lborsa </GOV> . hada howa ttaqa3od lha9i9i, hit ttaqa3od dyal <GOV_AGG>ddawla</GOV_AGG> wla ttaqa3od lprivi y9dar ywa9e3 fih mochkil w hata iflas. mo2akharan f <DATE> nhar ltnin </DATE> khrejat lwizira w hdart 3la imkaniyat liflas.
+bnisba liliktitab dyal <ORG> Akdital </ORG> , bzaaf dyal nnas tlbo ychriw <CARDINAL> lizaxon </CARDINAL> . lmajmou3 dyal lflous li tdfa3at f liktitab bach ytchraw <CARDINAL> lizaxon </CARDINAL> wsal ta9riban l <CARDINAL> 4,500 </CARDINAL> milyar, baynama l3ard kan ghir chi <CARDINAL> milyar </CARDINAL> w chwiya. ya3ni talab kan tal3 bzaaf 3la l3ard.
+had ra2y chakhsi w machi nasiha istitmar, w machi darori ywa9e3 kolchi b nisbat <CARDINAL> 100% </CARDINAL> , hit kaynin bzaaf dyal l3awamil li y9dro y2atro w yrf3o wla yhbto taman.
+kaynin charikat khorin dkhlou l <GOV> lborsa </GOV> w wa9e3 3lihom talab kbir, khossosan mn nnas f <GPE> dar lbayda </GPE> .
+bnisba l <ORG> Akdital </ORG> , kayn ihtimam kbir mn lmostatmirin.

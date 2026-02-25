@@ -1,0 +1,23 @@
+=== CHAT: المغرب: اتفاقية صناعة البطاريات الكهربائية ===
+
+[Assistant Response 1]:
+TAGGED TEXT (ARABIC)
+
+ف <GPE>المغرب</GPE> تم السنا على اتفاقية ديال صناعة البطاريات الكهربائية "<ORG>جيجا فاكتوري</ORG>". <DATE>هاد الصباح</DATE>، مباشرة بعد اجتماع <GOV_AGG>المجلس الحكومي</GOV_AGG>، تراس <PERSON_AGG>رئيس الحكومة</PERSON_AGG> <PERSON>عزيز أخنوش</PERSON_AGG> جلسة لتوقيع اتفاقية استثمارية استراتيجية كتهتم بإحداث وحدة صناعية ضخمة ب <GPE>بلادنا</GPE> لإنتاج بطاريات السيارات الكهربائية، بكلفة استثمارية كتوصل ل <CARDINAL>12.8 مليار</CARDINAL> درهم. هاد المشروع غادي يوفر <CARDINAL>17 ألف</CARDINAL> منصب شغل، منها <CARDINAL>2000</CARDINAL> منصب عالي الجودة و <CARDINAL>2800</CARDINAL> منصب شغل عالي الكفاءة.
+
+كاين تساؤلات على الرواتب، ولكن راه كاين فرق بين اليد العاملة المؤهلة والغير مؤهلة. ف <GPE>أوروبا</GPE> ولا <GPE>ميريكان</GPE> يقدر الواحد يشد <CARDINAL>1000</CARDINAL> <MONEY_AGG>دولار</MONEY_AGG> ولا <MONEY_AGG>أورو</MONEY_AGG>، ولكن غلاء المعيشة تما كيخليها بحال <CARDINAL>3000</CARDINAL> درهم ف <GPE>المغرب</GPE>. هاد الاستثمار غادي ينفع <GOV_AGG>الدولة</GOV_AGG> حيت الأرباح والرواتب كيدخلو بالعملة الصعبة (<LANGUAGE_AGG>الأورو</LANGUAGE_AGG> و <LANGUAGE_AGG>الدولار</LANGUAGE_AGG>)، وغادي يحرك شركات مغربية أخرى فمجال السيارات.
+
+هاد المصنع موجه بالأساس للتصدير ل <GPE>أوروبا</GPE> حيت القدرة الشرائية تما طالعة، وماشي غير للاستهلاك المحلي. <GPE>المغرب</GPE> غادي فتوجه ديال خفض تكلفة الطاقة باستعمال <LOC_AGG>البحر</LOC_AGG> و <LOC_AGG>الشمس</LOC_AGG> و <LOC_AGG>الرياح</LOC_AGG> وحتى <ORG_AGG>اليورانيوم</ORG_AGG>، باش ندوزو ل <EVENT_AGG>الطاقة النظيفة</EVENT_AGG>. هاد الاستثمارات كتاخد وقت وسنوات باش تبان النتيجة ديالها فالبنية التحتية.
+
+TAGGED TEXT (CLEAN ARABIZI)
+
+F <GPE>lmghrib</GPE> tm ssna ela itifaqiyat dyal sinaat lbataryat lkahrabaia "<ORG>giga factory</ORG>". <DATE>had ssbah</DATE> moubacharatan b3d ijtima3 <GOV_AGG>lmajlis lhokomi</GOV_AGG>, tras <PERSON_AGG>rais lhokoma</PERSON_AGG> jalsa ltawqee itifaqiya istithmaria istratijia kathtm b ihdat wahda sinaia dakhma b <GPE>bladna</GPE> lintaj bataryat ssayarat lkahrabaia, bkolfa istithmaria katwsal l <CARDINAL>12.8 mlyar</CARDINAL> drhm. Had lmachrou3 ghadi yuwfar <CARDINAL>17 alf</CARDINAL> mansib choghl, mnha <CARDINAL>2000</CARDINAL> mansib ali ljawda w <CARDINAL>2800</CARDINAL> mansib choghl ali lkafaa.
+
+Kayn tasawolat ela rrawatib, walakin rah kayn farq bin lyid l3amila lmoahala w lghayr moahala. F <GPE>europa</GPE> wla <GPE>mirikan</GPE> yqdr lwahid ychd <CARDINAL>1000</CARDINAL> <MONEY_AGG>dollar</MONEY_AGG> wla <MONEY_AGG>euro</MONEY_AGG>, walakin ghla lm3icha tma kikhlliha bhal <CARDINAL>3000</CARDINAL> drhm f <GPE>lmghrib</GPE>. Had l istithmar ghadi ynfa3 <GOV_AGG>ldawla</GOV_AGG> hit l arb7 w rrawatib kidkhlo b l3omla ssaba (<LANGUAGE_AGG>euro</LANGUAGE_AGG> w <LANGUAGE_AGG>dollar</LANGUAGE_AGG>), w ghadi yharrak charikat mghribia okhra f majal ssayarat.
+
+Had lmasna3 mowajjah b l اساس l ttasdir l <GPE>europa</GPE> hit lqodra chiraia tma tal3a, w machi ghir l istihlak lmahalli. <GPE>lmghrib</GPE> ghadi f tawajjoh dyal khafd tclifet ttaqa b isti3mal <LOC_AGG>lbahr</LOC_AGG> w <LOC_AGG>lchams</LOC_AGG> w <LOC_AGG>rryah</LOC_AGG> w hta <ORG_AGG>uranium</ORG_AGG>, bach ndouzo l <EVENT_AGG>ttaqa nnadifa</EVENT_AGG>. Had l istithmarat katakhd waqt w sanawat bach tban nnatija dyalha f lbinya ttahtia.
+
+Would you like me to extract a table of all the identified entities from this text?
+
+--------------------------------------
+

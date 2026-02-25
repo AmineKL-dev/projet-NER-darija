@@ -1,0 +1,23 @@
+=== CHAT: Moroccan Darija Inflation Data Analysis ===
+
+[Assistant Response 1]:
+TAGGED TEXT (ARABIC)
+
+ف <GPE>المغرب</GPE>، التوقعات كتقول بلي <EVENT_AGG>التضخم</EVENT_AGG> غادي يستقر في <CARDINAL>2.6%</CARDINAL> ف <DATE>2023</DATE>، وغادي يهبط للمستوى اللي كان فيه ما بين <DATE>2010</DATE> و <DATE>2020</DATE>. هاد الاستقرار كيرجع الحيوة كيف كانت قبل <EVENT_AGG>المرض</EVENT_AGG> وقبل المشاكل اللي دار <PERSON>بوتين</PERSON>. باش نفهموا هاد <EVENT_AGG>التضخم</EVENT_AGG>، خاص نعرفوا بلي كاين <CARDINAL>385</CARDINAL> منتوج و <CARDINAL>768</CARDINAL> ملاحظة كيتخدموا باش يتحسب. هاد المواد فيها الماكلة، الحوايج، والسفر اللي كيستهلكو <NORP>المغاربة</NORP>، وهي مختالفة على داكشي اللي كاين ف <GPE>أوروبا</GPE> ولا <GPE>ميريكان</GPE>. مثلا، الخبز عندو دور كبير ف <GPE>المغرب</GPE>، <GPE>مصر</GPE>، <GPE>تونس</GPE>، و <GPE>الجزائر</GPE>.
+
+ف <DATE>شهر يونيو</DATE>، <EVENT_AGG>التضخم</EVENT_AGG> نقص ب <CARDINAL>0.9%</CARDINAL> مقارنة ب <DATE>شهر ماي</DATE>، وهادشي بسباب انخفاض الاثمنة ديال المواد الغذائية بحال الحوت، الخضر، والفواكه. الخضر هبطات ب <CARDINAL>5.5%</CARDINAL>، اللحم ب <CARDINAL>4.3%</CARDINAL>، والفواكه ب <CARDINAL>3.5%</CARDINAL>، والحليب والبيض ب <CARDINAL>1%</CARDINAL>. هاد الهبوط جا بسباب <EVENT>العيد الكبير</EVENT>، حيت الناس ركزوا على الشري ديال الحولي ونقص الطلب على الحوت والدجاج. فالمقابل، المواد اللي غلات هي المياه المعدنية والمشروبات المنعشة ب <CARDINAL>1.3%</CARDINAL>، حيت كيكتر عليها الطلب فاش كيتزاد <EVENT_AGG>التوريزم</EVENT_AGG> وفالصيف.
+
+بالنسبة للمدن، <GPE>بني ملال</GPE> سجلات أكبر نزول ب <CARDINAL>2.2%</CARDINAL>، تابعاها <GPE>أسفي</GPE> ب <CARDINAL>2.1%</CARDINAL>، و <GPE>مكناس</GPE> و <GPE>الحسيمة</GPE> ب <CARDINAL>1.5%</CARDINAL>. ف <GPE>أكادير</GPE> و <GPE>الرباط</GPE>، الهبوط ما كانش كبير بزاف. ولكن على المستوى السنوي، <GPE>الحسيمة</GPE> و <GPE>وجدة</GPE> و <GPE>الرشيدية</GPE> ديما كيكون فيهم الثمن طالع بسباب البعد على بلايص الانتاج وتكاليف النقل والمازوت، عكس <GPE>الدار البيضاء</GPE> و <GPE>الرباط</GPE> اللي الاثمنة فيهم منخفضة شوية حيت الرواج كثير.
+
+TAGED TEXT (CLEAN ARABIZI)
+
+F <GPE>lmghrib</GPE>, tawaqo3at katgoul bli <EVENT_AGG>atadakhom</EVENT_AGG> ghadi ystaqar fi <CARDINAL>2.6%</CARDINAL> f <DATE>2023</DATE>, o ghadi yhbat llmostawa lli kan fih ma bin <DATE>2010</DATE> o <DATE>2020</DATE>. Had l'istiqrar kyrj3 lhayat kif kant qbal <EVENT_AGG>lmard</EVENT_AGG> o qbal lmachakil lli dar <PERSON>Putin</PERSON>. Bach nfahmo had <EVENT_AGG>atadakhom</EVENT_AGG>, khass n3arfo bli kayn <CARDINAL>385</CARDINAL> montouj o <CARDINAL>768</CARDINAL> molahada kytkhadmo bach yt7asab. Had lmowad fiha lmakla, lhwayj, o ssafar lli kystahelko <NORP>lmgharba</NORP>, o hiya mokhtalfa 3la dakchi lli kayn f <GPE>Europa</GPE> wala <GPE>Mirikan</GPE>. Matalan, lkhobz 3ando dwer kbir f <GPE>lmghrib</GPE>, <GPE>Misr</GPE>, <GPE>Tounis</GPE>, o <GPE>ljazair</GPE>.
+
+F <DATE>chhar younyou</DATE>, <EVENT_AGG>atadakhom</EVENT_AGG> nqas b <CARDINAL>0.9%</CARDINAL> moqarana b <DATE>chhar may</DATE>, o hadchi bsabab nkhifad l'atmina dyal lmowad lghidaiya bhal lhout, lkhodar, o lfawakih. Lkhodar hbtat b <CARDINAL>5.5%</CARDINAL>, llham b <CARDINAL>4.3%</CARDINAL>, o lfawakih b <CARDINAL>3.5%</CARDINAL>, o lhalib o lbayd b <CARDINAL>1%</CARDINAL>. Had lhoubout ja bsabab <EVENT>l3id lkbir</EVENT>, hit nnas rkzo 3la lchra dyal lhowli o nqas ttalab 3la lhout o ddjaj. Falmoqabil, lmowad lli ghlat hiya lmiyah lma3diniya o lmachroubat lmon3icha b <CARDINAL>1.3%</CARDINAL>, hit kykter 3liha ttalab fach kytzad <EVENT_AGG>atourizm</EVENT_AGG> o fssif.
+
+Bnissba l lmodon, <GPE>Beni Mellal</GPE> sfflat akbar nouzoul b <CARDINAL>2.2%</CARDINAL>, tab3aha <GPE>Safi</GPE> b <CARDINAL>2.1%</CARDINAL>, o <GPE>Meknes</GPE> o <GPE>Al Hoceima</GPE> b <CARDINAL>1.5%</CARDINAL>. F <GPE>Agadir</GPE> o <GPE>Rabat</GPE>, lhoubout ma kanch kbir bzaf. Walakin 3la lmostawa ssanawi, <GPE>Al Hoceima</GPE> o <GPE>Oujda</GPE> o <GPE>Errachidia</GPE> dima kykoun fihom tthaman tala3 bsabab lbou3d 3la blayss l'intaj o takalif nnaql o lmazot, 3aks <GPE>Ad-dar l-bayda</GPE> o <GPE>Rabat</GPE> lli l'atmina fihom monkhafida chwiya hit rrawaj ktir.
+
+Would you like me to extract a summary table of the inflation rates per city mentioned in this text?
+
+--------------------------------------
+

@@ -1,0 +1,27 @@
+=== CHAT: Moroccan Darija: Million Dirhams Spending ===
+
+[Assistant Response 1]:
+TAGGED TEXT (ARABIC)
+كانت نتائج <EVENT_AGG>التصويت</EVENT_AGG> حول واش <CARDINAL>مليون</CARDINAL> كافية للمعيشة في <GPE>المغرب</GPE>، يعني <CARDINAL>10 آلاف</CARDINAL> درهم، مبينة بلي الأغلبية كانت كتقول أه. ولكن النتيجة الواقعية بينت أن تقريبا <CARDINAL>57%</CARDINAL> قالوا كافية، بينما <CARDINAL>47%</CARDINAL> وآلاف الناس قالوا <CARDINAL>مليون</CARDINAL> ما قاداش في <GPE>المغرب</GPE>.
+
+المشكل الحقيقي هو أن الناس اللي كيشدو <CARDINAL>مليون</CARDINAL> أغلبهم كيغرقوها كريديات حيت <ORG>البنكة</ORG> كتعطيهم تسهيلات. الواحد كيبدا يشري ثلاجة وتلفازة كبيرة وكيغرق فكريدي كونسوماسيون وكيزيد طوموبيل باش يبان فمستوى عالي، وهكا كيتزادوا المصاريف وما كيبقى والو للتوفير أو الاستثمار.
+
+نورمالمون في <GPE>المغرب</GPE>، مصاريف السكن سواء طريطا ولا كراء ما خاصهاش تفوت <CARDINAL>3000</CARDINAL> درهم، وهاد المبلغ يجيب دار مزيانة فوق الاقتصادية. خاص الواحد يعرف فين كيمشيو فلوس <CARDINAL>مليون</CARDINAL>، حيت نورمالمون خاص تشيط منها على الأقل <CARDINAL>2000</CARDINAL> درهم فالشهر.
+
+الغريب هو المقارنة مع <GPE>ميريكان</GPE>، تما الراتب المتوسط يقدر يكون <CARDINAL>جوج د المليون</CARDINAL>، والمصاريف تما غالية بزاف، تقدر تكون <CARDINAL>5 مرات</CARDINAL> كثر من <GPE>المغرب</GPE> فالماكلة والعيش، ومع ذلك الناس عايشين. أما فالمغرب اللي الحياة رخيصة مقارنة بيهم، بنادم ما قاداشو <CARDINAL>مليون</CARDINAL>.
+
+نصيحة للناس اللي عاد غادي يخدمو، ما خاصش الواحد يرفع النيفو دالمصاريف دقة وحدة. من الأحسن الواحد يبقى ساكن فحي شعبي ويخبي الفلوس لوقت <EVENT_AGG>الطوارئ</EVENT_AGG>. المشكل فالمجتمع وحتى <PERSON_AGG>الوالدين</PERSON_AGG> ما كيعلموش ولادهم كيفاش يتعاملو مع الفلوس، والواحد ملي كيشد أول صالير كيبدا يصرف على <PERSON_AGG>العائلة</PERSON_AGG> والزواج والكراء بلا تخطيط. داكشي علاش خاص الواحد يتعلم الثقافة المالية من <MEDIA>الأنترنت</MEDIA> و <MEDIA>المواقع</MEDIA> باش يعرف يسير راسو.
+
+TAGGED TEXT (CLEAN ARABIZI)
+Kanet nataij <EVENT_AGG>taswit</EVENT_AGG> 7awl wach <CARDINAL>mlyoun</CARDINAL> kafya l lma3icha f <GPE>lmghrib</GPE>, ya3ni <CARDINAL>10 alaf</CARDINAL> derham, mbayna bli l2aghlabiya kanet katgoul ah. Walakin natija lwa9i3iya baynat anna ta9riban <CARDINAL>57%</CARDINAL> 9alo kafya, baynama <CARDINAL>47%</CARDINAL> wa alaf nas 9alo <CARDINAL>mlyoun</CARDINAL> ma9adach f <GPE>lmghrib</GPE>.
+
+Lmochkil l7a9i9i howa anna nas li kaychado <CARDINAL>mlyoun</CARDINAL> aghlabhom kayghar9oha creditat 7it <ORG>lbanka</ORG> kat3tihom tashilat. Lwa7ed kayabda ychri tellaja w telfaza kbira w kayghra9 f credit consommation w kayzid tomobile bach yban f mostawa 3ali, w haka kaytzado lmasarif w makayb9a walo l tawfir aw listitmar.
+
+Normalement f <GPE>lmghrib</GPE>, masarif sakan sawae traite wla kra makhashach tfout <CARDINAL>3000</CARDINAL> derham, w had lmablagh yjib dar mzyana fo9 li9tisadya. Khas lwa7ed ya3raf fin kaymchiw flous <CARDINAL>mlyoun</CARDINAL>, 7it normalement khas tchit mnha 3la l2a9al <CARDINAL>2000</CARDINAL> derham f chhar.
+
+Lgharib howa lmo9arana m3a <GPE>mirikan</GPE>, tema ratib lmotawasit y9dar ykon <CARDINAL>jouj d lmlyoun</CARDINAL>, w lmasarif tema ghalya bezaf, t9dar tkon <CARDINAL>5 marrat</CARDINAL> kter mn <GPE>lmghrib</GPE> f lmakla w l3aych, w m3a dalik nas 3aychin. Ama f lmghrib li l7ayat rkhisa mo9arana bihom, bnadem ma9adacho <CARDINAL>mlyoun</CARDINAL>.
+
+Nasi7a l nas li 3ad ghadi ykhdmo, makhassch lwa7ed yarfa3 niveau d lmasarif da9a wa7da. Mn l2a7san lwa7ed yb9a saken f 7ay cha3bi w ykhabi lflous l we9t <EVENT_AGG>tawari2</EVENT_AGG>. Lmochkil f lmojtama3 w 7ta <PERSON_AGG>lwalidin</PERSON_AGG> makay3almouch wladhom kifach yt3amlo m3a lflous, w lwa7ed mli kaychad awwal salaire kayabda ysarref 3la <PERSON_AGG>l3aila</PERSON_AGG> w zwaj w lkra bla takhtit. Dakchi 3lach khass lwa7ed yt3alam ta9afa lmaliya mn <MEDIA>internet</MEDIA> w <MEDIA>lmawa9i3</MEDIA> bach ya3raf ysayyer raso.
+
+--------------------------------------
+

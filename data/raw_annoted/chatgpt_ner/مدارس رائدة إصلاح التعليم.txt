@@ -1,0 +1,33 @@
+TAGGED TEXT (ARABIC)
+فـ <DATE> ماي 2023 </DATE> <GOV> وزارة التعليم </GOV> خرجات مذكرة وزارية كتقدم شكل جديد ديال المدرسة الابتدائية فـ <GPE> المغرب </GPE> . هاد الشكل تطبق تجريبيا فـ <CARDINAL> 626 </CARDINAL> مدرسة. ومن بعد فـ <DATE> فبراير 2024 </DATE> خرجات مذكرة جديدة باش يتوسع المشروع لـ <CARDINAL> 2000 </CARDINAL> مدرسة إضافية، وعلى أساس فـ <DATE> الموسم الدراسي 2027 2028 </DATE> يكون تعمم على جميع المدارس الابتدائية.
+هاد الطريقة تسمّات “المدارس الرائدة”. <GOV> الوزارة </GOV> كتقول باللي هاد المشروع إصلاح عميق فالمنظومة التعليمية. ولكن التجارب السابقة بحال نظام التعاقد خلّات بزاف ديال الناس متخوفين من أي إصلاح جديد.
+المدارس الرائدة مبنية على طريقة كتسمّى TARL يعني Teaching at the Right Level، يعني التعليم فالمستوى المناسب لقدرات التلميذ، ماشي حسب المستوى الدراسي ديالو ولكن حسب شنو كيعرف فعلا.
+هاد الفلسفة جاية من دراسات علمية على تطور دماغ الطفل. العالم الاقتصادي <PERSON> هيكمان </PERSON> اللي خدا <EVENT> جائزة نوبل </EVENT> فالاقتصاد ورّى فواحد المنحنى باللي الاستثمار فالتعليم المبكر كيكون العائد ديالو كبير بزاف مقارنة مع الاستثمار المتأخر. مثلا الاستثمار ما بين صفر و3 سنين كيقدر يرد حتى لـ 7 مرات القيمة ديالو، بينما من بعد كيكون أقل.
+الدراسات كتبرز باللي فـ 80% من نمو الدماغ كيوقع ما بين صفر وثلاث سنين. ومن بعد ما بين 3 و5 سنين الطفل كيكتسب الوظائف التنفيذية بحال التركيز، التنظيم، التخطيط وضبط المشاعر، وهما الأساس ديال التعلم المستقبلي.
+فـ <GPE> فرنسا </GPE> مثلا فـ <DATE> 1980 </DATE> كانو تقريبا 100% من الأطفال بعمر 4 سنين فالتعليم الأولي، بينما فـ <DATE> 2024 </DATE> فـ <GPE> المغرب </GPE> النسبة وصلت لـ 78%.
+باش يتحدد شنو خاص الطفل يعرف فكل سن، كاين تراكم ديال دراسات علمية كتحدد الكفاءات الأساسية فكل مرحلة. هاد الكفاءات كتدخل فالمنهاج الرسمي اللي كتخرجو <GOV> الوزارة </GOV> .
+ولكن النتائج فالميدان كانت ضعيفة. دراسة وطنية دارها <GOV> المجلس الأعلى للتربية والتكوين </GOV> فـ <DATE> 2019 </DATE> بيّنات باللي نسبة كبيرة من تلاميذ الابتدائي ما ضابطينش التعلمات الأساسية، وهاد الشي بان كذلك فمؤشرات الهدر المدرسي اللي وصل تقريباً لـ <CARDINAL> 300 ألف </CARDINAL> حالة، منهم حوالي <CARDINAL> 150 ألف </CARDINAL> فالإعدادي.
+المدارس الرائدة كتغيّر طريقة العمل. بدل ما يكون التقسيم حسب المستوى الدراسي فقط، كيتم دير واحد اختبار تشخيصي فبداية العام فالعربية والفرنسية والرياضيات، باش يتحدد المستوى الحقيقي لكل تلميذ. النتائج كتدخل فبرنامج <ORG> مسار </ORG> ديال <GOV> الوزارة </GOV> .
+من بعد كيتقسمو التلاميذ لمجموعات متجانسة حسب الكفاءات، حتى لو كانو من مستويات مختلفة. مثلا ممكن تلميذ فالسادس يقرا مع تلميذ فالرابع إذا كانو عندهم نفس المستوى فمادة معينة.
+هاد الطريقة كتطبق أساساً فالشهرين الأولين من السنة، ومن بعد اللي ما وصلش للمستوى المطلوب كيستافد من دعم داخل المدرسة.
+التقييم ما بقى معتمد على النقط التقليدية، ولكن على ثلاث مستويات: متحكم، متحكم نسبياً، وغير متحكم. الدروس كتدوز بطريقة التعليم الصريح: تحديد الكفاءة، النمذجة من طرف الأستاذ، ممارسة موجهة جماعية، ومن بعد ممارسة مستقلة فردية.
+المرحلة الأولى شملت <CARDINAL> 626 </CARDINAL> مدرسة بشكل تطوعي، وتم تجهيزها بالمعدات اللازمة.
+تقرير صادر عن مركز أبحاث <ORG> J-PAL </ORG> قيّم التجربة فـ <CARDINAL> 276 </CARDINAL> مدرسة، نصفهم رائدة ونصفهم عادية. النتائج بيّنات باللي التلميذ المتوسط فالمدرسة الرائدة حقق نتائج أحسن من 82% من تلاميذ المدارس العادية. نسبة الإجابات الصحيحة وصلت لـ 62% مقابل 44% فالمؤسسات العادية. التحسن كان أوضح فالفرنسية والرياضيات، وتأثيره كان أكبر عند التلاميذ ضعاف المستوى، وحتى البنات استفدو بنسبة أكبر شوية من الدراري.
+حالياً التجربة بدات كتتوسع حتى للإعدادي فـ <GPE> المغرب </GPE> ، وباقي كيبقى النقاش مفتوح واش هاد النموذج يقدر ينجح ويتعمم بشكل فعّال ولا لا.
+━━━━━━━━━━━━━━━━━━━━
+TAGGED TEXT (CLEAN ARABIZI)
+f <DATE> mai 2023 </DATE> <GOV> wizarat ta3lim </GOV> khrajat modakira wizariya kat9addem chkl jdid dyal lmadras lbtida2iya f <GPE> lmghrib </GPE> . had chkl ttaba9 tajribiyan f <CARDINAL> 626 </CARDINAL> madrasa. w men ba3d f <DATE> febrair 2024 </DATE> khrajat modakira jdida bach ytwas3 lmashro3 l <CARDINAL> 2000 </CARDINAL> madrasa idafiya, w 3la asas f <DATE> lmoussem dirasi 2027 2028 </DATE> ytkemmam 3la jami3 lmadaris lbtida2iya.
+had tari9a tssmat "lmadaris rra2ida". <GOV> lwizara </GOV> kat9ol belli had lmashro3 isla7 3ami9 f lmanzoma ta3limiya. walakin tajarib sab9a b7al nizam ta3a9od khalat bzaf dyal ناس mtakhofin men ay isla7 jdid.
+lmadaris rra2ida mabniya 3la tari9a katsmma TARL yani Teaching at the Right Level, yani ta3lim f mostawa lmonasib l9odorat ttilmid, machi 7asab mostawa dirasi dyalo walakin 7asab chno kay3raf fa3lan.
+had lfalsafa jaya men dirasat 3ilmiya 3la tatawor dmagh ttefl. l3alim li9tisadi <PERSON> Hikman </PERSON> lli khda <EVENT> ja2izat nobel </EVENT> f li9tisad wra f wa7d lmon7ana belli listitmar f ta3lim lmobakkir kaykon l3a2id dyalo kbir bzaf. listitmar ma bin 0 w 3 snin y9dar yred 7 mrat l9ima dyalo, w men ba3d kaykon a9al.
+dirasat katbayan belli 80% men nomo dmagh kaywa9a ma bin 0 w 3 snin. w ma bin 3 w 5 snin ttefl kayktasab lwada2if tannfidhiya b7al tarkiz w tandim w takhtit w dabt lmacha3ir.
+f <GPE> fransa </GPE> f <DATE> 1980 </DATE> kanou 100% men latfal 3andhom 4 snin f ta3lim lwali, w f <DATE> 2024 </DATE> f <GPE> lmghrib </GPE> nwslo l 78%.
+lmo9arrarat rasmiya katkhroj men <GOV> lwizara </GOV> 3la asas had dirasat.
+dirasa wataniya darha <GOV> lmajlis la3la ltarbiya w takwin </GOV> f <DATE> 2019 </DATE> bayanat belli bzaf dyal tlamid ma dabtinch ta3alomat asasya, w lhadar lmadarasi wasal ta9riban l <CARDINAL> 300 alf </CARDINAL> menhom <CARDINAL> 150 alf </CARDINAL> f l2i3dadi.
+f lmadaris rra2ida kaydirou test tachkhisi f lbidaya f l3arabiya w lfransiya w riyadiyat, w natayij katdkhol f <ORG> Massar </ORG> dyal <GOV> lwizara </GOV> .
+men ba3d kayt9ssmo tlamid lgrupat motajanisa 7asab lkafa2at, 7tta ila kanou men mostawayat mokhtalifa.
+ttatbi9 kaykon f chahrin lwlin, w lli ma wasalch kaystafed men da3m dakhil lmadras.
+t9yim mab9ach bnni 3la no9at walakin 3la 3 mostawayat: mota7akkim, mota7akkim nisbian, w ghayr mota7akkim. doros katdoz b tari9at ta3lim sari7.
+lmarhala lwla chmlat <CARDINAL> 626 </CARDINAL> madrasa bchkl tatawo3i w tجهzat b lmo3addat.
+ta9rir sader 3an markaz ab7at <ORG> J-PAL </ORG> 9ayyem tajriba f <CARDINAL> 276 </CARDINAL> madrasa. ttilmid lmotawassit f lmadras rra2ida 7a9a9 nata2ij 7sen men 82% men tlamid lmadaris l3adiya. nisbat lijabat s7i7a wslt l 62% mo9abil 44%. tta7asson kan akbar f lfransiya w riyadiyat, w tta2tir kan akbar 3la tlamid do3af, w lbnat استفدو chwiya aktar men ddrari.
+daba tajriba badat katetwssa3 7tta l2i3dadi f <GPE> lmghrib </GPE> , w ba9i lni9ach maftou7 wach had namodaj y9dar ynja7 wla la.

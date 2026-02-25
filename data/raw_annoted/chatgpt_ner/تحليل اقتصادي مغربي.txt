@@ -1,0 +1,22 @@
+TAGGED TEXT (ARABIC)
+فـ <DATE> امبارح </DATE> فواحد الاستماع دارو <PERSON_AGG>والي</PERSON_AGG> <ORG> بنك المغرب </ORG> وقرر يرفع الفائدة بـ <PERCENT> 5% </PERCENT> . كانو بزاف ديال الأسئلة على <GPE> المغرب </GPE> وعلى <LOC> الدرهم </LOC> ، وكاين معطيات جديدة على المستقبل من ناحية ليكونومي.
+المعطيات كتبيّن باللي فالـ <LOC> العالم </LOC> خصوصاً فـ <GPE> أوروبا </GPE> ، بزاف ديال العملات نقصات قيمتها مقارنة مع الدولار، ولكن فـ <GPE> المغرب </GPE> ما كانش الانخفاض كبير. هاد الشي كان هو السؤال <ORDINAL> الأول </ORDINAL> .
+السؤال <ORDINAL> الثاني </ORDINAL> كان على التعويم: واش كاين شي جديد؟ واش تعويم الدرهم باقي غير مرتبط بـ <DATE> 2028 </DATE> ؟ واش غادي يوقع ولا لا فـ <GPE> المغرب </GPE> ؟
+إلى شفنا بعض الدول اللي فقدات العملة ديالها القيمة ديالها بزاف، بحال <GPE> تركيا </GPE> ، <GPE> تونس </GPE> ، <GPE> مصر </GPE> ، بعض دول <LOC> إفريقيا </LOC> ، <GPE> لبنان </GPE> و< GPE>الأرجنتين </GPE> ، كنلقاو بلي كاين قواسم مشتركة بينهم.
+فـ <GPE> تركيا </GPE> ، <PERSON_AGG>الرئيس</PERSON_AGG> تدخل فـ السياسة النقدية وخفّض سعر الفائدة، وهاد الشي خلا المستثمرين يخافو على فلوسهم ويبداو يخرّجوها من <GPE> تركيا </GPE> ويهربو من الليرة التركية.
+فـ <GPE> مصر </GPE> و< GPE>لبنان </GPE> حتى هما عندهم مشاكل مالية وبنكية. فـ <GPE> لبنان </GPE> المشكل ماشي <EVENT_AGG>حرب</EVENT_AGG> ولكن صراعات وأحزاب داخلية، والثقة فالاقتصاد ضعفات.
+هاد الدول اللي كتكون فيهم مشاكل سياسية وعدم استقرار، كتأثر مباشرة على العملة ديالهم.
+أما فـ <GPE> المغرب </GPE> ، كاين استقرار أمني، وهاد الشي عنصر مهم. الحاجة <ORDINAL> الثالثة </ORDINAL> هي الثقة، ماشي غير فـ <LOC> الدرهم </LOC> ولكن فـ الاقتصاد المغربي كامل.
+المغاربة ما كيستعملوش الدولار فالمعاملات اليومية، وكاين توازن بين القطاع الخاص والقطاع العمومي بحال السبيطارات والكلينيكات، وهاد الشي كيخفف الضغط على الدولة. زائد الإصلاحات اللي دارت <GPE> المغرب </GPE> كاملين كيساهمو باش <LOC> الدرهم </LOC> يبقى مستقر مقارنة مع دول أخرى.
+بالنسبة للسؤال <ORDINAL> الثاني </ORDINAL> على التعويم، الفكرة ديال <DATE> 2028 </DATE> ما بقاتش مطروحة بنفس الطريقة، حيث التوجه هو يكون كلشي مبني على قوة الاقتصاد. هاد الشي كيبقى إيجابي بالنسبة لـ <LOC> الدرهم </LOC> .
+TAGGED TEXT (CLEAN ARABIZI)
+f <DATE> mbar7 </DATE> f wa7d l istima3 daro <PERSON_AGG>wali</PERSON_AGG> <ORG> Bank Al Maghrib </ORG> w qarrar yref3 lfayda b <PERCENT> 5% </PERCENT> . kano bzaaf dyal l as2ila 3la <GPE> lmghrib </GPE> w 3la <LOC> ddrham </LOC> , w kayn mo3tiyat jdida 3la lmostaqbal mn na7iyat l ikonomi.
+lmo3tiyat katbayn belli f <LOC> l3alam </LOC> khasan f <GPE> Oruba </GPE> , bzaaf dyal l3omlat nqso qimt-hom mqarnin m3a dollar, walakin f <GPE> lmghrib </GPE> ma kanch l inkhifad kbir. hadchi kan howa soal <ORDINAL> lowel </ORDINAL> .
+soal <ORDINAL> ttani </ORDINAL> kan 3la t3wim: wash kayn chi jdid? wash t3wim ddrham baqi ghir mratbit b <DATE> 2028 </DATE> ? wash ghadi ywa9e3 wla la f <GPE> lmghrib </GPE> ?
+ila chfna ba3d dowal li f9dat l3omla dyalhom lqima bzaaf, b7al <GPE> Turkia </GPE> , <GPE> Tounes </GPE> , <GPE> Misr </GPE> , ba3d dowal <LOC> Ifri9ia </LOC> , <GPE> Lebnan </GPE> w <GPE> lArjantin </GPE> , kanl9aw belli kayn qawasim moshtaraka binathom.
+f <GPE> Turkia </GPE> , <PERSON_AGG>rais</PERSON_AGG> tdkhal f siyasa na9diya w khfadd se3r lfayda, w hadchi khlla lmostatmirin ykhafo 3la floshom w ybda ykhrjoha mn <GPE> Turkia </GPE> w yhrbo mn lira torkiya.
+f <GPE> Misr </GPE> w <GPE> Lebnan </GPE> 7tta homa 3ndhom moshakil maliya w bankiya. f <GPE> Lebnan </GPE> lmouchkil machi <EVENT_AGG>7arb</EVENT_AGG> walakin sira3at w a7zab dakhiliya, w ti9a f l i9tisad d3fat.
+had dowal li kaykon fihom moshakil siyasiya w 3adam isti9rar, kat2atar mobachara 3la l3omla dyalhom.
+ama f <GPE> lmghrib </GPE> , kayn isti9rar amni, w hadchi 3onsor mohim. l7aja <ORDINAL> ttalta </ORDINAL> hiya ti9a, machi ghir f <LOC> ddrham </LOC> walakin f l i9tisad lmaghribi kaml.
+lmgharba ma kayst3mloch dollar f lmo3amalat lyaomiya, w kayn tawazon bin l9ita3 lkhass w l9ita3 l3am b7al sbitarat w klinikat, w hadchi kaykhafaf ddaght 3la dawla. zayd l islahat li dart <GPE> lmghrib </GPE> kamlin kay3awno bach <LOC> ddrham </LOC> يب9a mosta9er mqarn m3a dowal okhra.
+bennisba l soal <ORDINAL> ttani </ORDINAL> 3la t3wim, lfekra dyal <DATE> 2028 </DATE> ma b9atch matro7a b nafs tari9a, 7it ttawajoh howa ykoun kolchi mabni 3la 9owat l i9tisad. hadchi kayb9a ijabi bennisba l <LOC> ddrham </LOC> .

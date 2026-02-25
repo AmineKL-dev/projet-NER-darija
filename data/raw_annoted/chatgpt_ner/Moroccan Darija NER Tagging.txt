@@ -1,0 +1,14 @@
+TAGGED TEXT (ARABIC)
+فـ <GPE> أمريكا </GPE> كاينين <CARDINAL> 38 مليون </CARDINAL> واحد عايشين تحت عتبة الفقر، وكاين تقريباً <CARDINAL> 100 مليون </CARDINAL> قريبين لهاد العتبة. كل نهار كيزادو حوالي <CARDINAL> 1700 </CARDINAL> واحد وكيولّيو مليونيرات. فـ <CARDINAL> 21 مليون </CARDINAL> من السكان فـ <GPE> أمريكا </GPE> الوضعية الاقتصادية ماشي مضمونة للجميع، حيت النمو الاقتصادي ما كيضمنش الرفاه لكلشي.
+اللي طاح فعتبة الفقر صعيب يطلع منها. الفرق بين <GPE> أمريكا </GPE> وبلاد أخرى هو أن بزاف ديال الناس كيقلبو غير على الفلوس وكيطلبو الدعم باش يعيشو.
+كاينين ناس كيقراو وكيشدّو الليسانس وكيدوزو مباريات ديال الوظيفة العمومية، وإذا دازو من مباريات ديال جميع الوزارات كيولّيو مستقرين حيث عندهم خدمة قارة مع <GOV_AGG>الدولة</GOV_AGG>.
+من بعد وفاة <PERSON> الحسن الثاني </PERSON> فـ <DATE> 2000 </DATE> وجا <PERSON> محمد السادس </PERSON> تبدلات التوجهات وولات كتركز أكثر على الاقتصاد.
+كاينين ناس خدامين فـ <MEDIA> يوتيوب </MEDIA> ، كيديرو محتوى وخدامين فمجالات بحال الاي كوميرس لوكال، وكاين اللي خدام أونلاين فالدزاين مع شركات أخرى.
+فـ <GPE> أمريكا </GPE> كانت كاينة عقلية اشتراكية حتى لـ <DATE> 1998 </DATE> .
+TAGGED TEXT (CLEAN ARABIZI)
+F <GPE> Amrika </GPE> kaynin <CARDINAL> 38 million </CARDINAL> wahed 3aychin taht 3atabat lfa9r, w kayn ta9riban <CARDINAL> 100 million </CARDINAL> 9ribin lhad l3ataba. Kol nhar kayzado 7doud <CARDINAL> 1700 </CARDINAL> wahed w kaywlliw millionaires. F <CARDINAL> 21 million </CARDINAL> mn sskan f <GPE> Amrika </GPE> lwad3iya li9tisadiya machi mdmona ljami3, hit nnomo li9tisadi ma kaydmanch rrafa7 lkoulchi.
+Li ta7 f 3atabat lfa9r s3ib ytl3 mnha. Lfar9 bin <GPE> Amrika </GPE> w blad okhra howa belli bzzaf dnnas kay9albo ghir 3la lflous w kaytlbo dda3m باش y3icho.
+Kaynin ناس kay9raw w kaychddo llisans w kaydozo mobarat dyal lwadifa l3omomiya, w ila dazo mn mobarat dyal jami3 lwizarat kaywlliw mosta9rrin hit 3andhom khdma 9ara m3a <GOV_AGG>dawla</GOV_AGG>.
+Mn b3d wfat <PERSON> Hassan Tani </PERSON> f <DATE> 2000 </DATE> w ja <PERSON> Mohammed Sads </PERSON> tbddlat ttawajohat w wlat katkarkez aktar 3la li9tisad.
+Kaynin ناس khdamin f <MEDIA> YouTube </MEDIA> , kaydiro mohtawa w khdamin f majalat bhal ecommerce local, w kayn li khdam online f design m3a charikat okhra.
+F <GPE> Amrika </GPE> kant kayna 3a9liya ichtirakiya 7tta l <DATE> 1998 </DATE> .

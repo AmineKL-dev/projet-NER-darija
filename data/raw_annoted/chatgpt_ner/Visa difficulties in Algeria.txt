@@ -1,0 +1,6 @@
+TAGGED TEXT (ARABIC)
+على بالك <GPE> الجزائر </GPE> من أصعب الفيزات فالعالم، حيث هي من أكثر الدول فالعالم تشدّد فإجراءات دخول الأجانب لأراضيها وكترفض تقريباً <CARDINAL> 90 </CARDINAL> فالمية من الطلبات. وباش تقدّم فيزا لـ <GPE> الجزائر </GPE> خاص يكون عندك فيها كفيل ومجموعة ديال الأوراق خرين، وهاد الشي كيخلي السياحة فـ <GPE> الجزائر </GPE> شبه منعدمة.
+السؤال اللي كيتطرح هو علاش كاين غياب فالمجال ديال السياحة. كاينين دول بحال <GPE> أستراليا </GPE> ودول <LOC> الخليج </LOC> عامرين بالسياحة وفيهم حركة كبيرة، ولكن فـ <GPE> الجزائر </GPE> الوضع مختلف.
+TAGGED TEXT (CLEAN ARABIZI)
+3la balek <GPE> ljazair </GPE> men as3ab lvisa f l3alam, hit hiya men aktar dowal f l3alam tchaddod f ijra2at dokhol l2ajanib l2aradiha w katrefed ta9riban <CARDINAL> 90 </CARDINAL> f lmiya men talabate. W bash t9addem visa l <GPE> ljazair </GPE> khas ykoun 3andek fiha kafil w majmou3a dyal l2awra9 khrin, w had chi kaykhlli siyaha f <GPE> ljazair </GPE> chibh mon3adima.
+So2al li kayttra7 howa 3lash kayn ghiyab f lmajjal dyal siyaha. Kaynin dowal b7al <GPE> ostralia </GPE> w dowal <LOC> lkhaleej </LOC> 3amrin b siyaha w fihom 7araka kbira, walakin f <GPE> ljazair </GPE> lwad3 mokhtalef.

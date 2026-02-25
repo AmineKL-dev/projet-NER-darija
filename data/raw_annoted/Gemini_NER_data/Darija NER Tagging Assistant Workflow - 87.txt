@@ -1,0 +1,22 @@
+=== CHAT: Darija NER Tagging Assistant Workflow ===
+
+[Assistant Response 1]:
+TAGGED TEXT (ARABIC)
+أحسن طريقة باش تعرفو <ORG>شركة</ORG> واش <LAW>حلال</LAW> ولا <LAW>حرام</LAW> ف <LOC>البورصة الميريكانية</LOC> قبل ما تشريو.
+
+TAGGED TEXT (CLEAN ARABIZI)
+Ahsan tariqa bach t3erfo <ORG>charika</ORG> wach <LAW>halal</LAW> wla <LAW>hram</LAW> f <LOC>lborsa lmirikania</LOC> qbel ma tchriw.
+
+Would you like me to process another text or perhaps focus on specific entity types for a larger dataset?
+
+--------------------------------------
+
+[Assistant Response 2]:
+TAGGED TEXT (ARABIC)
+<ORG>صندوق النقد الدولي</ORG> كيركز على أن <NORP_AGG>الدول</NORP_AGG> تبقى تابعة ليه بالكريديات. <GPE>المغرب</GPE> كيشوف هاد <ORG>المؤسسة</ORG> بحال الشبح اللي غادي يغرق البلاد. في <DATE>الاسبوع اللي داز</DATE>، <PERSON_AGG>الرئيس</PERSON_AGG> ديال <ORG>الفيدرالي</ORG> <PERSON>جيروم باول</PERSON_AGG> حضر في <GOV>الكونغرس</GOV> باش يجاوب على أسئلة <NORP_AGG>السياسيين</NORP_AGG> في <GPE>ميريكان</GPE> حول <LAW>السياسة النقدية</LAW>. كاين تخوف إلا ترفع <EVENT_AGG>سعر الفائدة</EVENT_AGG> يضيعوا <CARDINAL>2 مليون</CARDINAL> ديال <NORP>الامريكان</NORP> في خدمتهوم، ولكن <ORG>البنك المركزي</ORG> كيشوف بلي هاد القرار هو الحل الوحيد باش يهبط <EVENT_AGG>التضخم</EVENT_AGG> ويحمي <EVENT_AGG>الاقتصاد الوطني</EVENT_AGG>. ما بين <DATE>2010</DATE> و <DATE>2020</DATE> كانت <EVENT_AGG>فرصة كبيرة</EVENT_AGG> في <GPE>امريكا</GPE> حيت <EVENT_AGG>سعر الفائدة</EVENT_AGG> كان هابط، والناس شرات <LOC>العقار</LOC>. <ORG>صندوق النقد الدولي</ORG> كيفرض شروط قاصحة بحال تحييد <GOV>صندوق المقاصة</GOV> ودعم المواد الأولية باش توفر <GOV_AGG>الدولة</GOV_AGG> فلوس <EVENT_AGG>الميزانية</EVENT_AGG> وتستثمر في <LOC>البنية التحتية</LOC>. كاين عاوتاني <EVENT_AGG>الخوصصة</EVENT_AGG> ديال <ORG_AGG>الشركات العمومية</ORG_AGG> باش تولي فعالة كتر وتدخل الضرائب. والشرط اللي كيخلع <NORP>المغاربة</NORP> هو <LAW>تعويم الدرهم</LAW>، اللي كيخلي <EVENT_AGG>العرض والطلب</EVENT_AGG> هو اللي كيتحكم في <CARDINAL>القيمة</CARDINAL> ديال <LANGUAGE>الدرهم</LANGUAGE> مقابل <LANGUAGE>الدولار</LANGUAGE> و <LANGUAGE>الاورو</LANGUAGE>. هاد <EVENT_AGG>التحول الاقتصادي</EVENT_AGG> غادي يزير الجيب ديال <NORP>المغاربة</NORP> واحد <DATE>عشر سنين</DATE> ولا <DATE>عشرين عام</DATE>، وهادشي كيرفضوه <NORP_AGG>الاشتراكيين</NORP_AGG> اللي ضد <LAW>الراسمالية</LAW>. واش خاصنا نوقفو مع <EVENT_AGG>الاقتصاد الوطني</EVENT_AGG> ومستقبل <NORP_AGG>الوليدات</NORP_AGG> ولا نحافظو على المعيشة ديال دابا؟
+
+TAGGED TEXT (CLEAN ARABIZI)
+<ORG>Sandouk lnaqd ad-dawli</ORG> kayrkkaz ela an <NORP_AGG>dowal</NORP_AGG> tbqa tabea lih b lkridiyat. <GPE>lmghrib</GPE> kiychouf had <ORG>lmousasa</ORG> bhal lchebh lli ghadi yghrraq lblad. f <DATE>lasboue lli daz</DATE>, <PERSON_AGG>rrais</PERSON_AGG> dyal <ORG>lfidirali</ORG> <PERSON>Jerome Powell</PERSON_AGG> hdar f <GOV>lcongres</GOV> bach yjawb ela asila dyal <NORP_AGG>lsiyasiyin</NORP_AGG> f <GPE>mirican</GPE> hwl <LAW>lsiyasa lnaqdiya</LAW>. kayn tkhwwof ila trefae <EVENT_AGG>saer lfaida</EVENT_AGG> ydieou <CARDINAL>2 mlyoun</CARDINAL> dyal <NORP>lamrican</NORP> f khdmthom, walakin <ORG>lbank lmarkazi</ORG> kiychouf bli had lqarar houwa lhall lwahid bach yhabbat <EVENT_AGG>ttadakhoum</EVENT_AGG> wyhmi <EVENT_AGG>liqtisad lwatani</EVENT_AGG>. ma bin <DATE>2010</DATE> w <DATE>2020</DATE> kant <EVENT_AGG>forsa kbira</EVENT_AGG> f <GPE>amrica</GPE> hit <EVENT_AGG>saer lfaida</EVENT_AGG> kan habt, wlounas chrat <LOC>leaqar</LOC>. <ORG>sandouk lnaqd ad-dawli</ORG> kiyfrad chorout qasha bhal thiyad <GOV>sandouk lmaqasa</GOV> wdaem lmawad l-awwaliya bach towffar <GOV_AGG>ldawla</GOV_AGG> flous <EVENT_AGG>lmizaniya</EVENT_AGG> wtstathmar f <LOC>lbinya ltahtiya</LOC>. kayn eawtani <EVENT_AGG>lkhousasa</EVENT_AGG> dyal <ORG_AGG>lcharikat leomomiya</ORG_AGG> bach twli feala ktar wtdkhl ddarayib. wlchart lli kiykhlle3 <NORP>lmgharba</NORP> houwa <LAW>taewim ldirham</LAW>, lli kiykhlli <EVENT_AGG>leard wa ttalab</EVENT_AGG> houwa lli kiythkkam f <CARDINAL>lqima</CARDINAL> dyal <LANGUAGE>ldirham</LANGUAGE> moqabil <LANGUAGE>ldollar</LANGUAGE> w <LANGUAGE>leuro</LANGUAGE>. had <EVENT_AGG>ltahawoul liqtisadi</EVENT_AGG> ghadi yziyyr ljib dyal <NORP>lmgharba</NORP> wahd <DATE>echr snin</DATE> wla <DATE>echrin eam</DATE>, whadchi kiyrfdouh <NORP_AGG>lichtirakiyin</NORP_AGG> lli dodd <LAW>lrasmaliya</LAW>. wach khassna nwaqfou me <EVENT_AGG>liqtisad lwatani</EVENT_AGG> wmostaqbal <NORP_AGG>loulidat</NORP_AGG> wla nhafdou ela lmeicha dyal daba?
+
+--------------------------------------
+

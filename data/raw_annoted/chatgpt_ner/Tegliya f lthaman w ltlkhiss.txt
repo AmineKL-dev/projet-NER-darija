@@ -1,0 +1,48 @@
+TAGGED TEXT (ARABIC)
+فـ <GPE> المغرب </GPE> الثمن ما بغاوش يهبطو.
+كاينة معادلة بسيطة مبنية على العرض والطلب، والعرض والطلب هوما اللي كيحددو الثمن فالسواق.
+فاش كيكون العرض كبير، يعني بزاف ديال الناس باغيين يبيعو شي برودوي، والثمن كيهبط.
+وفاش كيكون الطلب كبير وبزاف باغيين يشريو وناس اللي باغيين يبيعو قلال، الثمن كيطلع.
+هاد الشي هو قانون العرض والطلب اللي مبني عليه ليكونومي كاملة.
+مثلا هاد مطيشة كتدير <CARDINAL> 13 </CARDINAL> درهم، وكانت قبل كتدير <CARDINAL> 2 </CARDINAL> دراهم ولا <CARDINAL> 5 </CARDINAL> دراهم.
+إلى بقات مدة طويلة وما تباعتش غادي تخسر، وهاد الشي خاصو يخلي الفلاح ينقص الثمن.
+ولكن السؤال هو علاش مطيشة ما هبطاتش رغم أن المنطق كيقول خاصها تهبط؟
+كاين مثال ديال واحد <PERSON> سيد </PERSON> ، كان كيشري <CARDINAL> 5 </CARDINAL> خبزات وكيشري اللحم مرة فالسيمانة.
+منين طلع الثمن ديال الخبز بـ <CARDINAL> 50 </CARDINAL> فالمية، ما نقصش فالخبز، بالعكس ولا كيشري <CARDINAL> 6 </CARDINAL> خبزات باش يشبع، واللحم ولى غير مرة فكل جوج سيمانات.
+هنا الطلب ما نقصش على الحوايج الأساسية، وهاد الشي كيخلي الثمن يبقى طالع.
+دابا باش نفهمو علاش التضخم ما كيهبطش، خاصنا نشوفو <CARDINAL> 3 </CARDINAL> ديال الأنواع ديال التضخم.
+النوع الأول هو التضخم اللي فيه تقلبات، كيطلع وكيهبط.
+مثلا البترول والمازوط، يقدرو يوصلو لـ <CARDINAL> 16 </CARDINAL> درهم ويهبطو حتى لـ <CARDINAL> 8 </CARDINAL> دراهم.
+إلى كان الطلب قليل والمنتوج متوفر بزاف، الثمن يقدر يهبط حتى لـ <CARDINAL> 2 </CARDINAL> دراهم.
+ولكن إلا تزادت المصاريف ولا تكزمو الثمن، كيعاود يرجع يطلع.
+مثال آخر هو الكارت سيم ديال التليفون.
+فالأول كانت كتدير <CARDINAL> 5000 </CARDINAL> ريال، ومن بعد ولات <CARDINAL> 3000 </CARDINAL> ريال يعني <CARDINAL> 150 </CARDINAL> درهم.
+دابا تقدر تشريها بـ <CARDINAL> 10 </CARDINAL> ولا <CARDINAL> 15 </CARDINAL> درهم، وشي مرات كتتعطى فابور.
+هنا الثمن ما طلعش، بالعكس هبط بزاف.
+حتى التليفونات، اللي كان قبل كيدير <CARDINAL> 10000 </CARDINAL> ريال ولا <CARDINAL> 500 </CARDINAL> حتى <CARDINAL> 1000 </CARDINAL> درهم وما فيه حتى شي خدمة،
+دابا بـ <CARDINAL> 1000 </CARDINAL> درهم فيه جميع الخدمات.
+هنا الثمن مقارنة مع الكاليتي هبط، وهاد الحالة كتسمى ديفليشن ماشي تضخم.
+TAGGED TEXT (CLEAN ARABIZI)
+f <GPE> lmghrib </GPE> taman ma bghawch yhbto.
+kayna mo3adala bsita mbniya 3la l3ard w talab, w l3ard w talab homa li kayhddo taman f swa9.
+fach kaykon l3ard kbir, ya3ni bzzaf dyal nas baghyin ybi3o chi produi, taman kayhbat.
+w fach kaykon talab kbir w bzzaf baghyin ychriw w nas li baghyin ybi3o 9lal, taman kaytla3.
+had chi howa 9anon l3ard w talab li mbni 3lih likonomi كاملة.
+matlan had maticha katdir <CARDINAL> 13 </CARDINAL> drham, w kanet 9bel katdir <CARDINAL> 2 </CARDINAL> drahem wla <CARDINAL> 5 </CARDINAL> drahem.
+ila b9at moda twila w ma tb3atch ghadi tkhsar, w had chi khaso ykhlli lfallah yn9es taman.
+walakin so2al howa 3lach maticha ma hbatatch rghm an lmantik kaygol khas'ha thbat?
+kayen mital dyal wahed <PERSON> sid </PERSON> , kan kaychri <CARDINAL> 5 </CARDINAL> khbzat w kaychri l7em merra f simana.
+mlli tla3 taman dyal khobz b <CARDINAL> 50 </CARDINAL> f lmiya, ma n9esch f khobz, b l3aks wlla kaychri <CARDINAL> 6 </CARDINAL> khbzat bach ychba3, w l7em wlla ghir merra f kol joj simanat.
+hna talab ma n9esch 3la l7wayej l2asasiya, w had chi kaykhlli taman yb9a tal3.
+daba bach nfahmo 3lach tadakhom ma kayhbatch, khasna nchoufo <CARDINAL> 3 </CARDINAL> dyal lanwa3 dyal tadakhom.
+naw3 l2awal howa tadakhom li fih ta9alobat, kaytla3 w kayhbat.
+matlan lpetrol w lmazot, y9dro ywslo l <CARDINAL> 16 </CARDINAL> drham w yhbto htta l <CARDINAL> 8 </CARDINAL> drahem.
+ila kan talab 9lil w lmontoj motawfer bzzaf, taman y9dar yhbath htta l <CARDINAL> 2 </CARDINAL> drahem.
+walakin ila tzadat lmasarif wla t9ezmo taman, kay3awd yarja3 ytal3.
+mital akhor howa kart sim dyal tilifon.
+f l2awal kanet katdir <CARDINAL> 5000 </CARDINAL> rial, w mn ba3d wlat <CARDINAL> 3000 </CARDINAL> rial ya3ni <CARDINAL> 150 </CARDINAL> drham.
+daba t9dar tchriha b <CARDINAL> 10 </CARDINAL> wla <CARDINAL> 15 </CARDINAL> drham, w chi mrat katet3ta fabor.
+hna taman ma tla3ch, b l3aks hbat bzzaf.
+hta tilifonat, li kan 9bel kaydir <CARDINAL> 10000 </CARDINAL> rial wla <CARDINAL> 500 </CARDINAL> htta <CARDINAL> 1000 </CARDINAL> drham w ma fih htta chi khadma,
+daba b <CARDINAL> 1000 </CARDINAL> drham fih jami3 lkhadamat.
+hna taman mo9arana m3a lkality hbat, w had lhala katsamma diflishn machi tadakhom.

@@ -1,0 +1,11 @@
+=== CHAT: Moroccan Darija NER Tagging Assistant ===
+
+[Assistant Response 1]:
+TAGGED TEXT (ARABIC)
+كاين واحد <EVENT_AGG>الانتعاش</EVENT_AGG> اقتصادي ولكن حتى واحد ما هضر عليه. هاد <CARDINAL>الأرقام</CARDINAL> ضرورية باش الواحد يدخل الفلوس ويحمي راسو من <EVENT_AGG>لانفلاسيون</EVENT_AGG> و <EVENT_AGG>الأزمات الاقتصادية</EVENT_AGG>. كاين <CARDINAL>5</CARDINAL> ديال الحوايج مهمة حركات <EVENT_AGG>الاقتصاد</EVENT_AGG> <NORP>المغربي</NORP> مؤخرا، وأول حاجة هي الدولار. <PERSON_AGG>الخبراء</PERSON_AGG> فالمجال الاقتصادي كانو كيقولو بلي <GPE>المغرب</GPE> ما غاديش يرجع للأرقام ديال السياحة د <DATE>2019</DATE> حتى دوز <DATE>10 سنين</DATE> أو <DATE>5 سنين</DATE> على حساب الوضع. ولكن حاليا مورا ما قربنا نكملو <DATE>3 سنين</DATE>، وصلنا لنسبة <CARDINAL>91%</CARDINAL> وهادا رقم كبير مقارنة مع <DATE>2020</DATE>. من غير الدولار والبترول، الفوز ديال <ORG>المنتخب</ORG> عاون بزاف باش تطلع ثقة الأسر فالربع الرابع. ومورا <EVENT_AGG>المشاكل الصحية</EVENT_AGG> و <EVENT_AGG>الحجر</EVENT_AGG> اللي كان فـ <DATE>2020</DATE>، بزاف ديال الناس تبدل التفكير ديالهم وولاو كيركزو على أهداف مالية للمستقبل.
+
+TAGGED TEXT (CLEAN ARABIZI)
+kayn wahd <EVENT_AGG>linti3ach</EVENT_AGG> iqtissadi walakin hta wahd ma hdar 3lih. had <CARDINAL>larqam</CARDINAL> daroriya bach lwahd ydkhl lflouss w yhmi rasso mn <EVENT_AGG>linflassion</EVENT_AGG> w <EVENT_AGG>lazamat liqtissadia</EVENT_AGG>. kayn <CARDINAL>5</CARDINAL> dyal lhawayj mohimma hrrkat <EVENT_AGG>liqtissad</EVENT_AGG> <NORP>lmghribi</NORP> moakharran, w awl haja hiya dollar. <PERSON_AGG>lkhobara</PERSON_AGG> falmajal liqtissadi kano kaygolo bli <GPE>lmghrib</GPE> ma ghadich yrj3 l larqam dyal siyaha d <DATE>2019</DATE> hta doz <DATE>10 snin</DATE> aw <DATE>5 snin</DATE> 3la hsab lwad3. walakin haliyan mora ma qrrabna nkmlo <DATE>3 snin</DATE>, wssalna li nisbat <CARDINAL>91%</CARDINAL> w hada raqm kbir moqarana m3a <DATE>2020</DATE>. mn ghir dollar w lpetrole, lfawz dyal <ORG>lmountakhab</ORG> 3awen bzaf bach ttl3 tiqat lossar f rob3 rrabi3. w mora <EVENT_AGG>lmachakil sihhiya</EVENT_AGG> w <EVENT_AGG>lhajr</EVENT_AGG> li kan f <DATE>2020</DATE>, bzaf dyal nnass tbddl ttfkir dyalhom w wllaw kayrkzo 3la ahdaf maliya llmostaqbal.
+
+--------------------------------------
+

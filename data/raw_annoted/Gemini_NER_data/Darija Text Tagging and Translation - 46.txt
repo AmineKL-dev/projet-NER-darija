@@ -1,0 +1,13 @@
+=== CHAT: Darija Text Tagging and Translation ===
+
+[Assistant Response 1]:
+TAGGED TEXT (ARABIC)
+شي <ORG_AGG>مقاولات صغرى</ORG_AGG> كيرفضو الفكرة ديال <CARDINAL>5000</CARDINAL> درهم كحد أدنى للأجور، خاصة الناس اللي كيخدمو بيديهم، حيت ما يقدروش يخلصو. أغلب <ORG_AGG>هاد الشركات</ORG_AGG> المستهلك ديالهم هو <NORP>المغربي</NORP> اللي القدرة الشرائية ديالو أصلا ضعيفة، وحتا الثمن ديال السلعة اللي كتنتجها <ORG_AGG>هاد المقاولات</ORG_AGG> كيكون هابط، داكشي علاش ما يمكنش ليهم يخلصو الخدامة بزاف. كاين اللي كيقول باللي <PERSON_AGG>المقاول</PERSON_AGG> اللي ما قدش يخلص <CARDINAL>5000</CARDINAL> درهم خصو يسد <ORG_AGG>الشركة</ORG_AGG> ديالو ويدوز لشي حاجة خرى، ولكن هاد الهضرة غالطة حيت <NORP>المستهلك</NORP> هو اللي غادي يتضرر وغادي يتزاد عليه الثمن. باش نخلص واحد بـ <CARDINAL>5000</CARDINAL> درهم، لبرودوي اللي كنت كنبيعو بـ <CARDINAL>100</CARDINAL> درهم خصني نردو بـ <CARDINAL>200</CARDINAL> درهم، واللي كان بـ <CARDINAL>500</CARDINAL> درهم نردو بـ <CARDINAL>1000</CARDINAL> درهم، حيت الصاليرات طالعين. هاكا واخا نعطيك <CARDINAL>5000</CARDINAL> درهم، غادي نطلع عليك <EVENT_AGG>التضخم</EVENT_AGG> وغادي تكتر <EVENT_AGG>البطالة</EVENT_AGG> حيت <ORG_AGG>الشركات</ORG_AGG> اللي يقدروا يصبرو قلال. هاد المنطق هو اللي كيخرج على <GPE_AGG>الدول</GPE_AGG>، كيولي بنادم ما خدامش وما مخلصش.
+
+TAGGED TEXT (CLEAN ARABIZI)
+chi <ORG_AGG>mokaolat sghira</ORG_AGG> kirfdo lfikra dyal <CARDINAL>5000</CARDINAL> derham kahad adna lil-ajour, khasa nass li kikhdmo bidihom, hit ma ykdrouch ykhalsso. aghlab <ORG_AGG>had charikat</ORG_AGG> lmostahlik dyalhom houwa <NORP>lmghribi</NORP> li lkodra lchiraia dyalo aslan d3ifa, o hta tman dyal sel3a li katntjha <ORG_AGG>had mokaolat</ORG_AGG> kikoun habt, dakchi 3lach ma ymknch lihom ykhalsso lkhadama bzaf. kayn li kigoul beli <PERSON_AGG>lmokaouil</PERSON_AGG> li ma kdch ykhals <CARDINAL>5000</CARDINAL> derham khsso ysed <ORG_AGG>lcharika</ORG_AGG> dyalo o ydouz lchi haja khra, walakin had lhadra ghalta hit <NORP>lmostahlik</NORP> houwa li ghadi ytdarar o ghadi ytzad 3lih tman. bach nkhals wahd b <CARDINAL>5000</CARDINAL> derham, l'produit li knt knbi3o b <CARDINAL>100</CARDINAL> derham khsni nardo b <CARDINAL>200</CARDINAL> derham, o li kan b <CARDINAL>500</CARDINAL> derham nardo b <CARDINAL>1000</CARDINAL> derham, hit lsalairat tal3in. haka wakha n3tik <CARDINAL>5000</CARDINAL> derham, ghadi ntla3 3lik <EVENT_AGG>ltadakhom</EVENT_AGG> o ghadi tktar <EVENT_AGG>lbatala</EVENT_AGG> hit <ORG_AGG>lcharikat</ORG_AGG> li ykdrou ysasbro klal. had lmantik houwa li kikhrj 3la <GPE_AGG>ldoual</GPE_AGG>, kiouli bnadm ma khdamch o ma mkhalsch.
+
+Would you like me to process another text or extract a summary of the entities found?
+
+--------------------------------------
+

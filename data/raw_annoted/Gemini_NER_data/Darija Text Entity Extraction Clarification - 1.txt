@@ -1,0 +1,451 @@
+=== CHAT: Darija Text Entity Extraction Clarification ===
+
+[Assistant Response 1]:
+It looks like you've shared a snippet of a conversation from a Google Activity log involving a text analysis of Moroccan Darija (both in Arabic script and Arabizi).
+
+However, I need to clarify a small technical point: I cannot directly access your private Google Activity or browser data. Even with a tool like Tampermonkey, I don't have a direct "line" into your local scripts or your authenticated session at myactivity.google.com for privacy and security reasons.
+
+That said, I can reconstruct the extraction for you right here based on the text you provided. Based on the "Tagged Text" in your snippet, here is the summary table the chatbot would have generated from that data:
+
+Entity Extraction Summary
+Entity Type	Examples from Text
+PERSON	الناس (People), أخنوش (Akhannouch)
+PERSON_AGG	المندوب السامي للتخطيط (High Commissioner for Planning)
+GPE (Location)	المغرب (Morocco)
+GOV (Organization)	بنك المغرب (Bank Al-Maghrib), المندوبية السامية (HCP)
+GOV_AGG	الحكومة (The Government)
+DATE	شهر واحد (January), شهر جوج (February), تلت سنين (3 years), الشهر الجاي (Next month)
+CARDINAL	عشرة ف المية (10%), تلاتة (Three)
+LAW	الاستقلالية ديال المؤسسات (Independence of institutions)
+EVENT_AGG	العرض (Supply), التضخم (Inflation), الجفاف (Drought), التحول الطاقي (Energy transition)
+Exporter vers Sheets
+Regarding Tampermonkey
+
+If your goal is to use a Tampermonkey script to scrape your own history and format it, you would typically need to:
+
+Write a UserScript that targets the selectors in the myactivity.google.com DOM (like the .jiqmSb and .w8Zere classes you showed).
+
+Parse the innerHTML to find the tags (e.g., <EVENT_AGG>).
+
+Output the results to the console or a local file.
+
+Would you like me to help you write a Javascript snippet for a Tampermonkey script that can extract these specific tags from your activity page?
+
+--------------------------------------
+
+[Assistant Response 2]:
+Based on the activity log you provided, here is the full, exact response that the chatbot generated. It follows the specific instructions to rewrite the text into clean Moroccan Darija (removing mentions of "video," "music," or "journalists") and provides the required tagged Arabic and Arabizi versions.
+
+TAGGED TEXT (ARABIC)
+
+<p>كاين مشكل دابا ف <EVENT_AGG>العرض</EVENT_AGG> اللي قليل، <EVENT_AGG>الخضر</EVENT_AGG> اللي محطوطة للبيع قل من <EVENT_AGG>الطلب</EVENT_AGG> ديال <PERSON>الناس</PERSON>. هاد التحول وقع من <DATE>شهر واحد</DATE> و <DATE>شهر جوج</DATE>، ودزنا من <EVENT_AGG>تضخم</EVENT_AGG> عادي ل <EVENT_AGG>تضخم</EVENT_AGG> سبابو مشكل <EVENT_AGG>العرض</EVENT_AGG> ف <EVENT_AGG>الخضر</EVENT_AGG> و <EVENT_AGG>الفواكه</EVENT_AGG>. هادشي ماشي دفاع على <GOV>بنك المغرب</GOV> ولا <GOV_AGG>الحكومة</GOV_AGG>، ولكن هذا واقع اقتصادي. حسب <PERSON_AGG>المندوب السامي للتخطيط</PERSON_AGG>، خاصنا نزيدو ف <EVENT_AGG>العرض</EVENT_AGG> و نكثروا <EVENT_AGG>الانتاج</EVENT_AGG> ديال <EVENT_AGG>المطيشة</EVENT_AGG> و <EVENT_AGG>الخضر</EVENT_AGG>، هدا هو الهدف الأول وماشي نطلعو <EVENT_AGG>لو طو</EVENT_AGG>. هاد <EVENT_AGG>الاختلاف ف الآراء</EVENT_AGG> بين <GOV>المندوبية السامية</GOV> و <GOV>بنك المغرب</GOV> كيبين <LAW>الاستقلالية ديال المؤسسات</LAW> ف <GPE>المغرب</GPE>. باش نهبطو <EVENT_AGG>التضخم</EVENT_AGG>، خاصنا <EVENT_AGG>ثورة ف السيستيم ديال الانتاج</EVENT_AGG> وندخلو <EVENT_AGG>التكنولوجيا</EVENT_AGG>، حيت <GPE>المغرب</GPE> جا ف منطقة فيها <EVENT_AGG>تقلبات ديال الطقس</EVENT_AGG> و غادي يولي <EVENT_AGG>الجفاف</EVENT_AGG> بزاف، تقريبا <CARDINAL>مرة</CARDINAL> كل <DATE>تلت سنين</DATE>. هادشي غيدير ضغط على <EVENT_AGG>الانتاج</EVENT_AGG> ويخلي <EVENT_AGG>التضخم</EVENT_AGG> يطول معانا. <DATE>الشهر الجاي</DATE>، من المتوقع يهبط الرقم لقل من <CARDINAL>عشرة ف المية</CARDINAL> حيت الحساب غيكون مقارنة مع <DATE>شهر تلاتة</DATE> ديال <DATE>العام اللي فات</DATE>. كاينين <CARDINAL>تلاتة</CARDINAL> ديال الحوايج لي مخليين <EVENT_AGG>الأسعار</EVENT_AGG> طالعين: <EVENT_AGG>العرض</EVENT_AGG> قليل، و <EVENT_AGG>ارتفاع ثمن الواردات</EVENT_AGG> بحال <EVENT_AGG>المبيدات</EVENT_AGG> و <EVENT_AGG>الآليات</EVENT_AGG> اللي كنشريو من برا، و <EVENT_AGG>التحول الطاقي</EVENT_AGG> اللي كياخد الوقت و <EVENT_AGG>الفلوس</EVENT_AGG>. هاد الأرقام واضحة، والمشكل ماشي ف <PERSON>أخنوش</PERSON> ولا <GOV_AGG>الحكومة</GOV_AGG> بوحدهم، هادو عوامل اقتصادية خاص <PERSON>الناس</PERSON> يفهموها بلا خلفيات سياسية.</p>
+
+TAGGED TEXT (CLEAN ARABIZI)
+
+<p>Kayn mochkil daba f <EVENT_AGG>l-ard</EVENT_AGG> li qlil, <EVENT_AGG>l-khodar</EVENT_AGG> li mhtota l-bi3 ql mn <EVENT_AGG>t-talab</EVENT_AGG> dyal <PERSON>n-nas</PERSON>. Had l-tahawol oqa3 mn <DATE>ch-char wahed</DATE> o <DATE>ch-char joj</DATE>, o dozna mn <EVENT_AGG>todakhom</EVENT_AGG> 3adi l <EVENT_AGG>todakhom</EVENT_AGG> sbabo mochkil <EVENT_AGG>l-ard</EVENT_AGG> f <EVENT_AGG>l-khodar</EVENT_AGG> o <EVENT_AGG>l-fawakih</EVENT_AGG>. Hadchi machi difa3 3la <GOV>bank l-maghrib</GOV> wla <GOV_AGG>l-hokoma</GOV_AGG>, walakin hada waqi3 iqtisadi. Hasab <PERSON_AGG>l-mondoub s-sami l-t-takhtit</PERSON_AGG>, khassna n-zido f <EVENT_AGG>l-ard</EVENT_AGG> o n-k-thro <EVENT_AGG>l-intaj</EVENT_AGG> dyal <EVENT_AGG>l-maticha</EVENT_AGG> o <EVENT_AGG>l-khodar</EVENT_AGG>, hada hwa l-hadaf l-awal o machi n-t-l3o <EVENT_AGG>le taux</EVENT_AGG>. Had <EVENT_AGG>l-ikhtilaf f l-araa</EVENT_AGG> bin <GOV>l-mondoubiya s-samiya</GOV> o <GOV>bank l-maghrib</GOV> k-ibiyen <LAW>l-istiqlaliya dyal l-moassasat</LAW> f <GPE>l-maghrib</GPE>. Bach n-h-bto <EVENT_AGG>l-todakhom</EVENT_AGG>, khassna <EVENT_AGG>thawra f s-système dyal l-intaj</EVENT_AGG> o n-d-khlo <EVENT_AGG>t-tikonolojiya</EVENT_AGG>, hit <GPE>l-maghrib</GPE> ja f mintaqa fiha <EVENT_AGG>taqallobat dyal t-taqs</EVENT_AGG> o ghadi y-w-lli <EVENT_AGG>l-jafaf</EVENT_AGG> b-zzaf, taqriban <CARDINAL>marra</CARDINAL> koll <DATE>t-telt snin</DATE>. Hadchi gh-i-dir daght 3la <EVENT_AGG>l-intaj</EVENT_AGG> o y-kh-lli <EVENT_AGG>l-todakhom</EVENT_AGG> y-t-wwal m3ana. <DATE>ch-char l-jay</DATE>, mn l-motawaqqar y-h-bat l-raqm l-ql mn <CARDINAL>3achra f l-miya</CARDINAL> hit l-hsab gh-i-koun moqarana m3a <DATE>ch-char tlata</DATE> dyal <DATE>l-3am li fat</DATE>. Kaynin <CARDINAL>tlata</CARDINAL> dyal l-hwayej li m-kh-llyin <EVENT_AGG>l-as3ar</EVENT_AGG> tal3in: <EVENT_AGG>l-ard</EVENT_AGG> qlil, o <EVENT_AGG>irtifa3 tman l-waridat</EVENT_AGG> bhal <EVENT_AGG>l-mobidat</EVENT_AGG> o <EVENT_AGG>l-aliyat</EVENT_AGG> li k-n-chriw mn berra, o <EVENT_AGG>l-tahawol t-taqi</EVENT_AGG> li k-y-akhod l-waqt o <EVENT_AGG>l-flous</EVENT_AGG>. Had l-arqam wadha, o l-mochkil machi f <PERSON>Akhannouch</PERSON> wla <GOV_AGG>l-hokoma</GOV_AGG> bohadhom, hado 3awamil iqtisadiya khass <PERSON>n-nas</PERSON> y-f-hmouha bla khalfiyat siyasiya.</p>
+
+Would you like me to create a summary table of these entities or refine the tagging for specific categories?
+
+--------------------------------------
+
+[Assistant Response 3]:
+Here is a Tampermonkey script tailored to the HTML structure you shared.
+
+Because Google Activity pages load dynamically as you scroll, this script adds a floating "Extract Gemini Data" button to the bottom right of your screen. You can scroll down to load as much history as you want, and then click the button to extract the prompts and responses into a clean text file.
+
+How to use this:
+
+Open your Tampermonkey dashboard and create a New Script.
+
+Paste the code below, replacing any default code.
+
+Save it (Ctrl + S or Cmd + S).
+
+Go to https://myactivity.google.com/product/gemini and refresh the page.
+
+Scroll down to load the activities you want, then click the red "Extract Gemini Data" button in the bottom right corner.
+
+JavaScript
+// ==UserScript==
+// @name         Google Activity Extractor (Gemini)
+// @namespace    http://tampermonkey.net/
+// @version      1.0
+// @description  Extracts Gemini prompts and responses from Google My Activity
+// @match        https://myactivity.google.com/*
+// @grant        none
+// ==/UserScript==
+
+(function() {
+    'use strict';
+
+    // 1. Create a floating button to trigger the extraction
+    const btn = document.createElement('button');
+    btn.innerText = 'Extract Gemini Data';
+    btn.style.position = 'fixed';
+    btn.style.bottom = '20px';
+    btn.style.right = '20px';
+    btn.style.zIndex = '9999';
+    btn.style.padding = '12px 20px';
+    btn.style.backgroundColor = '#d93025';
+    btn.style.color = 'white';
+    btn.style.border = 'none';
+    btn.style.borderRadius = '8px';
+    btn.style.cursor = 'pointer';
+    btn.style.boxShadow = '0 4px 6px rgba(0,0,0,0.3)';
+    btn.style.fontWeight = 'bold';
+    btn.style.fontFamily = 'Arial, sans-serif';
+
+    document.body.appendChild(btn);
+
+    // 2. Function to extract and download the data
+    btn.addEventListener('click', () => {
+        let extractedText = "=== GEMINI ACTIVITY EXTRACTION ===\n\n";
+
+        // Selectors based on your provided HTML
+        // .QTGV3c usually holds the User Prompts
+        // .w8Zere usually holds the Chatbot Responses
+        const activityCards = document.querySelectorAll('c-wiz.xDtZAf');
+
+        if (activityCards.length === 0) {
+            alert("No activity cards found. Make sure you are on the Gemini Activity page.");
+            return;
+        }
+
+        activityCards.forEach((card, index) => {
+            let promptText = "";
+            let responseText = "";
+
+            // Find Prompt
+            const promptNode = card.querySelector('.QTGV3c');
+            if (promptNode) {
+                promptText = promptNode.innerText.trim();
+            }
+
+            // Find Response (if expanded/available in DOM)
+            const responseNode = card.querySelector('.w8Zere');
+            if (responseNode) {
+                responseText = responseNode.innerText.trim();
+            }
+
+            // Only add to log if we found something
+            if (promptText || responseText) {
+                extractedText += `--- Activity #${index + 1} ---\n`;
+                if (promptText) extractedText += `[USER PROMPT]:\n${promptText}\n\n`;
+                if (responseText) extractedText += `[GEMINI RESPONSE]:\n${responseText}\n\n`;
+                extractedText += `--------------------------\n\n`;
+            }
+        });
+
+        // 3. Trigger download of the extracted text
+        downloadTextFile(extractedText, 'Gemini_Activity_Export.txt');
+    });
+
+    // Helper function to create a downloadable file
+    function downloadTextFile(text, filename) {
+        const blob = new Blob([text], { type: 'text/plain;charset=utf-8' });
+        const link = document.createElement('a');
+        const url = URL.createObjectURL(blob);
+        
+        link.setAttribute('href', url);
+        link.setAttribute('download', filename);
+        link.style.visibility = 'hidden';
+        
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+    }
+
+})();
+
+A quick note on how Google Activity works:
+
+Google's interface often truncates long prompts (as seen in your snippet: "Prompt : You are a Moroccan Darija NER tagging assistant. I will send you Moroccan Darija text (Arabic or Latin). You must ALW...") and hides the full responses behind the "Details" (Détails) button.
+
+If you find that the downloaded text is truncated, you will need to manually click the "Details" buttons to expand them in the browser before clicking the extraction button, so the full text is loaded into the DOM for the script to read.
+
+Would you like me to modify this script so it automatically attempts to click all the "Détails" buttons for you before extracting the text?
+
+--------------------------------------
+
+[Assistant Response 4]:
+Extracting data from a Single Page Application (SPA) like Google Gemini is a bit trickier than a static page because clicking a sidebar link doesn't reload the page—it dynamically fetches the new chat.
+
+To handle this, the Tampermonkey script needs to simulate a click on each sidebar item, pause to let the chat load, extract the assistant's responses, and then move to the next one.
+
+Here is a Tampermonkey script designed to automate this process. It will add an "Extract All Chats" button to the screen. Once clicked, it will iterate through your visible sidebar history, extract the text from the assistant's markdown panels, and download it as a text file.
+
+Tampermonkey Script
+
+Open Tampermonkey and create a New Script.
+
+Paste the code below.
+
+Save it and refresh your gemini.google.com tab.
+
+JavaScript
+// ==UserScript==
+// @name         Gemini Sidebar Extractor
+// @namespace    http://tampermonkey.net/
+// @version      1.0
+// @description  Iterates through Gemini sidebar and extracts assistant responses
+// @match        https://gemini.google.com/app/*
+// @grant        none
+// ==/UserScript==
+
+(function() {
+    'use strict';
+
+    // 1. Create a floating extraction button
+    const btn = document.createElement('button');
+    btn.innerText = 'Extract All Chats';
+    btn.style.position = 'fixed';
+    btn.style.bottom = '20px';
+    btn.style.right = '20px';
+    btn.style.zIndex = '9999';
+    btn.style.padding = '12px 20px';
+    btn.style.backgroundColor = '#1a73e8'; // Google Blue
+    btn.style.color = 'white';
+    btn.style.border = 'none';
+    btn.style.borderRadius = '8px';
+    btn.style.cursor = 'pointer';
+    btn.style.boxShadow = '0 4px 6px rgba(0,0,0,0.3)';
+    btn.style.fontWeight = 'bold';
+    btn.style.fontFamily = 'Arial, sans-serif';
+
+    document.body.appendChild(btn);
+
+    // 2. Main Extraction Logic
+    btn.addEventListener('click', async () => {
+        // Prevent multiple clicks
+        btn.disabled = true;
+        btn.innerText = 'Extracting... Please wait';
+        btn.style.backgroundColor = '#5f6368';
+
+        let extractedData = "=== GEMINI ASSISTANT RESPONSES ===\n\n";
+
+        // Find all chat links in the sidebar
+        const chatLinks = document.querySelectorAll('a.conversation');
+        
+        if (chatLinks.length === 0) {
+            alert("No sidebar chats found. Please make sure the sidebar is open.");
+            resetButton();
+            return;
+        }
+
+        // 3. Loop through each link
+        for (let i = 0; i < chatLinks.length; i++) {
+            const link = chatLinks[i];
+            
+            // Try to get the title of the chat for context
+            const titleNode = link.querySelector('.conversation-title');
+            const chatTitle = titleNode ? titleNode.innerText.trim() : `Chat #${i + 1}`;
+            
+            // Click the link to load the chat
+            link.click();
+            
+            // Wait for 3.5 seconds to allow the DOM to fetch and render the new chat
+            // If your internet is slow, you may need to increase this number (3500 = 3.5s)
+            await new Promise(resolve => setTimeout(resolve, 3500));
+
+            // Extract the assistant's message content. 
+            // 'message-content .markdown-main-panel' specifically targets the AI's response block
+            const aiResponses = document.querySelectorAll('message-content .markdown-main-panel');
+            
+            extractedData += `--- [CHAT: ${chatTitle}] ---\n\n`;
+            
+            if (aiResponses.length === 0) {
+                extractedData += "(No assistant response found or chat didn't load in time)\n\n";
+            } else {
+                aiResponses.forEach((response, index) => {
+                    extractedData += `[Assistant Response ${index + 1}]:\n`;
+                    extractedData += response.innerText.trim() + "\n\n";
+                });
+            }
+            extractedData += `--------------------------------------\n\n`;
+        }
+
+        // 4. Download the compiled text
+        downloadTextFile(extractedData, 'Gemini_Assistant_Responses.txt');
+        resetButton();
+    });
+
+    // Helper: Reset button state
+    function resetButton() {
+        btn.disabled = false;
+        btn.innerText = 'Extract All Chats';
+        btn.style.backgroundColor = '#1a73e8';
+    }
+
+    // Helper: Download text as file
+    function downloadTextFile(text, filename) {
+        const blob = new Blob([text], { type: 'text/plain;charset=utf-8' });
+        const link = document.createElement('a');
+        const url = URL.createObjectURL(blob);
+        
+        link.setAttribute('href', url);
+        link.setAttribute('download', filename);
+        link.style.visibility = 'hidden';
+        
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+    }
+})();
+
+Important Tips for Running This:
+
+Open the Sidebar First: Make sure your Gemini sidebar is expanded so the script can see the a.conversation elements.
+
+Scroll Down: If you have a lot of history, scroll down the sidebar to load older chats before clicking the extraction button, as Gemini lazy-loads the history list.
+
+Hands Off: Once you click "Extract," the script will physically hijack your UI to click through the chats. Let it run without clicking anything else until the text file downloads.
+
+Network Speed: I set a standard 3500 millisecond (3.5-second) delay between clicks. If you notice the script is copying the same text twice or missing text, your connection might be slightly slower than the timer. Just change 3500 to 5000 (5 seconds) in the code.
+
+Would you like me to adjust the script to automatically scroll the sidebar for you before it starts clicking?
+
+--------------------------------------
+
+[Assistant Response 5]:
+That is a much cleaner way to organize the data! Creating a ZIP file with individual .txt files is totally doable.
+
+To make this work in the browser, we need to use a popular, lightweight JavaScript library called JSZip. Luckily, Tampermonkey makes this easy using the @require tag, which loads the library automatically in the background before the script runs.
+
+Here is the updated script. It will click through your chats, create a .txt file for each one named after the sidebar title, bundle them all into a .zip folder, and download it to your computer.
+
+The Tampermonkey Script (ZIP Version)
+
+Open Tampermonkey and create a New Script (or overwrite the previous one).
+
+Paste the code below.
+
+Save it and refresh your gemini.google.com tab.
+
+JavaScript
+// ==UserScript==
+// @name         Gemini Sidebar Extractor to ZIP
+// @namespace    http://tampermonkey.net/
+// @version      1.1
+// @description  Extracts Gemini assistant responses and downloads them as a ZIP of individual text files.
+// @match        https://gemini.google.com/app/*
+// @require      https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js
+// @grant        none
+// ==/UserScript==
+
+/* global JSZip */
+
+(function() {
+    'use strict';
+
+    // 1. Create a floating extraction button
+    const btn = document.createElement('button');
+    btn.innerText = 'Extract to ZIP';
+    btn.style.position = 'fixed';
+    btn.style.bottom = '20px';
+    btn.style.right = '20px';
+    btn.style.zIndex = '9999';
+    btn.style.padding = '12px 20px';
+    btn.style.backgroundColor = '#1a73e8'; // Google Blue
+    btn.style.color = 'white';
+    btn.style.border = 'none';
+    btn.style.borderRadius = '8px';
+    btn.style.cursor = 'pointer';
+    btn.style.boxShadow = '0 4px 6px rgba(0,0,0,0.3)';
+    btn.style.fontWeight = 'bold';
+    btn.style.fontFamily = 'Arial, sans-serif';
+
+    document.body.appendChild(btn);
+
+    // 2. Main Extraction Logic
+    btn.addEventListener('click', async () => {
+        btn.disabled = true;
+        btn.innerText = 'Extracting... Please wait';
+        btn.style.backgroundColor = '#5f6368';
+
+        // Initialize JSZip
+        const zip = new JSZip();
+
+        // Find all chat links in the sidebar
+        const chatLinks = document.querySelectorAll('a.conversation');
+        
+        if (chatLinks.length === 0) {
+            alert("No sidebar chats found. Please make sure the sidebar is open.");
+            resetButton();
+            return;
+        }
+
+        // 3. Loop through each link
+        for (let i = 0; i < chatLinks.length; i++) {
+            const link = chatLinks[i];
+            
+            // Try to get the title of the chat
+            const titleNode = link.querySelector('.conversation-title');
+            let rawTitle = titleNode ? titleNode.innerText.trim() : `Chat_${i + 1}`;
+            
+            // Clean up the title so it's a valid filename (removes illegal characters)
+            let safeTitle = rawTitle.replace(/[\\/:*?"<>|\n\r]/g, '_').substring(0, 60);
+            
+            // Add the index to ensure filenames are completely unique if you have duplicate chat names
+            let filename = `${safeTitle} - ${i + 1}.txt`;
+
+            // Click the link to load the chat
+            link.click();
+            
+            // Wait for 3.5 seconds to allow the DOM to fetch and render the new chat
+            await new Promise(resolve => setTimeout(resolve, 3500));
+
+            // Extract the assistant's message content
+            const aiResponses = document.querySelectorAll('message-content .markdown-main-panel');
+            
+            let chatText = `=== CHAT: ${rawTitle} ===\n\n`;
+            
+            if (aiResponses.length === 0) {
+                chatText += "(No assistant response found or chat didn't load in time)\n";
+            } else {
+                aiResponses.forEach((response, index) => {
+                    chatText += `[Assistant Response ${index + 1}]:\n`;
+                    chatText += response.innerText.trim() + "\n\n";
+                    chatText += `--------------------------------------\n\n`;
+                });
+            }
+
+            // Add the text file to the ZIP folder
+            zip.file(filename, chatText);
+        }
+
+        // 4. Generate and download the ZIP file
+        btn.innerText = 'Zipping files...';
+        
+        zip.generateAsync({ type: "blob" }).then(function(content) {
+            const link = document.createElement('a');
+            link.href = URL.createObjectURL(content);
+            link.download = "Gemini_Chats_Export.zip";
+            link.style.visibility = 'hidden';
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+            
+            resetButton();
+        });
+    });
+
+    // Helper: Reset button state
+    function resetButton() {
+        btn.disabled = false;
+        btn.innerText = 'Extract to ZIP';
+        btn.style.backgroundColor = '#1a73e8';
+    }
+})();
+
+What changed in this version?
+
+Added JSZip: The @require line at the top tells Tampermonkey to inject the JSZip library into the page so we can use it.
+
+Filename Sanitization: I added a regular expression replace(/[\\/:*?"<>|\n\r]/g, '_') to remove characters like / or ? from your chat titles so they don't break your computer's file system. I also added the chat index (e.g., - 1.txt, - 2.txt) to the filename just in case you have multiple chats with the exact same name.
+
+ZIP Generation: Instead of adding all text to one massive string, it loops through, creates individual .txt entries inside the zip object, and generates a single downloadable .zip file at the end.
+
+Would you like me to add a feature to this script that automatically expands the sidebar and scrolls to the bottom to load all your historical chats before it starts zipping?
+
+--------------------------------------
+

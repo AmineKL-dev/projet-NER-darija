@@ -1,0 +1,8 @@
+TAGGED TEXT (ARABIC)
+خوتي هاد الميساج موجه للناس اللي خدامين فـ <ORG> الانترنت </ORG> وهما ساكنين مع والديهم، ماشي والديهم ساكنين معاهم حيت محتاجين ليهم، راه كاين فرق. كنهدرو على الناس اللي ساكنين مع والديهم ووالديهم ما محتاجينش ليهم.
+كتنقص <CARDINAL> الإنتاجية </CARDINAL> ديال الواحد ملي كيكون ساكن مع والديه، وكيولي كيدير خدمه أقل من اللي يقدر يديرها فالواقع. الوالدين ديالنا ما عاشوش بعقلية الفلوس ولا التفكير المالي التقليدي، وهاد الشي يقدر يخليه ما يعطيكش المعلومة اللي تحتاج.
+كنقول غير للبعض، إلا كنت مرتاح فالدار مزيان، ولكن إلا ما كنتيش مرتاح فالدار خاصك تخرج باش تكثر من <CARDINAL> الإنتاجية </CARDINAL> ديالك. إلا بقيتي غير فالدار غادي تضرب راسك من ناحية <CARDINAL> الإنتاجية </CARDINAL> وما غاديش تزيد القدام.
+TAGGED TEXT (CLEAN ARABIZI)
+khoti had lmisaj mwajah lnas li khdamin f <ORG> linternet </ORG> w homa sakin m3a walidihom, mashi walidihom sakin m3ahom hit mahtajin lihom, rah kayn far9. kanhdro 3la nas li sakin m3a walidihom w walidihom ma mahtajinsh lihom.
+katn9as <CARDINAL> lintajiya </CARDINAL> dyal lwahed ملي kaykon sakin m3a walidih, w kaywli kaydir khdma a9al mn li y9der ydirha flwa9e3. lwalidin dyalna ma 3achosh b3a9liat lflos wla tfkir mali ta9lidi, w had shi y9der ykhalih ma y3tiksh lma3loma li tahtaj.
+kan9ol ghir lb3d, ila kont merta7 f ddar mzyan, walakin ila ma kontish merta7 f ddar khassek tkhroj bash tktr mn <CARDINAL> lintajiya </CARDINAL> dyalek. ila b9iti ghir f ddar ghadi tdrb rask mn nahiyat <CARDINAL> lintajiya </CARDINAL> w ma ghadi tzid l9dam.

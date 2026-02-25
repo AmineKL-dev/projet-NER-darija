@@ -1,0 +1,11 @@
+=== CHAT: Moroccan Darija Accounts and Savings ===
+
+[Assistant Response 1]:
+TAGGED TEXT (ARABIC)
+خاص أي <NORP>مغربي</NORP> كيدخل <CARDINAL>الفلوس</CARDINAL> من <PERSON_AGG>خلصة</PERSON_AGG> ولا <ORG>مشروع</ORG> يكونوا عندو <CARDINAL>خمسة</CARDINAL> ديال <ORG>ليكونط</ORG> ضروريين. بزاف ديال الناس كيبلوكيوا <CARDINAL>الفلوس</CARDINAL>، وكاين <CARDINAL>واحد الفلوس</CARDINAL> ما كتستعملوهاش <DATE>مدة عام</DATE>، مثلا <CARDINAL>عشرة المليون</CARDINAL> ولا <CARDINAL>خمسة المليون</CARDINAL> ولا <CARDINAL>ستة المليون</CARDINAL>. هاد <CARDINAL>الفلوس</CARDINAL> ممكن تدخلوهم في <ORG>بلوكاج</ORG> بلا ما تخليوا <CARDINAL>عشرة</CARDINAL> ولا <CARDINAL>عشرين</CARDINAL> ولا <CARDINAL>تلاتين مليون</CARDINAL> في <ORG>كونط شيك</ORG> ضايعة. كاين <ORG>حساب استثماري اسلامي</ORG> ولا <ORG>حساب استثماري</ORG> في <ORG>البورصة</ORG>، كل واحد والوضع ديالو. وكاين <ORG>حساب توفير</ORG> اللي كيتسمى <ORG>سكن</ORG>، هاد <CARDINAL>الفلوس</CARDINAL> ما عندكش الحق تجبدهم <DATE>مدة ربع سنين</DATE> ولا <DATE>تمن سنين</DATE> على حسب <ORG>البانكة</ORG> و <LAW>الكونطرا</LAW> اللي غدير. سولو في <ORG>البانكة</ORG> باش يشرحوا ليكم كتر وتفهموا هاد <ORG>ليكونط</ORG> كاملين.
+
+TAGGED TEXT (CLEAN ARABIZI)
+Khass ay <NORP>mghribi</NORP> kidkhl <CARDINAL>lflouss</CARDINAL> mn <PERSON_AGG>khelsa</PERSON_AGG> wlla <ORG>mchrou3</ORG> ikounou 3ndou <CARDINAL>khmsa</CARDINAL> dyal <ORG>licontat</ORG> darouriyin. Bzzaf dyal nass kibloukiw <CARDINAL>lflouss</CARDINAL>، w kayn <CARDINAL>wahed lflouss</CARDINAL> ma katst3mlouhach <DATE>mouddat 3am</DATE>، mtlane <CARDINAL>3achra mlyoun</CARDINAL> wlla <CARDINAL>khmsa mlyoun</CARDINAL> wlla <CARDINAL>stta mlyoun</CARDINAL>. Had <CARDINAL>lflouss</CARDINAL> moumkin tdkhlouhom fi <ORG>blocage</ORG> bla ma tkhlliw <CARDINAL>3achra</CARDINAL> wlla <CARDINAL>3chrin</CARDINAL> wlla <CARDINAL>tlatin mlyoun</CARDINAL> fi <ORG>compte cheque</ORG> day3a. Kayn <ORG>hsab istitmari islami</ORG> wlla <ORG>hsab istitmari</ORG> fi <ORG>lboursa</ORG>، koll wahed w lwad3 dyalou. W kayn <ORG>hsab tawfir</ORG> lli kitsmmi <ORG>skane</ORG>، had <CARDINAL>lflouss</CARDINAL> ma 3ndkch lhaq tjbdhom <DATE>mouddat rba3 snin</DATE> wlla <DATE>tmn snin</DATE> 3la hssab <ORG>lbanka</ORG> w <LAW>lcontra</LAW> lli ghadir. Soulou fi <ORG>lbanka</ORG> bach ichrhou likom ktr w tfhmou had <ORG>licontat</ORG> kamlin.
+
+--------------------------------------
+

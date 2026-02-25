@@ -1,0 +1,32 @@
+TAGGED TEXT (ARABIC)
+فهذ <DATE> الأيام </DATE> كاين مؤتمر ديال المناخ <EVENT> كوب 28 </EVENT> فـ <GPE> الإمارات </GPE> ، وهاد المؤتمر كان حتى فـ <DATE> 2016 </DATE> فـ <GPE> المغرب </GPE> واستفدنا منو بشراكات مع دول وشركات. وفـ <DATE> 2023 </DATE> حتى هو <GPE> المغرب </GPE> خارج رابح من هاد القمة اللي دايرة فـ <GPE> دبي </GPE> .
+الأهداف واضحة: نقصو من الانبعاثات والغازات الدافئة، ونزيدو فالاستثمارات اللي عندها علاقة بالطاقات المتجددة وكل ما يقدر يحافظ على المناخ والبيئة. حضرو تقريباً <CARDINAL> 197 </CARDINAL> دولة.
+الاتفاقية اللولة مع <GPE> البرتغال </GPE> ، وهي شراكة ما بين <GPE> المغرب </GPE> و <GPE> البرتغال </GPE> فالتبادل ديال الكهرباء. <GPE> المغرب </GPE> غادي يصدر الطاقات المتجددة حتى لـ <GPE> إنجلترا </GPE> ، ومن تما يمكن تدوز حتى لـ <GPE> البرتغال </GPE> إلا كان الإنتاج كافي. وهاد الاتفاقية داخل فيها حتى الهيدروجين الأخضر اللي خدام عليه <GPE> المغرب </GPE> .
+الاتفاقية الثانية هي أن <GPE> المغرب </GPE> غادي ياخذ <CARDINAL> 54 مليون دولار </CARDINAL> من <ORG> الاتحاد الأوروبي </ORG> باش يعزز الاستثمار فالطاقة الخضراء.
+<GPE> المغرب </GPE> خدام تقريباً على أربعة ديال أنواع الطاقات الخضراء:
+الأولى هي الطاقة الشمسية فاللواحات اللي كاينين فـ <GPE> ورزازات </GPE> .
+الثانية هي طاقة الرياح.
+الثالثة هي الطاقة النووية عن طريق الاستثمار فالمفاعلات النووية باستعمال اليورانيوم.
+الرابعة هي الاقتصاد الأزرق، باستعمال الرياح ديال البحر وحركة الأمواج.
+وشركة <ORG> توتال إنيرجي </ORG> قررات تستمر فهاد المجال، خصوصاً فالشراكة اللي غادي تخدم ما بين <GPE> المغرب </GPE> و <GPE> إنجلترا </GPE> لتصدير الطاقة المتجددة عبر البحر حتى توصل لـ <GPE> إنجلترا </GPE> .
+<GPE> المغرب </GPE> وصل يدير تقريباً <CARDINAL> 40% </CARDINAL> من الحاجيات ديالو غير من الطاقات المتجددة، والهدف اللول هو يوصل لـ <CARDINAL> 52% </CARDINAL> فـ <DATE> 2030 </DATE> ، وبشوية بشوية يمشي حتى للاكتفاء الذاتي فالطاقة.
+بالنسبة للتأثير على الناس والشركات، إلا نقصات التكلفة ديال الكهرباء أو بقات مستقرة رغم التغيرات الاقتصادية العالمية، غادي يكون تأثير إيجابي. بما أن الطاقة محلية، ما عندهاش علاقة مباشرة بالدولار أو اليورو، وهدا كيحمي من تقلبات العملة.
+المشكل الكبير اللي كيعاني منو <NORP> المغاربة </NORP> هو الماء والجفاف وندرة المياه. هاد المشكل يقدر يتحل باستعمال الطاقات المتجددة فتحلية مياه البحر. الماء المحلى يقدر يتستعمل للشرب، للفلاحة، وللمصانع.
+إلا طاحت الشتا مرحبا وتعمرات السدود، مزيان. إلا ما طاحتش، كاين حل بالطاقة المتجددة والتحلية. إلا بدا الماء يتقطع فالمدن الكبرى، ساعتها الناس غادي يحسو بحجم المشكل. دابا بزاف ما حاسينش حيث ما زال كيلقاو الماء فالروبيني.
+المقارنات ما بين <GPE> المغرب </GPE> و <GPE> أوروبا </GPE> و <GPE> أمريكا </GPE> ماشي دقيقة، حيث بزاف من هاد الدول ما عندهاش نفس مشكل الجفاف وندرة المياه. المشاكل المحلية ديال <GPE> المغرب </GPE> مختلفة، وخاصها حلول خاصة بها.
+TAGGED TEXT (CLEAN ARABIZI)
+f had <DATE> layamat </DATE> kayn mo2tamar dyal lmanakh <EVENT> cop 28 </EVENT> f <GPE> limarat </GPE> , w had lmo2tamar kan hta f <DATE> 2016 </DATE> f <GPE> lmghrib </GPE> w استفdna mno b sharakat m3a dowal w sharikat. w f <DATE> 2023 </DATE> hta howa <GPE> lmghrib </GPE> kharej رابح men had l9ima li dayra f <GPE> dubai </GPE> .
+l2ahdaf wadha: n9so men l2inbi3atat w lghazat dafi2a, w nzido f listitmarat li 3andha 3ala9a b ta9at lmotajadida w kol ma y9der y7afed 3la lmanakh w lbi2a. 7adro ta9riban <CARDINAL> 197 </CARDINAL> dawla.
+liti9afiya lowla m3a <GPE> lbortogal </GPE> , w hiya sharaka mabin <GPE> lmghrib </GPE> w <GPE> lbortogal </GPE> f tabadol dyal lkahra2. <GPE> lmghrib </GPE> ghadi y sader ta9at lmotajadida 7ta l <GPE> inglitra </GPE> , w men tma ymken tdoz hta l <GPE> lbortogal </GPE> ila kan l2intaj kafi. w had liti9afiya dakhl فيها hta lhidrojene lakhdar li khaddam 3lih <GPE> lmghrib </GPE> .
+liti9afiya taniya hiya an <GPE> lmghrib </GPE> ghadi yakhod <CARDINAL> 54 million dollar </CARDINAL> men <ORG> liti7ad lorobi </ORG> bash y3azez listitmar f ta9a lkhadra.
+<GPE> lmghrib </GPE> khaddam ta9riban 3la 4 dyal anwa3 ta9at lkhadra:
+lowla hiya ta9a shamsiya f llwahat li kaynin f <GPE> warzazat </GPE> .
+taniya hiya ta9a riyah.
+talta hiya ta9a النووية 3an tari9 listitmar f lmofa3ilat nnawawiya b yoranium.
+rab3a hiya li9tisad lazra9, b riyah dyal lba7r w 7arakat l2amwaj.
+sharika <ORG> total energy </ORG> 9arrat tstamer f had lmajjal, khososan f sharaka li ghadi tkhdem mabin <GPE> lmghrib </GPE> w <GPE> inglitra </GPE> bash tsader ta9a lmotajadida 3abr lba7r 7ta twsel l <GPE> inglitra </GPE> .
+<GPE> lmghrib </GPE> wsel ydir ta9riban <CARDINAL> 40% </CARDINAL> men l7ajiyat dyalo ghir men ta9at lmotajadida, w lhadaf lowel howa ywsal l <CARDINAL> 52% </CARDINAL> f <DATE> 2030 </DATE> , w bshwiya bshwiya ymshi 7ta l l2iktifa2 dati f ta9a.
+bnissba lta2tir 3la nnas w sharikat, ila n9sat taklifa dyal lkahra2 aw bqat mosta9ira rghm taghayorat l3alamiya, ghadi ykon ta2tir ijabi. 7it ta9a ma7aliya, ma 3andhach 3ala9a mobachira b dollar aw euro, w hada kay7mi men ta9alobat l3omla.
+lmashkil lkbir li kay3ani meno <NORP> lmgharba </NORP> howa lma w ljafaf w ndorat lmyah. had lmashkil y9der ythall b isti3mal ta9at lmotajadida f ta7liya dyal ma lba7r. lma lmo7alla y9der yts3mal lshrob, lfla7a, w lmasane3.
+ila tahat shtta mar7ba w t3emrat ssodod, mzyan. ila ma tahatch, kayn 7al b ta9a lmotajadida w ta7liya. ila bda lma ytt9ta3 f lmodon lkobra, sa3tha nnas ghadi y7esso b 7ajm lmashkil. daba bzaf ma 7assinch 7it mazal kayl9aw lma f robini.
+lmo9aranat mabin <GPE> lmghrib </GPE> w <GPE> oroba </GPE> w <GPE> amrika </GPE> mashi da9i9a, 7it bzaf men had dowal ma 3andhomch nafs mashkil ljafaf w ndorat lmyah. lmashakil lma7aliya dyal <GPE> lmghrib </GPE> mokhtalifa, w khas-ha 7olol khasin biha.

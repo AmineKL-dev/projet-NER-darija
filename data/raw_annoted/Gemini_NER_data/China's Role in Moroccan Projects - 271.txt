@@ -1,0 +1,27 @@
+=== CHAT: China's Role in Moroccan Projects ===
+
+[Assistant Response 1]:
+النص المسمّى (بالعربية)
+[النص المعاد كتابته مع الوسوم]
+
+<PERSON_AGG>السفير</PERSON_AGG> ديال <GPE>الصين</GPE> أكد بلي بلادو مستاعدة تكلف ب <EVENT_AGG>التمويل</EVENT_AGG> و <EVENT_AGG>الإنجاز</EVENT_AGG> ديال <EVENT_AGG>مشروع</EVENT_AGG> <EVENT_AGG>التيجيفي</EVENT_AGG> بين <GPE>مراكش</GPE> و <GPE>أكادير</GPE>. هاد <EVENT_AGG>المشروع</EVENT_AGG> عندو دفتر تحملات كيفرض على <ORG_AGG>الشركة</ORG_AGG> اللي غاتشد <EVENT_AGG>الصفقة</EVENT_AGG> تبني وزين ف <GPE>المغرب</GPE> وتخدم <NORP>المغاربة</NORP> باش تولي منصة للتصدير ل <LOC>إفريقيا</LOC>، حيت <LOC>أوروبا</LOC> عندها اكتفاء مع <ORG>الشركات</ORG> <NORP>الإسبانية</NORP> و <NORP>الفرنسية</NORP>. كاين <MEDIA_AGG>تقرير</MEDIA_AGG> ديال <ORG>بي بي سي</ORG> مبازي على بحث دارتو <GOV>المخابرات البريطانية</GOV> <ORG>إم آي 6</ORG> كيحذر من "مصائد الديون" <NORP>الصينية</NORP>، وكيعطي مثال ب <GPE>سريلانكا</GPE> اللي غرقات كريديات واضطرات تعطي <FAC>ميناء هامبانتوتا</FAC> ل <GPE>الصين</GPE> لمدة <DATE>99 عام</DATE> حيت ماقدراتش تخلص.
+
+ولكن الوضع ف <GPE>المغرب</GPE> مختلف حيت كاينين مداخيل مستقبلية من <ORG_AGG>السياحة</ORG_AGG> و <ORG_AGG>الطاقة</ORG_AGG> و <ORG_AGG>الصناعة</ORG_AGG>، و <EVENT_AGG>التيجيفي</EVENT_AGG> غايقلص الوقت بين <GPE>مراكش</GPE> و <GPE>أكادير</GPE> ويحرك <ORG_AGG>الاقتصاد</ORG_AGG>، خصوصا مع الدخول ديال <ORG>رايان إير</ORG> اللي رخصات التذاكر. <GPE>الصين</GPE> دازت للمرحلة <ORDINAL>الثانية</ORDINAL> ف التطور وركزات على التكنولوجيا بحال <ORG>هواوي</ORG> و طوموبيلات <ORG>بي واي دي</ORG> اللي فاتو <ORG>تيسلا</ORG>، وبدلات العقلية ديال <NORP>الشنوا</NORP> اللي ولات كتقدس العمل والمواطنة، وهادشي بان ف <WORK_OF_ART>فيلم أميريكان فاكتوري</WORK_OF_ART> ف <MEDIA>نتفليكس</MEDIA>.
+
+ف الجانب التاريخي، دول بحال <GPE>هولندا</GPE> و <GPE>الناجليز</GPE> دازو من فترات قوة وضعف، ودابا دول <LOC>الخليج</LOC> بحال <GPE>السعودية</GPE> و <GPE>الإمارات</GPE> و <GPE>قطر</GPE> فاقو وبداو كيستثمرو ف التعليم ف جامعات <GPE>ميريكان</GPE> باش يبنيو اقتصاد ما بعد <ORG_AGG>البترول</ORG_AGG>. أما <GPE>تركيا</GPE>، <PERSON>أردوغان</PERSON> قدر يطلع <ORG_AGG>الاقتصاد</ORG_AGG> من <DATE>2003</DATE>، ولكن ف السنوات <ORDINAL>الأخيرة</ORDINAL> دخل ف صراعات سياسية ف <GPE>ليبيا</GPE> و <GPE>سوريا</GPE> و <GPE>مصر</GPE> وهادشي أثر عليه.
+
+وبالنسبة ل <LOC>الصحراء</LOC>، التنمية الاقتصادية والمشاريع ف <GPE>الداخلة</GPE> هي أحسن حل ضد الانفصال، حيت الناس كايبغيو يعيشو ف رفاهية بحال سكان <GPE>سبتة</GPE> و <GPE>مليلية</GPE>. والمحلل <PERSON>معتز مطر</PERSON> قال لو <GPE>المغرب</GPE> و <GPE>الجزائر</GPE> تافقو، غادي يسيطرو على <LOC>إفريقيا</LOC> و <LOC>البحر الأبيض المتوسط</LOC> بفضل <ORG_AGG>الغاز</ORG_AGG> و <ORG_AGG>الفوسفاط</ORG_AGG> و <ORG_AGG>الموارد</ORG_AGG>.
+
+النص المسمّى (عريبيزي نقي)
+[نفس النص بالعريبيزي مع نفس الوسوم]
+
+<PERSON_AGG>Sfir</PERSON_AGG> dyal <GPE>lchine</GPE> akkd belli blado msta3da tkellef b <EVENT_AGG>tamwil</EVENT_AGG> w <EVENT_AGG>linjaz</EVENT_AGG> dyal <EVENT_AGG>machrou3</EVENT_AGG> <EVENT_AGG>tgv</EVENT_AGG> bin <GPE>Marrakech</GPE> w <GPE>Agadir</GPE>. Had <EVENT_AGG>lmachrou3</EVENT_AGG> 3ndo daftar tahamolate kayfred 3la <ORG_AGG>charika</ORG_AGG> li ghatchad <EVENT_AGG>safqa</EVENT_AGG> tebni usine f <GPE>lmghrib</GPE> w tkhadem <NORP>lmgharba</NORP> bach twelli minassa l tasdir l <LOC>ifriqiya</LOC>, hit <LOC>ouroupa</LOC> 3ndha ktifa m3a <ORG>charikate</ORG> <NORP>sbanyouliya</NORP> w <NORP>lfaransiya</NORP>. Kayn <MEDIA_AGG>taqrir</MEDIA_AGG> dyal <ORG>BBC</ORG> mbazi 3la baht darto <GOV>lmokhabarate lbritaniya</GOV> <ORG>MI6</ORG> kayhader men "massayid dyoun" <NORP>siniya</NORP>, w kay3ti mital b <GPE>Srilanka</GPE> li ghrqat creditate w dtarrat ta3ti <FAC>mina hambantota</FAC> l <GPE>lchine</GPE> lmodat <DATE>99 3am</DATE> hit maqdatch tkhelles.
+
+Walakin lwad3 f <GPE>lmghrib</GPE> mokhtalef hit kaynin madakhil mostaqbaliya men <ORG_AGG>siyaha</ORG_AGG> w <ORG_AGG>taqa</ORG_AGG> w <ORG_AGG>sina3a</ORG_AGG>, w <EVENT_AGG>tgv</EVENT_AGG> ghayqelles lweqt bin <GPE>Marrakech</GPE> w <GPE>Agadir</GPE> w yharrek <ORG_AGG>liqtisad</ORG_AGG>, khossosan m3a dokhoul dyal <ORG>Ryanair</ORG> li rekkhsat tadakir. <GPE>lchine</GPE> dazet l lmarhala <ORDINAL>taniya</ORDINAL> f tatawwor w rekkzat 3la teknolojiya bhal <ORG>Huawei</ORG> w tomobilate <ORG>BYD</ORG> li fato <ORG>Tesla</ORG>, w beddlat l3aqliya dyal <NORP>chinwa</NORP> li wellat katqaddes l3amal w lmowatana, w hadchi ban f <WORK_OF_ART>film American Factory</WORK_OF_ART> f <MEDIA>Netflix</MEDIA>.
+
+F ljanib tarikhi, douwal bhal <GPE>holanda</GPE> w <GPE>ngliz</GPE> dazo men fatarate qowwa w do3f, w daba douwal <LOC>lkhalij</LOC> bhal <GPE>saoudia</GPE> w <GPE>limarate</GPE> w <GPE>qatar</GPE> faqo w bdaw kaystathmro f ta3lim f jamiaate <GPE>mirikan</GPE> bach yabniw iqtisad ma ba3d <ORG_AGG>lbitrol</ORG_AGG>. Ama <GPE>tourkia</GPE>, <PERSON>Erdogan</PERSON> qder ytelle3 <ORG_AGG>liqtisad</ORG_AGG> men <DATE>2003</DATE>, walakin f sanawate <ORDINAL>lakhira</ORDINAL> dkhel f sira3ate siyasiya f <GPE>libya</GPE> w <GPE>sourya</GPE> w <GPE>misr</GPE> w hadchi attar 3lih.
+
+W bnisba l <LOC>sahra</LOC>, tanmiya liqtisadiya w lmachari3 f <GPE>Dakhla</GPE> hiya ahsan hal ded linfisal, hit nnas kaybeghiw y3icho f rafahiya bhal sokkan <GPE>Sebta</GPE> w <GPE>Mlilya</GPE>. W lmohallil <PERSON>Moataz Matar</PERSON> qal law <GPE>lmghrib</GPE> w <GPE>ljazair</GPE> taffqo, ghadi ysaytro 3la <LOC>ifriqiya</LOC> w <LOC>lbahr labyad lmotawassit</LOC> bifadl <ORG_AGG>lgaz</ORG_AGG> w <ORG_AGG>lfousfat</ORG_AGG> w <ORG_AGG>lmawarid</ORG_AGG>.
+
+--------------------------------------
+

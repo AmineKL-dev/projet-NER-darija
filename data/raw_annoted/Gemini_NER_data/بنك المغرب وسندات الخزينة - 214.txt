@@ -1,0 +1,25 @@
+=== CHAT: بنك المغرب وسندات الخزينة ===
+
+[Assistant Response 1]:
+TAGGED TEXT (ARABIC)
+في <DATE>لبداية ديال 2023</DATE>، وبالضبط في <DATE>شهر واحد</DATE>، قرر <ORG>بنك المغرب</ORG> يشري سندات من السوق الثانوية، يعني ماشي مباشرة من <GOV_AGG>الخزينة</GOV_AGG>، ولكن يقدر يشريهم من <ORG>الابناك</ORG>، <ORG>صناديق الاستثمار</ORG>، و<ORG>المؤسسات المالية</ORG>. هاد الخطوة دارت نقاش كبير على <CARDINAL>15 مليار</CARDINAL> درهم اللي شراها <ORG>البنك المركزي</ORG> من عند <ORG>البنكات</ORG>، واللي كانت كتعطيهم عائد ديال <CARDINAL>2%</CARDINAL> في المتوسط، باش يقدرو من بعد يسلفو <GOV_AGG>الخزينة العامة</GOV_AGG> بفائدة ديال <CARDINAL>3.5%</CARDINAL>، حيت <ORG>البنك المركزي</ORG> زاد <CARDINAL>1.5%</CARDINAL>. هاد العملية اعتبرها البعض بحال كادو ديال <CARDINAL>300 مليون</CARDINAL> درهم لـ <ORG>لبنوك</ORG>.
+
+بالنسبة لـ <ORG>مؤسسات التأمين</ORG>، راه الفلوس اللي عندها هي ديال <PERSON>الناس العاديين</PERSON> اللي كيستثمروها في السندات. وحتى <ORG>صناديق التقاعد</ORG> كتشري هاد السندات، يعني هاد لعملية كترجع بالنفع على <NORP>المتقاعدين</NORP>. <ORG>الابناك</ORG> فيها <PERSON>مستثمرين</PERSON> و<PERSON>مدخرين</PERSON> عاديين، وكتلعب دور مهم في <LOC>الاقتصاد الوطني</LOC> حيت كتعطي قروض لـ <PERSON>لناس</PERSON> باش يشريو الديور ولـ <ORG>لشركات</ORG>.
+
+يلا شفنا شنو وقع في <ORG>الابناك الأمريكية</ORG>، المشكل كان هو السندات القديمة اللي بقات عندهم وما لقاوش كيفاش يبيعوها، هادشي دار خسائر وثر على بزاف ديال القطاعات. <ORG>البنك المركزي</ORG> دخل باش يوفر السيولة، حيت <GOV_AGG>خزينة الدولة</GOV_AGG> علنات في الميزانية ديالها أنها غادي تقترض <CARDINAL>129 مليار</CARDINAL> درهم هاد العام. هاد لعملية ديال طرح السندات كيديروها كاع الدول بحال <GPE>فرنسا</GPE>، <GPE>ميريكان</GPE>، و<GPE>استراليا</GPE>.
+
+<ORG>بنك المغرب</ORG> دار <CARDINAL>جوج</CARDINAL> عمليات شراء في <DATE>9 يناير</DATE> و <DATE>16 يناير</DATE>، وشرا سندات <GOV_AGG>الخزينة</GOV_AGG> قصيرة الأجل (أقل من <DATE>عام</DATE>). هاد لقرار جا حيت كان نقص في السيولة وتراجع في الطلب من طرف <ORG>الابناك</ORG> اللي وصلوا للسقف ديال الاستثمار في السندات، وكان تخوف من تطور أسعار الفائدة. هاد التدخل كيهدف لتحريك <LOC>الاقتصاد</LOC> وتدبير مخاطر المحافظ الاستثمارية.
+
+TAGGED TEXT (CLEAN ARABIZI)
+fi <DATE>lbidaya dyal 2023</DATE>, b ddabt fi <DATE>chhr wahid</DATE>, qrrer <ORG>bank lmghrib</ORG> ychri sanadat mn souq ttanawiya, yani machi mobachara mn <GOV_AGG>lkhazina</GOV_AGG>, walakin yqdr ychrihom mn <ORG>labnak</ORG>, <ORG>sanadiq listitmar</ORG>, w <ORG>lmouassasat lmaliya</ORG>. had lkhotwa dart niqach kbir ela <CARDINAL>15 mlyar</CARDINAL> drhm lli chraha <ORG>lbank lmarkazi</ORG> mn end <ORG>lbankat</ORG>, w lli kant katatihom aid dyal <CARDINAL>2%</CARDINAL> fi lmotawassit, bach yqdro mn b3d yslfo <GOV_AGG>lkhazina l3amma</GOV_AGG> b faida dyal <CARDINAL>3.5%</CARDINAL>, hit <ORG>lbank lmarkazi</ORG> zad <CARDINAL>1.5%</CARDINAL>. had l3amaliya itabroha lb3d bhal kado dyal <CARDINAL>300 mlyon</CARDINAL> drhm l <ORG>lbonouk</ORG>.
+
+bnisba l <ORG>mouassasat ttamin</ORG>, rah lflous lli endha hiya dyal <PERSON>nnas ladiyin</PERSON> lli kistatmiroha fi ssanadat. w hatta <ORG>sanadiq ttaqaod</ORG> katchri had ssanadat, yani had l3amaliya katrja b nnfe ela <NORP>lmotapaidin</NORP>. <ORG>labnak</ORG> fiha <PERSON>moustatmirin</PERSON> w <PERSON>moddakhirin</PERSON> adiyin, w katlab dawr mohimm fi <LOC>liqtisad lwatani</LOC> hit katati qorod l <PERSON>nnas</PERSON> bach ychrio ddyour w l <ORG>lcharikat</ORG>.
+
+ylla chfna chnou wqe fi <ORG>labnak lamrikiya</ORG>, lmouchkil kan houwa ssanadat lqdima lli bqat endhom w ma lqawch kifach ybiuoha, hadchi dar khasaer w ttar ela bzzaf dyal lqitaat. <ORG>lbank lmarkazi</ORG> dkhl bach yuwffr ssiyoula, hit <GOV_AGG>khazinat ddawla</GOV_AGG> elnat fi lmizaniya dyalha annaha ghadi tqtarid <CARDINAL>129 mlyar</CARDINAL> drhm had l3am. had l3amaliya dyal tarh ssanadat kidiroha kalla dduwal bhal <GPE>fransa</GPE>, <GPE>mirikan</GPE>, w <GPE>ostralia</GPE>.
+
+<ORG>bank lmghrib</ORG> dar <CARDINAL>jouj</CARDINAL> amaliyat chira fi <DATE>9 yanayir</DATE> w <DATE>16 yanayir</DATE>, w chra sanadat <GOV_AGG>lkhazina</GOV_AGG> qasirat lajal (qll mn <DATE>am</DATE>). had lqarar ja hit kan naqs fi ssiyoula w tarajo fi ttalab mn taraf <ORG>labnak</ORG> lli wslo l ssaf dyal listitmar fi ssanadat, w kan tkhowof mn tatawwor asar lfaida. had ttadakhol kihdf ltahrik <LOC>liqtisad</LOC> w tadbir makhatir lmohafid listitmariya.
+
+Would you like me to extract a summary of the financial figures mentioned in this text?
+
+--------------------------------------
+

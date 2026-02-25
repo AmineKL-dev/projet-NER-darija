@@ -1,0 +1,43 @@
+TAGGED TEXT (ARABIC)
+ف <DATE> 2022 </DATE> فـ <GPE> المغرب </GPE> تبدلات بزاف ديال الحوايج فـ قطاع الصحة من بعد <EVENT_AGG>أزمة</EVENT_AGG> <EVENT> كورونا </EVENT> . تخرج <LAW> قانون الحماية الاجتماعية </LAW> اللي فرض فـ أفق <DATE> 2022 </DATE> يكون عند جميع <NORP> المغاربة </NORP> التغطية الصحية الإجبارية على المرض.
+فـ اللول كانو غير الأجراء وموظفين القطاع العام هما اللي عندهم التغطية، ومن بعد دخلات فئات أخرى. فـ بداية <DATE> 2022 </DATE> تسجلو المهنيين، يعني الناس اللي خدامين لحسابهم، بحال مول الحانوت والحرفيين وغيرهم. العدد ديالهم وصل تقريباً <CARDINAL> 11 مليون </CARDINAL> شخص مع العائلات ديالهم.
+فـ لخر ديال <DATE> 2022 </DATE> دخلو حتى الناس اللي كان عندهم بطاقة <ORG> راميد </ORG> . من بعد ما تخرج <LAW> قانون 22.27 </LAW> تحيد نظام راميد، وهاد الفئة اللي كانت كتستافد من المساعدة الطبية ولات داخلة فـ <ORG> AMO تضامن </ORG> . العدد ديالهم تقريباً <CARDINAL> 4 مليون </CARDINAL> أسرة، يعني حوالي <CARDINAL> 10 مليون و500 ألف </CARDINAL> شخص.
+كاينين دابا أربع فئات:
+الفئة اللولة هما الأجراء اللي كيستافدو من التغطية الإجبارية على المرض، التقاعد، التعويضات العائلية، والتعويض على المرض والأمومة.
+الفئة الثانية هما المهنيين اللي كيخلصو الاشتراك ديالهم يا إما شهرياً يا إما سنوياً.
+الفئة الثالثة هما الناس ديال <ORG> راميد </ORG> اللي دازو لــ <ORG> AMO تضامن </ORG> والدولة كتخلص عليهم الاشتراكات.
+الفئة الرابعة منصوص عليها فـ القانون ولكن التطبيق باقي، وهما الناس اللي قادرين يخلصو الاشتراك ولكن ما عندهمش مهنة مصرح بها.
+الناس اللي كانو فـ <ORG> راميد </ORG> دازو أوتوماتيكياً لــ <ORG> AMO تضامن </ORG> ، وتوصلو برسالة نصية فيها المعلومات ديالهم. إلا كان شي خطأ فالمعطيات خاص يتصلحو.
+كاين بزاف ديال الحالات اللي الناس تسجلو مهنيين بلا ما يكون عندهم دخل حقيقي، بحال شي فلاحين مسجلين غير باش يستافدو من دعم، وبهذا كيولي عندهم رقم مهني وكيطلبو منهم يخلصو الاشتراك. فهاد الحالة خاص يتصلحو المعطيات عند الجهة المختصة.
+هاد الناس اللي دازو من <ORG> راميد </ORG> راه وضعيتهم مؤقتة، والدولة كتخلص عليهم مؤقتاً حتى يدوزو مسطرة التسجيل فـ <GOV> السجل الوطني للسكان </GOV> و <GOV> السجل الاجتماعي الموحد </GOV> .
+التعريف ديال الأسرة فـ <GOV> السجل الاجتماعي الموحد </GOV> هو أي ناس ساكنين مع بعضهم وعندهم مصاريف مشتركة. أما فـ نظام <ORG> AMO </ORG> الأسرة هي الراجل ومرتو ووليداتو. خاص كل أسرة تعمر الاستمارة ديالها وتأكد المعلومات ديال أفرادها.
+آخر أجل باش يتدار التسجيل كان فـ <DATE> 2023 </DATE> ، والناس اللي ما عمرّوش الاستمارات خاصهم يتأكدو من الوضعية ديالهم.
+بالنسبة للاستفادة من <ORG> AMO تضامن </ORG> ، التغطية الصحية كتعاون تعوض تقريباً <CARDINAL> 70% </CARDINAL> من مصاريف العلاج حسب التعريفة الوطنية المرجعية، وبعض الأمراض المزمنة والمكلفة ممكن توصل حتى <CARDINAL> 100% </CARDINAL> ، واللائحة فيها تقريباً <CARDINAL> 197 </CARDINAL> مرض.
+كاين جوج طرق للاستفادة:
+الطريقة اللولة كتخلص المصاريف ومن بعد كتدفع طلب التعويض.
+الطريقة الثانية هي التكفل المسبق، خصوصاً فحالة الاستشفاء، فين السبيطار كيطلب الموافقة من <ORG> CNSS </ORG> أو الجهة المعنية، وعندهم أجل أقصى ديال <CARDINAL> 2 </CARDINAL> أيام باش يجاوبو.
+فـ حالة الأمراض الخطيرة بحال السرطان أو أمراض الدم، ممكن يكون تكفل مباشر بالأدوية، وكيكون خاص طلب مسبق، والجواب كيقدر ياخذ حتى <CARDINAL> 3 </CARDINAL> أيام.
+التعويض كيتحسب حسب التعريفة الوطنية المرجعية، وممكن يكون الفرق بين الثمن الحقيقي والتعريفة كبير، وهاد الشي كيخلي نسبة التعويض قليلة مقارنة مع اللي تخلص فعلياً.
+كاين تطبيق مرتبط بالحساب البنكي باش يتوصل المؤمن بالتعويضات، وخاص يكون الحساب مربوط برقم الهاتف باش العملية تدوز بسهولة.
+المسطرة فيها بزاف ديال الوثائق وطلبات، وهاد الشي كيضيع الوقت على المواطنين، وكيحتاج تبسيط أكثر باش تسهل الولوج للعلاج فـ <GPE> المغرب </GPE> .
+TAGGED TEXT (CLEAN ARABIZI)
+F <DATE> 2022 </DATE> f <GPE> lmghrib </GPE> tbdlat bzaf dial l7wayj f qita3 ssa7a mn b3d <EVENT_AGG>azma</EVENT_AGG> <EVENT> korona </EVENT> . tkhrej <LAW> qanoun l7imaya lijtima3iya </LAW> li frad f ofoq <DATE> 2022 </DATE> يكون 3nd jami3 <NORP> lmgharba </NORP> taghtiya ssi7iya ijbariya 3la lmarad.
+F lwel kano ghir lajra w mwadfin lqita3 l3am homa li 3ndhom taghtiya, w mn b3d dkhlet fi2at okhra. F bidayat <DATE> 2022 </DATE> tsjlo lmihaniyin, yani ناس li khdamin l7sab rassehom, b7al mol l7anout w l7irafiyin w ghirhom. l3adad dialhom wsel taqriban <CARDINAL> 11 million </CARDINAL> shakhss m3a l3aylat dialhom.
+F lekher dial <DATE> 2022 </DATE> dkhlou 7ta nass li kan 3ndhom بطاقة <ORG> ramid </ORG> . mn b3d ma tkhrej <LAW> qanoun 22.27 </LAW> t7yed nizam ramid, w had lfi2a wlat dakhla f <ORG> AMO tadamon </ORG> . l3adad dialhom taqriban <CARDINAL> 4 million </CARDINAL> osra, yani 7doud <CARDINAL> 10 million w500 alf </CARDINAL> shakhss.
+Kaynin daba 4 fi2at:
+lfi2a lowla homa lajra li kaystafdo mn taghtiya ijbariya 3la lmarad w ta3widat.
+lfi2a taniya homa lmihaniyin li kaykhlso lishtirak shhri aw sanawi.
+lfi2a talta homa nass dial <ORG> ramid </ORG> li dazo l <ORG> AMO tadamon </ORG> w dawla katkhlss 3lihom.
+lfi2a rab3a mansous 3liha f qanoun w mazal tatbiq.
+nass li kano f <ORG> ramid </ORG> dazo otomatikiyan l <ORG> AMO tadamon </ORG> w twsslo برسالة. ila kan chi ghalat khas ytsla7.
+had nass khas ytsjlo f <GOV> sijil lwatani lssokan </GOV> w <GOV> sijil lijtima3i lmowahad </GOV> .
+ta3rif l2osra f <GOV> sijil lijtima3i lmowahad </GOV> howa ay nass sakin m3a b3d w 3ndhom masarif moshtraka. ama f <ORG> AMO </ORG> l2osra hiya rajel w marto w wlado.
+akher ajal kan f <DATE> 2023 </DATE> bash ytsjlo.
+<ORG> AMO tadamon </ORG> kat3awd taqriban <CARDINAL> 70% </CARDINAL> mn masarif 7sab ta3rifa wataniya marji3iya, w ba3d amrad twssel l <CARDINAL> 100% </CARDINAL> , w llista fiha taqriban <CARDINAL> 197 </CARDINAL> marad.
+kayna joj toroq:
+lowla tkhless w mn b3d tdir talab ta3wid.
+taniya takafol mosbaq, khossosan f listichfa, w kayn ajal aqsa <CARDINAL> 2 </CARDINAL> ayam bash yjawbo.
+f halat amrad khatira b7al saratan, jawb yqdar yakhod <CARDINAL> 3 </CARDINAL> ayam.
+ta3wid kayt7seb 7sab ta3rifa wataniya marji3iya, w kayn farq kbir bin taman l7a9i9i w ta3rifa.
+kayn tatbiq mrbot b l7ساب banki bash twssel b ta3widat.
+lmastra fiha bzaf lwraq w khas tbsit bash tsahal l3ilaj f <GPE> lmghrib </GPE> .

@@ -1,0 +1,87 @@
+=== CHAT: Moroccan Dirham Exchange Rate Scenarios ===
+
+[Assistant Response 1]:
+TAGGED TEXT (ARABIC)
+
+بزاف ديال <NORP>المغاربة</NORP> فاش كيسمعوا <EVENT_AGG>التعويم</EVENT_AGG> كيخافوا، خاصة اللي عندهم فلوس مخبية، كيصحابليهم <CURRENCY>الدرهم</CURRENCY> غادي يطيح بزاف ف <DATE>وقت قصير</DATE>. حتى <NORP>الطبقة الفقيرة</NORP> كيسحاب ليها بلي <EVENT_AGG>التعويم</EVENT_AGG> غادي يزيدهم فقر حيت المواد اللي كيجيو من <LOC>برا</LOC> بحال <RESOURCE>الطاقة</RESOURCE> غادين يغلاو، وهادشي كيرفع <ECON_INDICATOR>التضخم</ECON_INDICATOR> و <ECON_INDICATOR>الأسعار</ECON_INDICATOR>. السؤال هو شحال غادي يوصل <CURRENCY>الدرهم</CURRENCY> مقابل <CURRENCY>الدولار</CURRENCY> و <CURRENCY>الأورو</CURRENCY> ف <DATE>السنوات الجاية</DATE> إذا كان <EVENT_AGG>تعويم كلي</EVENT_AGG>.
+
+ف <DATE>16 فبراير 2026</DATE>، <CARDINAL>1</CARDINAL> <CURRENCY>دولار</CURRENCY> كيسوى <CARDINAL>9.16</CARDINAL> و <CARDINAL>1</CARDINAL> <CURRENCY>أورو</CURRENCY> كيسوى <CARDINAL>10.45</CARDINAL>. هاد الأرقام هابطة مقارنة ب <DATE>السنوات الماضية</DATE> فاش وصلوا ل <CARDINAL>11</CARDINAL>. هاد الهبوط كينقص ثمن المواد الأولية بحال <RESOURCE>الليسونس</RESOURCE> و <RESOURCE>النفط</RESOURCE>. وبزاف ديال المواد بحال <RESOURCE>القمح</RESOURCE> و <RESOURCE>السكر</RESOURCE> كيبقاو طابل حيت <GOV_AGG>الدولة</GOV_AGG> كدعمهم باش تحمي <ECON_INDICATOR>القدرة الشرائية</ECON_INDICATOR> ديال <NORP>المغاربة</NORP>.
+
+الوضعية الاقتصادية ف <GPE>المغرب</GPE> دابا فيها <RESOURCE>احتياطي نقد أجنبي</RESOURCE> كيوصل ل <CARDINAL>387 مليار</CARDINAL> <CURRENCY>درهم</CURRENCY> (تقريبا <CARDINAL>38 مليار</CARDINAL> <CURRENCY>دولار</CURRENCY>)، يعني كيكفي ل <DATE>7 شهور</DATE> ديال <RESOURCE>الواردات</RESOURCE>. <ECON_INDICATOR>التضخم</ECON_INDICATOR> تراجع لقل من <CARDINAL>1%</CARDINAL> ف <DATE>أبريل 2025</DATE>. <ORG>صندوق النقد الدولي</ORG> قال بلي <GPE>المغرب</GPE> غادي ف طريق مزيان باش يحقق التوازن ف <CURRENCY>العملة</CURRENCY> ويزيد ف <ECON_INDICATOR>ثقة المستثمرين</ECON_INDICATOR>.
+
+باستعمال <MEDIA_AGG>الذكاء الاصطناعي</MEDIA_AGG> <ORG>ChatGPT</ORG> (نسخة <WORK_OF_ART>O3</WORK_OF_ART>)، كاينين <CARDINAL>3</CARDINAL> سيناريوهات للدرهم:
+
+السيناريو الأفضل: طفرة ف <RESOURCE>التصدير</RESOURCE> بحال <RESOURCE>الهيدروجين الأخضر</RESOURCE> و <RESOURCE>السيارات الكهربائية</RESOURCE>، مع أرقام قياسية ف <EVENT_AGG>السياحة</EVENT_AGG> وتحويلات <NORP>المغاربة لي عايشين برا</NORP>. ف <DATE>العام الأول</DATE>، <CURRENCY>الدولار</CURRENCY> غيكون بين <CARDINAL>9.6</CARDINAL> و <CARDINAL>9.7</CARDINAL>، و <CURRENCY>الأورو</CURRENCY> بين <CARDINAL>10.9</CARDINAL> و <CARDINAL>11</CARDINAL>. مورا <DATE>10 سنين</DATE>، <CURRENCY>الدرهم</CURRENCY> غيولي قوي و <CURRENCY>الدولار</CURRENCY> يهبط ل <CARDINAL>8</CARDINAL> دراهم.
+
+السيناريو المتوسط: <EVENT_AGG>تعويم تدريجي</EVENT_AGG> مع <ECON_INDICATOR>تضخم</ECON_INDICATOR> متحكم فيه. <CURRENCY>الدولار</CURRENCY> يوصل ل <CARDINAL>10.1</CARDINAL> ف <DATE>العام الأول</DATE>. مورا <DATE>10 سنين</DATE>، الأمور غتبقى مستقرة ف المستويات ديال دابا (بين <CARDINAL>9.5</CARDINAL> و <CARDINAL>10.8</CARDINAL>).
+
+السيناريو الكارثي: <EVENT_AGG>جفاف</EVENT_AGG> طويل، <EVENT_AGG>ركود</EVENT_AGG> ف <LOC>أوروبا</LOC>، ونزيف ف <RESOURCE>الاحتياطيات</RESOURCE>. ف <DATE>العام الأول</DATE> <CURRENCY>الدولار</CURRENCY> يوصل ل <CARDINAL>12</CARDINAL> و <CURRENCY>الأورو</CURRENCY> ل <CARDINAL>13.5</CARDINAL>. مورا <DATE>10 سنين</DATE>، يقدر يوصل ل <CARDINAL>20</CARDINAL> <CURRENCY>درهم</CURRENCY> للأورو، وهادشي غيدير <EVENT_AGG>أزمة</EVENT_AGG> بحال <GPE>مصر</GPE> و <GPE>تركيا</GPE>.
+
+TAGGED TEXT (CLEAN ARABIZI)
+
+Bzaf dyal <NORP>lmgharba</NORP> fash kaysm3o <EVENT_AGG>ta3wim</EVENT_AGG> kaykhafo, khassatan lli 3ndhom flos mkhbiya, kayshablihom <CURRENCY>drhem</CURRENCY> ghadi ytih bzaf f <DATE>wqt qssir</DATE>. Htta <NORP>tabaqa lfaqira</NORP> kayshab liha blli <EVENT_AGG>ta3wim</EVENT_AGG> ghadi yzidhom fqr hit lmawad lli kijiw mn <LOC>berra</LOC> bhal <RESOURCE>taqa</RESOURCE> ghadin yghlaw, o hadshi kayrf3 <ECON_INDICATOR>ttadakhom</ECON_INDICATOR> o <ECON_INDICATOR>alas3ar</ECON_INDICATOR>. Ssoual hwa chhal ghadi ywsal <CURRENCY>drhem</CURRENCY> moqabil <CURRENCY>dollar</CURRENCY> o <CURRENCY>euro</CURRENCY> f <DATE>lsanawat ljaya</DATE> ida kan <EVENT_AGG>ta3wim kolli</EVENT_AGG>.
+
+F <DATE>16 fbrayer 2026</DATE>, <CARDINAL>1</CARDINAL> <CURRENCY>dollar</CURRENCY> kayswa <CARDINAL>9.16</CARDINAL> o <CARDINAL>1</CARDINAL> <CURRENCY>euro</CURRENCY> kayswa <CARDINAL>10.45</CARDINAL>. Had larqam habta moqarana b <DATE>lsanawat lmadya</DATE> fash wsslo l <CARDINAL>11</CARDINAL>. Had lhobot kaynqos tman lmawad l-awwaliya bhal <RESOURCE>lessence</RESOURCE> o <RESOURCE>nnift</RESOURCE>. O bzaf dyal lmawad bhal <RESOURCE>lqmh</RESOURCE> o <RESOURCE>ssokkar</RESOURCE> kaybqaw stable hit <GOV_AGG>ddawla</GOV_AGG> katd3mhom bash thmi <ECON_INDICATOR>qodra chira-iya</ECON_INDICATOR> dyal <NORP>lmgharba</NORP>.
+
+Lwad3iya liqtissadiya f <GPE>lmghrib</GPE> daba fiha <RESOURCE>ihtiyati naqd ajnabi</RESOURCE> kaywsal l <CARDINAL>387 mlyar</CARDINAL> <CURRENCY>drhem</CURRENCY> (taqriban <CARDINAL>38 mlyar</CARDINAL> <CURRENCY>dollar</CURRENCY>), ya3ni kaykfi l <DATE>7 chhor</DATE> dyal <RESOURCE>lwaridat</RESOURCE>. <ECON_INDICATOR>ttadakhom</ECON_INDICATOR> taraj3 l qll mn <CARDINAL>1%</CARDINAL> f <DATE>avril 2025</DATE>. <ORG>sandouq nnaqd ddawli</ORG> qal blli <GPE>lmghrib</GPE> ghadi f triq mzyan bash yhqqq tawazon f <CURRENCY>l3omla</CURRENCY> o yzid f <ECON_INDICATOR>thiqat lmostatmirin</ECON_INDICATOR>.
+
+B-isti3mal <MEDIA_AGG>dikae istina3i</MEDIA_AGG> <ORG>ChatGPT</ORG> (noskha <WORK_OF_ART>O3</WORK_OF_ART>), kaynin <CARDINAL>3</CARDINAL> senaryowat l-drhem:
+
+Senaryo l-afdal: Tafra f <RESOURCE>ttasdir</RESOURCE> bhal <RESOURCE>hydrogene lakhdar</RESOURCE> o <RESOURCE>ssayarate lkahraba-iya</RESOURCE>, m3a arqam qiyasiya f <EVENT_AGG>syaha</EVENT_AGG> o tahwilat <NORP>lmgharba lli 3aychin berra</NORP>. F <DATE>l3am l-awwal</DATE>, <CURRENCY>dollar</CURRENCY> ghaykon bin <CARDINAL>9.6</CARDINAL> o <CARDINAL>9.7</CARDINAL>, o <CURRENCY>euro</CURRENCY> bin <CARDINAL>10.9</CARDINAL> o <CARDINAL>11</CARDINAL>. Mora <DATE>10 snin</DATE>, <CURRENCY>drhem</CURRENCY> ghayolli qwi o <CURRENCY>dollar</CURRENCY> yhbat l <CARDINAL>8</CARDINAL> drahim.
+
+Senaryo l-motawassit: <EVENT_AGG>ta3wim tadriji</EVENT_AGG> m3a <ECON_INDICATOR>ttadakhom</ECON_INDICATOR> motahakkam fih. <CURRENCY>dollar</CURRENCY> ywsal l <CARDINAL>10.1</CARDINAL> f <DATE>l3am l-awwal</DATE>. Mora <DATE>10 snin</DATE>, l-omour ghatbqa mostaqirra f l-mostawayat dyal daba (bin <CARDINAL>9.5</CARDINAL> o <CARDINAL>10.8</CARDINAL>).
+
+Senaryo l-kariti: <EVENT_AGG>jjafaf</EVENT_AGG> tawil, <EVENT_AGG>rokoud</EVENT_AGG> f <LOC>europa</LOC>, o nazif f <RESOURCE>lihtiyatiyat</RESOURCE>. F <DATE>l3am l-awwal</DATE> <CURRENCY>dollar</CURRENCY> ywsal l <CARDINAL>12</CARDINAL> o <CURRENCY>euro</CURRENCY> l <CARDINAL>13.5</CARDINAL>. Mora <DATE>10 snin</DATE>, yqdar ywsal l <CARDINAL>20</CARDINAL> <CURRENCY>drhem</CURRENCY> l-euro, o hadshi ghaydir <EVENT_AGG>azma</EVENT_AGG> bhal <GPE>misr</GPE> o <GPE>turkia</GPE>.
+
+Would you like me to extract a summary of the specific economic indicators mentioned or perform tagging on another text?
+
+--------------------------------------
+
+[Assistant Response 2]:
+TAGGED TEXT (ARABIC)
+
+بزاف كيسولوا على <EVENT_AGG>الفساد</EVENT_AGG> ديال <PERSON_AGG>السياسيين</PERSON_AGG> و <PERSON_AGG>البرلمانيين</PERSON_AGG> و <PERSON_AGG>الوزراء</PERSON_AGG>. واحد المرة <DATE>صباح</DATE> فقت لقيت <MEDIA_AGG>جريدة وطنية</MEDIA_AGG> دايرة صورتي وعنوان كيقول بلي <PERSON>بوعيدة</PERSON> كيستغل السلطة ديالو باش يدخل قريبتو ل <GOV>البرلمان</GOV>. بقيت كنستغرب شكون هاد القريبة، صدقت <PERSON_AGG>بنتي</PERSON_AGG> اللي في <DATE>2016</DATE> كان عندها غير <CARDINAL>أربع سنين</CARDINAL> وهي زايدة في <DATE>2012</DATE>. واش <CARDINAL>أربع سنين</CARDINAL> غدخل ل <GOV>البرلمان</GOV>؟ هادشي كيبين حجم <EVENT_AGG>التشهير</EVENT_AGG>.
+
+طيلة المدة اللي ترأست فيها <GOV>الجهة</GOV> تعرضت ل <EVENT_AGG>السب</EVENT_AGG> و <EVENT_AGG>القذف</EVENT_AGG>، ولكن المبدا ديالي هو ما نتابع حتى شي واحد قضائيا. <PERSON_AGG>السياسيين</PERSON_AGG> اللي كيمارسوا <EVENT_AGG>الشأن العام</EVENT_AGG> خاصهم يتقبلوا <EVENT_AGG>النقد</EVENT_AGG> حيت هما في الواجهة وما بقاتش عندهم حياة خاصة. دابا كاين <EVENT_AGG>التشهير</EVENT_AGG> حتى من عند <PERSON_AGG>المواطنين</PERSON_AGG> اللي عندهم هواتف، والحق والباطل تخلطوا.
+
+كاين <CARDINAL>جوج</CARDINAL> أنواع ديال <EVENT_AGG>المتابعات</EVENT_AGG>، ولكن ك <PERSON_AGG>مسؤول</PERSON_AGG> خاصني نتقبل <EVENT_AGG>الانتقادات</EVENT_AGG> الصحيحة ونصلح راسي. <PERSON_AGG>السياسيين</PERSON_AGG> ما خاصهمش يبقاو مقابلين غير شنو كيتكتب عليهم. <GPE>المغرب</GPE> دابا راه كيتولى رئاسة <GOV>المجلس الدولي لحقوق الإنسان</GOV> التابع ل <ORG>الأمم المتحدة</ORG>، ومن <DATE>التسعينات</DATE> ل <DATE>2024</DATE> كاين تطور كبير في هاد المجال.
+
+الغريب هو أن <GOV_AGG>مؤسسات الدولة</GOV_AGG> بحال <GOV_AGG>الأمن</GOV_AGG> ولا <GOV_AGG>الدرك</GOV_AGG> ما كيدعيو حد رغم <EVENT_AGG>الانتقاد</EVENT_AGG>، ولكن <PERSON_AGG>السياسيين</PERSON_AGG> و <ORG>الأحزاب</ORG> صدرهم ضيق. كاين أعطاب في <EVENT_AGG>المشهد السياسي</EVENT_AGG> وخاص إصلاح <LAW>مدونة الأخلاق</LAW> داخل <GOV>البرلمان</GOV> وخارجو. <EVENT_AGG>التشهير</EVENT_AGG> في <MEDIA_AGG>مواقع التواصل الاجتماعي</MEDIA_AGG> كيعطي صورة خايبة على <GPE>البلاد</GPE>. واخا كاين <EVENT_AGG>الفساد</EVENT_AGG> في بزاف ديال الطبقات، ولكن خاص ديما يكون الدليل قبل ما نهضرو.
+
+TAGGED TEXT (CLEAN ARABIZI)
+
+Bzaf kysouwlo ela <EVENT_AGG>lfasad</EVENT_AGG> dyal <PERSON_AGG>lsiyasiyin</PERSON_AGG> w <PERSON_AGG>lbarlamaniyin</PERSON_AGG> w <PERSON_AGG>lowazara</PERSON_AGG>. Wahed lmra <DATE>sbah</DATE> fqt lqit <MEDIA_AGG>jarida wataniya</MEDIA_AGG> dayra sourti w enwan kigoul bli <PERSON>Bouaida</PERSON> kistaghl ssoulta dyalo bash ydkhl qribto l <GOV>lbarlaman</GOV>. Bqit knstaghrb shkoun had lqriba, sdqat <PERSON_AGG>bnti</PERSON_AGG> lli fi <DATE>2016</DATE> kan endha ghir <CARDINAL>arba snin</CARDINAL> w hiya zayda fi <DATE>2012</DATE>. Wash <CARDINAL>arba snin</CARDINAL> ghatdkhl l <GOV>lbarlaman</GOV>? Hadshi kibiyen hajm <EVENT_AGG>ltashhir</EVENT_AGG>.
+
+Tilat lmouda lli t-raast fiha <GOV>ljika</GOV> t-arradt l <EVENT_AGG>lsabb</EVENT_AGG> w <EVENT_AGG>lqadf</EVENT_AGG>, walakin lmabda dyali houwa ma ntabe hatta shi wahed qadaiyan. <PERSON_AGG>Lsiyasiyin</PERSON_AGG> lli kimarsou <EVENT_AGG>lshan l-am</EVENT_AGG> khashom ytqeblou <EVENT_AGG>lnaqd</EVENT_AGG> hit houma fi l-wajika w ma bqatch endhom hayat khassa. Daba kayn <EVENT_AGG>ltashhir</EVENT_AGG> hatta mn end <PERSON_AGG>lmouatinin</PERSON_AGG> lli endhom hwatif, wl-haqq wl-batil tkhaltou.
+
+Kayn <CARDINAL>jouj</CARDINAL> enwae dyal <EVENT_AGG>lmotabaat</EVENT_AGG>, walakin ka <PERSON_AGG>masoul</PERSON_AGG> khasni ntqebl <EVENT_AGG>l-intiqadat</EVENT_AGG> lsahika w nslah rasi. <PERSON_AGG>Lsiyasiyin</PERSON_AGG> ma khashomsh ybqaw mqablin ghir shnou kitkteb elihom. <GPE>Lmghrib</GPE> daba rah kitwalla riasat <GOV>lmajlis l-dawli l-huquq l-insan</GOV> lli tabae l <ORG>l-omam l-mottahida</ORG>, w mn <DATE>ltsinat</DATE> l <DATE>2024</DATE> kayn tattawor kbir fi had l-majal.
+
+Lghrib houwa ana <GOV_AGG>mouassasat l-dawla</GOV_AGG> bhal <GOV_AGG>l-amn</GOV_AGG> wla <GOV_AGG>ldark</GOV_AGG> ma kid-aiw had rghm <EVENT_AGG>l-intiqad</EVENT_AGG>, walakin <PERSON_AGG>lsiyasiyin</PERSON_AGG> w <ORG>l-ahzab</ORG> sdrom dyyaq. Kayn a-tab fi <EVENT_AGG>lmash-had lsiyasi</EVENT_AGG> w khas islah <LAW>moudawanat l-akhlaq</LAW> dakhl <GOV>lbarlaman</GOV> w kharjo. <EVENT_AGG>Ltashhir</EVENT_AGG> fi <MEDIA_AGG>mawaqi l-tawasol l-ijtima-i</MEDIA_AGG> ki-ati soura khayba ela <GPE>lblad</GPE>. Wakha kayn <EVENT_AGG>lfasad</EVENT_AGG> fi bzaf dyal ttabaqat, walakin khas dima ykoun ddalil qbl ma nhadrou.
+
+Would you like me to extract a specific list of all tagged entities along with their types for your database?
+
+--------------------------------------
+
+[Assistant Response 3]:
+TAGGED TEXT (ARABIC)
+
+فالمرحلة اللخرة، كتر الهضرة على المهاجرين <NORP>الأفارقة</NORP> اللي جاو لـ <GPE>المغرب</GPE>. وخا <GPE>المغرب</GPE> راه جزء من <LOC>إفريقيا</LOC>، ولكن كاين اللي كيشوف هاد التواجد بحال شي هجوم، وكاين ردود فعل سلبية من طرف شي <NORP>مغاربة</NORP>. <GPE>المغرب</GPE> ولا كيتعبر <ORDINAL>ثاني</ORDINAL> دولة فـ <LOC>إفريقيا</LOC> كيقصدوها الناس من <GPE>إفريقيا الوسطى</GPE> باش يستقرو. هادشي راجع لـ <CARDINAL>جوج</CARDINAL> أسباب: الأول هو الموقع، حيت <GPE>المغرب</GPE> قريب لـ <GPE>صبانيا</GPE> و <GPE>أوروبا</GPE>، وكان ديما نقطة عبور للحريݣ، وهادشي جذب ناس من <NORP>عرب</NORP> و <NORP>هنود</NORP> و <NORP>باكستانيين</NORP>، وحتى <NORP>سوريين</NORP> و <NORP>ليبيين</NORP> فواحد الوقيتة.
+
+دابا، بزاف ديال <NORP>الأفارقة</NORP> مابقاوش كيشوفو <GPE>المغرب</GPE> غير قنطرة، ولقاو باللي العيشة بلا وراق فـ <GPE>أوروبا</GPE> صعابت، داكشي علاش بزاف اختارو يبقاو فـ <GPE>المغرب</GPE> حيت البنية التحتية ديالو أحسن بزايد مقارنة بدول <LOC>إفريقيا الوسطى</LOC>، وحتى الخدمة والطب متوفرين كثر. وخا شي <NORP>مغاربة</NORP> كيشوفو بلادهم عاد كتمى، ولكن اللي سافر لـ <LOC>إفريقيا</LOC> كيشوف الفرق فالتطور والظروف الصحية. حتى يلا قارنا <GPE>المغرب</GPE> مع <GPE>الجزائر</GPE>، <GPE>تونس</GPE>، و <GPE>مصر</GPE>، كنلقاو شهادات كتقول باللي هو الأفضل فالبنية التحتية.
+
+هاد الظاهرة خلات شي تعليقات عنصرية تظهر، وهاد الرفض للمهاجرين كاين فالعالم كامل عند الطبقة الفقيرة والمتوسطة. <NORP>المغاربة</NORP> اللي ساكنين فـ <GPE>الخارج</GPE> كيفهمو هادشي حيت كيعيشوه، وفـ <DATE>2022</DATE> و <DATE>2023</DATE> مع التضخم فـ <GPE>أوروبا</GPE>، زاد الحقد على المهاجرين. فـ <GPE>المغرب</GPE>، فاش غلا <ENTITY_TYPE_AGG>البترول</ENTITY_TYPE_AGG>، الانتقاد مشى كثر لـ <PERSON_AGG>السياسيين</PERSON_AGG> والوسطاء، وماشي للمهاجرين بحال <GPE>أوروبا</GPE>، وخا كاين تأثيرات ديال <EVENT_AGG>حرب</EVENT_AGG> <GPE>أوكرانيا</GPE> و <GPE>روسيا</GPE>.
+
+هاد الهجرة عندها جوانب سلبية بحال الصدمة الثقافية واختلاف <LAW>التقاليد</LAW> والدين بين <NORP>المسلمين</NORP> و <NORP>المسيحيين</NORP>، خاصة يلا المهاجرين عزلو راسهم فـ <LOC>أحياء</LOC> خاصة. ولكن كاين جوانب إيجابية، حيت <GPE>المغرب</GPE> غادي يحتاج يد عاملة فالمستقبل فمجالات بحال <ENTITY_TYPE_AGG>الطب</ENTITY_TYPE_AGG> حيت كاين نقص. المهاجرين يقدرو يعطيو دفعة <ENTITY_TYPE_AGG>اقتصادية</ENTITY_TYPE_AGG> و <ENTITY_TYPE_AGG>سياسية</ENTITY_TYPE_AGG>، وبزاف ديال <PERSON_AGG>الرؤساء</PERSON_AGG> فـ <LOC>إفريقيا</LOC> قراو فـ <GPE>المغرب</GPE>، وهادشي نفع البلاد فملف <LOC>الصحراء المغربية</LOC> وفالصراع مع <GPE>الجزائر</GPE>.
+
+TAGGED TEXT (CLEAN ARABIZI)
+
+Fl-marhala lkhra, ktrat lhoda ela lmouhajirin <NORP>lafarika</NORP> lli jaw l- <GPE>lmghrib</GPE>. Wakha <GPE>lmghrib</GPE> rah joze mn <LOC>ifriqya</LOC>, walakin kayn lli kychouf had tawajod bhal chi hojoum, w kayn roudoud fi3l silbiya mn taraf chi <NORP>mgharba</NORP>. <GPE>lmghrib</GPE> wlla kyt3teber <ORDINAL>thani</ORDINAL> dawla f- <LOC>ifriqya</LOC> kyqasdouha nass mn <GPE>ifriqya lwosta</GPE> bach ystagrou. Hadchi raje3 l- <CARDINAL>jouj</CARDINAL> asbab: l-awwal houwa l-mawqi3, hit <GPE>lmghrib</GPE> qrib l- <GPE>spanya</GPE> w <GPE>loropa</GPE>, w kan dima nuqtat obour l-hriq, w hadchi jdeb nass mn <NORP>arab</NORP> w <NORP>hnoud</NORP> w <NORP>bakistanayyin</NORP>, w hta <NORP>souriyyin</NORP> w <NORP>libiyyin</NORP> f-wahd l-weqita.
+
+Daba, bzaf dyal <NORP>lafarika</NORP> mabqawch kychoufou <GPE>lmghrib</GPE> ghir qntra, w lqaw billi l-3icha bla wraq f- <GPE>loropa</GPE> s3abet, dakchi elach bzaf khtaro ybqaw f- <GPE>lmghrib</GPE> hit l-binya l-tahtiya dyalou hssen b-zayed muqarana b-douwal <LOC>ifriqya lwosta</LOC>, w hta l-khidma w l-tebb mtowfrin kter. Wakha chi <NORP>mgharba</NORP> kychoufou bladhoum ad katnma, walakin lli safer l- <LOC>ifriqya</LOC> kychouf l-farq f-tatawor w l-dorouf l-sihiya. Hta ylla qarna <GPE>lmghrib</GPE> m3a <GPE>ljazair</GPE>, <GPE>tounes</GPE>, w <GPE>misr</GPE>, knlqaw chahadat katqoul billi houwa l-afdal f-lbinya l-tahtiya.
+
+Had l-dahira khlat chi teliqat onsouriya t-dher, w had l-rafd l-mouhajirin kayn f-l3alam kamel 3nd l-tabaqa l-faqira w l-mutawassita. <NORP>lmgharba</NORP> lli saknin f- <GPE>lkharij</GPE> kyfehmou hadchi hit ky3ichouh, w f- <DATE>2022</DATE> w <DATE>2023</DATE> m3a l-tadakhoum f- <GPE>loropa</GPE>, zad l-hiqd ela l-mouhajirin. F- <GPE>lmghrib</GPE>, fach ghla <ENTITY_TYPE_AGG>lpetrol</ENTITY_TYPE_AGG>, l-intiqad mcha kter l- <PERSON_AGG>lsiyasiyyin</PERSON_AGG> w l-ousata2, w machi l-mouhajirin bhal <GPE>loropa</GPE>, wakha kayn tatirat dyal <EVENT_AGG>harb</EVENT_AGG> <GPE>okranya</GPE> w <GPE>roussya</GPE>.
+
+Had l-hijra 3ndha jwanib silbiya bhal l-sadma l-thaqafiya w ikhtilaf <LAW>l-taqalid</LAW> w l-din bin <NORP>louslimin</NORP> w <NORP>lmasihiyyin</NORP>, khassatan ylla l-mouhajirin ezlou rashoum f- <LOC>ahya2</LOC> khassa. Walakin kayn jwanib ijabiya, hit <GPE>lmghrib</GPE> ghadi yhtaj yd amila f-lmostaqbal f-majallat bhal <ENTITY_TYPE_AGG>l-tebb</ENTITY_TYPE_AGG> hit kayn naqs. L-mouhajirin yqdrou ya3tiw df3a <ENTITY_TYPE_AGG>iqtisadiya</ENTITY_TYPE_AGG> w <ENTITY_TYPE_AGG>siyasiya</ENTITY_TYPE_AGG>, w bzaf dyal <PERSON_AGG>l-rou2assa</PERSON_AGG> f- <LOC>ifriqya</LOC> qraw f- <GPE>lmghrib</GPE>, w hadchi nfe3 l-blad f-milaf <LOC>lsahrae lmghribiya</LOC> w f-lsira3 m3a <GPE>ljazair</GPE>.
+
+--------------------------------------
+

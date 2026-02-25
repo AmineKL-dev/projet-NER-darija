@@ -1,0 +1,35 @@
+TAGGED TEXT (ARABIC)
+<CARDINAL> 115 </CARDINAL> مليار درهم تضاعت باختلاسات من <ORG> صندوق الضمان الاجتماعي </ORG> ما بين <DATE> 1972 </DATE> و <DATE> 1992 </DATE> ، يعني مدة <CARDINAL> 20 </CARDINAL> عام. هاد المبلغ كبير بزاف وضاع فالاختلاس. وفهاد السنوات اللخرة بانو حالات فساد كثيرة، بحال الاتفاقيات المضادة للمنافسة فالمحروقات، و <ORG> مجلس المنافسة </ORG> خرج غرامات على الشركات المعنية.
+تسمعات حالة أستاذ جامعي كيبيع الماستر للطلبة، وملفات تضارب المصالح، ومشاكل فالأدوية. وحتى تسرب تسجيل لاجتماع فاللجنة المؤقتة ديال <GOV> المجلس الأعلى للصحافة </GOV> ، وبان فيه تآمر ما محترمش الشروط القانونية وكان فيه استهداف لصحافي كينتقد الفساد.
+كانت حتى احتجاجات <EVENT> جيل زاد </EVENT> اللي طالبت بإسقاط الفساد. ومع ذلك، ما بان حتى تقدم. فـ <DATE> 2018 </DATE> المغرب كان جايب <CARDINAL> 43 </CARDINAL> على <CARDINAL> 100 </CARDINAL> فمؤشر مدركات الفساد، وفـ <DATE> 2024 </DATE> ولى <CARDINAL> 37 </CARDINAL> على <CARDINAL> 100 </CARDINAL> ، نقصنا <CARDINAL> 6 </CARDINAL> نقط.
+<PERSON> عبد اللطيف وهبي </PERSON> <PERSON_AGG>وزير العدل</PERSON_AGG> قال فواحد الخرجات ديالو بللي الفساد ما كيبانش، وإذا تشد تيعكر.
+الفساد هو ملي شي مسؤول عندو سلطة ولا كيسير مال عام كيقدم المصلحة الشخصية ديالو على المصلحة العامة. قانونياً، الفساد معرف فمواد من القانون الجنائي من الفصل <CARDINAL> 241 </CARDINAL> حتى <CARDINAL> 256 </CARDINAL> ، وفيهم الرشوة، الاختلاس، تبديد أموال الدولة، الغدر، الاستيلاء غير المشروع، التزوير، وتغيير السجلات الرسمية.
+وزاد الدستور فالفصل <CARDINAL> 36 </CARDINAL> جرّم تنازع المصالح، استغلال النفوذ، الاحتكار، والممارسات المخالفة للمنافسة الحرة.
+فـ <DATE> 2015 </DATE> تدارت استراتيجية وطنية لمحاربة الفساد، وبدا التنفيذ، ولكن سالات فـ <DATE> 2025 </DATE> بلا نتائج إيجابية، حيث التنقيط طاح من <CARDINAL> 43 </CARDINAL> فـ <DATE> 2018 </DATE> لـ< CARDINAL>37 </CARDINAL> فـ <DATE> 2024 </DATE> .
+حسب تقرير <GOV> الهيئة الوطنية للنزاهة والوقاية من الرشوة ومحاربتها </GOV> ، الأسباب الرئيسية للفشل كانت ضعف تعبئة المسؤولين، غياب ميزانية مخصصة، ضعف التواصل، وغياب تشريعات فعالة.
+من بين المشاكل، مسطرة التصريح بالممتلكات. المسؤولين خاصهم يصرحو بالممتلكات اللي كتفوت <CARDINAL> 300000 </CARDINAL> درهم. ولكن الطريقة تقليدية، ورقية، وما فيهاش رقمنة. التصريحات كتمشي ل <ORG> المجلس الأعلى للحسابات </ORG> . فالمغرب، كل <CARDINAL> 1000 </CARDINAL> موظف ملزم بالتصريح قدامهم غير <CARDINAL> 0.15 </CARDINAL> موظف مكلف بالتدقيق، فحين ف <LOC> فرنسا </LOC> كل <CARDINAL> 1000 </CARDINAL> موظف قدامهم <CARDINAL> 6.3 </CARDINAL> مدققين.
+كاين حتى فراغ قانوني فالإثراء غير المشروع. هاد التجريم كان فمشروع القانون الجنائي السابق، ولكن تسحب من طرف <PERSON> عبد اللطيف وهبي </PERSON> . تبرير السحب كان بدعوى احترام قرينة البراءة، باش ما يتقلبش عبء الإثبات على المتهم.
+ولكن كاين مبدأ آخر فدستور <DATE> 2011 </DATE> وهو ربط المسؤولية بالمحاسبة. والاتفاقية الدولية لمحاربة الفساد اللي موقع عليها <GPE> المغرب </GPE> خلات مسألة تجريم الإثراء غير المشروع حسب خصوصية كل دولة.
+الإثراء غير المشروع مجرّم فدول بحال <GPE> الأرجنتين </GPE> ، بينما دول متقدمة ما محتاجاهش حيت عندهم آليات رقابة قوية.
+تضارب المصالح حتى هو مشكل كبير. كاين تعريف ليه فقانون خاص بالجهات، خصوصاً فالمادة <CARDINAL> 68 </CARDINAL> ، ولكن ما كاينش قانون شامل كيطبق على باقي المؤسسات بحال الحكومة والوزارات.
+قبل <DATE> 2022 </DATE> ، المبلغين على الفساد كانوا معرضين لمتابعات بتهمة الوشاية الكاذبة. دابا <GOV> الهيئة الوطنية للنزاهة والوقاية من الرشوة ومحاربتها </GOV> كتستقبل الشكايات عبر منصة إلكترونية، وكتقدر تدير تحقيقات بتنسيق مع البوليس.
+فـ <DATE> 2019 </DATE> ، <LOC> كوريا الجنوبية </LOC> تسجلات فيها أكثر من <CARDINAL> 30000 </CARDINAL> شكاية فساد. وفي بعض الدول بحال <LOC> مريكان </LOC> ، المبلغين كيستافدو حتى من مكافآت مالية.
+من بعد، خرج تعديل ف <LAW> قانون المسطرة الجنائية </LAW> فالمادة <CARDINAL> 3 </CARDINAL> و< CARDINAL>7 </CARDINAL> ، اللي حيد صلاحية الجمعيات فالتبليغ المباشر للنيابة العامة فحالات الفساد.
+الفساد كيأثر على التنمية، كيخلي المستثمرين ما يجيّوش، وكيشجع هجرة الكفاءات. الحل كيتلخص فثلاثة حوايج: ترسيخ قيمة الكفاءة، مقاومة الفساد فالسلوك اليومي، وتطبيق قوانين واضحة وربط المسؤولية بالمحاسبة.
+TAGGED TEXT (CLEAN ARABIZI)
+<CARDINAL> 115 </CARDINAL> milyar drham tda3at bikhtilassat mn <ORG> Sandouq Daman Ijtimai </ORG> ma bin <DATE> 1972 </DATE> w <DATE> 1992 </DATE> yani modat <CARDINAL> 20 </CARDINAL> 3am. had lmoblagh kbir bzaf w da3 flikhtilas. w fhad snin lakhrin banu halat fassad ktira, bhal itifaqiyat modada lmonafassa f lmohroqat, w <ORG> Majlis Monafassa </ORG> khrej gharamat 3la charikat.
+tsm3at halat ostad jami3i kaybi3 lmaster ltolaba, w milafat tadarob lmasalih, w moshakil f dawa. w ta tsrab tasjil lajtima3 f lajna lmo2a9ata dyal <GOV> Majlis A3la lSahafa </GOV> , w ban fih ta2amor ma7tarmch chorot qanoniya w kan fih istihdaf l sahafi kaynt9ed lfassad.
+kanat ta ihtijajat <EVENT> Jil Zad </EVENT> li talabou bis9at lfassad. w ma ban ta ta9addom. f <DATE> 2018 </DATE> lmghrib kan jayb <CARDINAL> 43 </CARDINAL> 3la <CARDINAL> 100 </CARDINAL> , w f <DATE> 2024 </DATE> wla <CARDINAL> 37 </CARDINAL> 3la <CARDINAL> 100 </CARDINAL> , n9asna <CARDINAL> 6 </CARDINAL> no9at.
+<PERSON> Abdellatif Wahbi </PERSON> <PERSON_AGG>wazir l3adl</PERSON_AGG> gal belli lfassad ma kayban ch, w ila tched kay3akker.
+lfassad howa mlli chi mas2oul 3ando solta wala kaydir lmal l3am kay9addem lmaslaha chakhsiya 3la lmaslaha l3amma. qanoniya m3arraf mn fasl <CARDINAL> 241 </CARDINAL> hta <CARDINAL> 256 </CARDINAL> .
+f <DATE> 2015 </DATE> tdarat istratiya wataniya, w salat f <DATE> 2025 </DATE> bla natayej, w tan9it tah mn <CARDINAL> 43 </CARDINAL> f <DATE> 2018 </DATE> l <CARDINAL> 37 </CARDINAL> f <DATE> 2024 </DATE> .
+7asab ta9rir <GOV> Hay2a Wataniya Nazaaha wi9aya mn Rachwa w Mo7arabatha </GOV> , l2asbab kanou da3f ta3bi2a, ghiab mizaniya, ghiab tachri3.
+mastra tasrih bil momtalakat katbda mn <CARDINAL> 300000 </CARDINAL> drham. katmchi l <ORG> Majlis A3la lHisabat </ORG> . f lmghrib kol <CARDINAL> 1000 </CARDINAL> mowadif 9odam <CARDINAL> 0.15 </CARDINAL> modaqiq, f <LOC> Fransa </LOC> <CARDINAL> 6.3 </CARDINAL> .
+ithra2 ghayr mashrou3 ma kaynach qanoun kay3a9bo. <PERSON> Abdellatif Wahbi </PERSON> sahab had lmadda, b sabab qarina bara2a.
+dstour <DATE> 2011 </DATE> fih mabda2 rabt lmas2ouliya bil mo7asaba. w ittifaqiya dawliya li mowa9i3 3liha <GPE> Lmghrib </GPE> khallat had lmas2ala 7asab kol dawla.
+mjarrem f <GPE> Argantine </GPE> .
+tadarob lmasalih kayn f mada <CARDINAL> 68 </CARDINAL> , walakin ma kaynach qanoun chamil.
+9bal <DATE> 2022 </DATE> lmobalighin kanou kayt3ardou lmotaaba3a. daba <GOV> Hay2a Wataniya Nazaaha wi9aya mn Rachwa w Mo7arabatha </GOV> katsta9bel chikayat.
+f <DATE> 2019 </DATE> <LOC> Korea Janoubiya </LOC> kan fih aktar mn <CARDINAL> 30000 </CARDINAL> chikaya. w f <LOC> Amerikan </LOC> kayn mokafa2at.
+t3dil f <LAW> Qanoun Mastra Jinaiya </LAW> f mada <CARDINAL> 3 </CARDINAL> w <CARDINAL> 7 </CARDINAL> hayd salahiyat ljam3iyat.
+lfassad kay2atr 3la tanmiya w kaychaja3 hijrat lkafa2at. الحل f tarbiya 3la kafa2a, mo9awamat lfassad, w tatbi9 qanoun w rabt lmas2ouliya bil mo7asaba.

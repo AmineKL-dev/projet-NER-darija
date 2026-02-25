@@ -1,0 +1,37 @@
+TAGGED TEXT (ARABIC)
+انخفاض قياسي للتضخم ف <GPE> المغرب </GPE> ، وهاد المستوى هو الادنى من <DATE> يناير 2011 </DATE> . التضخم نزل من <CARDINAL> 10% </CARDINAL> لـ <CARDINAL> 2.3% </CARDINAL> بهبوط سريع.
+حسب <GOV> المندوبية السامية للتخطيط </GOV> التضخم هبط بـ <CARDINAL> 0.6% </CARDINAL> من شهر لشهر، وبالنسبة للمواد الغدائية نقصات بـ <CARDINAL> 0.9% </CARDINAL> شهر لشهر. التضخم الاساسي طلع بـ <CARDINAL> 0.3% </CARDINAL> .
+الخضر هبطو بـ <CARDINAL> 9.6% </CARDINAL> ، المواد الصيدلية والادوية نقصو بـ <CARDINAL> 4.9% </CARDINAL> ، والمحروقات هبطات بـ <CARDINAL> 2.4% </CARDINAL> .
+من جهة اخرى، السمك وفواكه البحر طلعو بـ <CARDINAL> 4.7% </CARDINAL> ، الفواكه بـ <CARDINAL> 0.6% </CARDINAL> ، القهوة والشاي والكاكاو بـ <CARDINAL> 0.4% </CARDINAL> ، واللحوم بـ <CARDINAL> 0.3% </CARDINAL> .
+حسب المدن، الاسعار نقصات ف بزاف ديال المدن. <GPE> وجدة </GPE> كانت الاولى بانخفاض وصل لـ <CARDINAL> 1% </CARDINAL> ، ومن بعدها <GPE> الرباط </GPE> ، <GPE> القنيطرة </GPE> ، <GPE> الدار البيضاء </GPE> ، <GPE> اكادير </GPE> ، <GPE> بني ملال </GPE> و <GPE> الحسيمة </GPE> . المدن اللي ما كانش فيها انخفاض كبير هي <GPE> سطات </GPE> ، <GPE> اسفي </GPE> و <GPE> فاس </GPE> .
+سنويا، افضل مدينة هبطات فيها الاسعار هي <GPE> سطات </GPE> ، واسوأ مدينة باقية فيها الاسعار طالعة هي <GPE> الحسيمة </GPE> .
+المواد الغدائية نقصات بـ <CARDINAL> 0.9% </CARDINAL> من شهر <DATE> 12 </DATE> لشهر <DATE> 1 </DATE> ، ولكن سنويا باقية طالعة بـ <CARDINAL> 4% </CARDINAL> .
+المواد الغير غدائية، الصحة نقصات بـ <CARDINAL> 1.8% </CARDINAL> من شهر <DATE> 12 </DATE> لشهر <DATE> 1 </DATE> ، وسنويا نقصات بـ <CARDINAL> 1% </CARDINAL> .
+الحاجة الوحيدة اللي باقية طالعة هي مطاعم وفنادق، طلعات بـ <CARDINAL> 0.5% </CARDINAL> من شهر <DATE> 12 </DATE> لشهر <DATE> 1 </DATE> ، وسنويا باقية طالعة بـ <CARDINAL> 4.3% </CARDINAL> .
+التضخم كان عندو اسباب خارجية وداخلية. كانت تداعيات ديال <EVENT_AGG>كورونا</EVENT_AGG> اللي ضغطات على الاسواق الدولية خصوصا فالطاقة والمواد الاولية والغدائية، وكان اختلال ف سلاسل التوريد والانتاج العالمية. كذلك جات <EVENT_AGG>الحرب الاوكرانية الروسية</EVENT_AGG> وزادت ضغطت على الاسواق.
+ف <GPE> المغرب </GPE> كان حتى الجفاف اللي اثر على المحاصيل الفلاحية.
+ف <DATE> فبراير 2023 </DATE> التضخم ديال المواد الغدائية وصل حتى لـ <CARDINAL> 20% </CARDINAL> ، وهاد الشي اثر مباشرة على القدرة الشرائية. بزاف ديال الخضر بحال البصل والبطاطا والجزر وصلو حتى لـ <CARDINAL> 15 </CARDINAL> درهم بعدما كانو كيدورو ف حدود <CARDINAL> 10 </CARDINAL> دراهم.
+دابا كاين واحد الهدوء نسبي فالاسعار، وهاد الانخفاض راجع لاستقرار الاسعار العالمية ديال الطاقة مقارنة مع <DATE> 2022 </DATE> . الفاتورة الطاقية ديال <GPE> المغرب </GPE> ف <DATE> 2022 </DATE> وصلت تقريبا لـ <CARDINAL> 16 </CARDINAL> مليار دولار. هاد التبعية الطاقية للخارج خصوصا فالمحروقات كانت من الاسباب الرئيسية.
+التساقطات المطرية الاخيرة كان عندها دور ف تحسين الوضع الفلاحي، وهاد الشي بان ف الارقام اللي خرجات <GOV> المندوبية السامية للتخطيط </GOV> ، بحيث المواد الغدائية عرفت تراجع مهم اللي ساهم ف هبوط التضخم.
+كاين حتى عامل ديال <GPE> موريتانيا </GPE> حيث جزء من المنتوجات الفلاحية اللي كانت كتخرج ل <GPE> موريتانيا </GPE> رجعات للسوق الداخلي ديال <GPE> المغرب </GPE> ، وهاد الشي ساهم ف زيادة العرض ونقصان الاسعار.
+خاصنا نعرفو بلي انخفاض التضخم ما كيعنيش الاثمنة غترجع كيما كانت قبل. مثلا الى كانت الطماطم بـ <CARDINAL> 10 </CARDINAL> دراهم ما غترجعش بـ <CARDINAL> 3 </CARDINAL> دراهم، غير ما غتبقاش كتطلع بنفس الوتيرة السابقة.
+واش الاثمنة تقدر تعاود تطلع مستقبلا؟ اي تغييرات فالدعم ولا فتكلفة الطاقة ممكن تأثر على بعض المواد بحال البوطة وغيرها.
+---
+TAGGED TEXT (CLEAN ARABIZI)
+Inkhifad 9iyasi ltadakhom f <GPE> lmghrib </GPE> , w had lmostawa howa ladna mn <DATE> yanayr 2011 </DATE> . Tadakhom nzel mn <CARDINAL> 10% </CARDINAL> l <CARDINAL> 2.3% </CARDINAL> bhbot srie3.
+Hasab <GOV> lmndobiya ssamiya lttakhtit </GOV> tadakhom hbat b <CARDINAL> 0.6% </CARDINAL> mn chher l chher, w bnisba lmawad lghidaiya n9sat b <CARDINAL> 0.9% </CARDINAL> chher l chher. Tadakhom lasasi tla3 b <CARDINAL> 0.3% </CARDINAL> .
+Lkhodar hbto b <CARDINAL> 9.6% </CARDINAL> , lmawad ssaydaliya w ladwiya n9so b <CARDINAL> 4.9% </CARDINAL> , w lma7ro9at hbto b <CARDINAL> 2.4% </CARDINAL> .
+Mn jiha okhra, l7ot w fawakih lba7r tla3o b <CARDINAL> 4.7% </CARDINAL> , lfawakih b <CARDINAL> 0.6% </CARDINAL> , l9hwa w chay w kakaw b <CARDINAL> 0.4% </CARDINAL> , w l7om b <CARDINAL> 0.3% </CARDINAL> .
+Hasab lmodon, las3ar n9sat f بزaf dyal lmodon. <GPE> wjda </GPE> kant lawla binkhifad وصل l <CARDINAL> 1% </CARDINAL> , w mn b3d <GPE> rrbat </GPE> , <GPE> l9nitra </GPE> , <GPE> ddar lbayda </GPE> , <GPE> agadyr </GPE> , <GPE> bni mlal </GPE> w <GPE> l7oceima </GPE> . Lmodon lli ma kanch fiha inkhifad kbir hiya <GPE> stat </GPE> , <GPE> asfi </GPE> w <GPE> fas </GPE> .
+Sanawiyan, afdal mdina hbatat fiha las3ar hiya <GPE> stat </GPE> , w aswa mdina ba9ya fiha las3ar tal3a hiya <GPE> l7oceima </GPE> .
+Lmawad lghidaiya n9sat b <CARDINAL> 0.9% </CARDINAL> mn chher <DATE> 12 </DATE> l chher <DATE> 1 </DATE> , walakin sanawiyan ba9ya tal3a b <CARDINAL> 4% </CARDINAL> .
+Lmawad ghyr ghidaiya, ssa7a n9sat b <CARDINAL> 1.8% </CARDINAL> mn chher <DATE> 12 </DATE> l chher <DATE> 1 </DATE> , w sanawiyan n9sat b <CARDINAL> 1% </CARDINAL> .
+L7aja lwa7ida lli ba9ya tal3a hiya mat3am w fanadi9, tla3at b <CARDINAL> 0.5% </CARDINAL> mn chher <DATE> 12 </DATE> l chher <DATE> 1 </DATE> , w sanawiyan ba9ya tal3a b <CARDINAL> 4.3% </CARDINAL> .
+Tadakhom kan 3ndo asbab kharijiya w dakhiliya. Kant tada3iyat dyal <EVENT_AGG>korona</EVENT_AGG> lli dghatat 3la laswa9 dawliya khassatan fta9a w lmawad lawliya w lghidaiya, w kan ikhtilal f salsilat ttawrid w lintaj l3alamiya. كذلك jat <EVENT_AGG>l7arb lowkraniya rrosiya</EVENT_AGG> w zadat dghat 3la laswa9.
+F <GPE> lmghrib </GPE> kan 7ta ljafaf lli athar 3la lma7asil lfla7iya.
+F <DATE> fibrayr 2023 </DATE> tadakhom dyal lmawad lghidaiya وصل 7ta l <CARDINAL> 20% </CARDINAL> , w had chi athar 3la l9odra chira2iya. Bzaf dyal lkhodar b7al lbasal w lbatata w lkhizo waslo 7ta l <CARDINAL> 15 </CARDINAL> drham mlli kano kaydoro f 7dod <CARDINAL> 10 </CARDINAL> drham.
+Daba kayn wa7d lhdou2 nisbi f las3ar, w had linkhifad raje3 listi9rar las3ar l3alamiya dyal ta9a mo9arana m3a <DATE> 2022 </DATE> . Lfatora ta9iya dyal <GPE> lmghrib </GPE> f <DATE> 2022 </DATE> wslat ta9riban l <CARDINAL> 16 </CARDINAL> مليار dollar. Had ttaba3iya ta9iya lkharej khassatan f lma7ro9at kant mn lasbab lra2isiya.
+Ttasa9ot lmatariya lakhira kan 3ndha dor f ta7sin lwad3 lfla7i, w had chi ban f lar9am lli kharjat <GOV> lmndobiya ssamiya lttakhtit </GOV> , b7it lmawad lghidaiya 3rft tarajo3 mohim lli sahm f hbot tadakhom.
+Kayn 7ta 3amil dyal <GPE> moritania </GPE> 7it jo2 mn lmontojat lfla7iya lli kant katkhrej l <GPE> moritania </GPE> rj3at lso9 dakhili dyal <GPE> lmghrib </GPE> , w had chi sahm f ziyadat l3ard w n9san las3ar.
+Khasna n3rfo bli inkhifad tadakhom ma kay3nich las3ar ghatrj3 kifma kant 9bl. Matalan ila kant tomate b <CARDINAL> 10 </CARDINAL> drham ma ghatrj3ch b <CARDINAL> 3 </CARDINAL> drham, ghir ma ghatb9ach katla3 b nafs lwatira ssabi9a.
+Wach las3ar t9dar t3awd tla3 mosta9balan? Ay taghyirat fda3m wla ftaklifa dyal ta9a momkin t2atar 3la ba3d lmawad b7al lbota w ghyrha.

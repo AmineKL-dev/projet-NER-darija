@@ -1,0 +1,16 @@
+TAGGED TEXT (ARABIC)
+دارو مقارنة صغيرة بين <GPE> المغرب </GPE> و <GPE> الجزائر </GPE> فالمجال الاقتصادي، وكاينين لي كيقولوا بلي اقتصاد <GPE> الجزائر </GPE> حسن من اقتصاد <GPE> المغرب </GPE> سواء من ناحية النسبة المئوية ولا من ناحية الأرقام بالمليارات، حيت الأصفار كتخلّع وكتدوّخ.
+ولكن السؤال اللي خاص يتطرح هو: واش المواطن الجزائري مستافد فعلاً؟ كاين كلام بلي فـ <GPE> الجزائر </GPE> كاين اقتصاد مزيان، ولكن فين باينين الفلوس عند الناس؟ كيتقال حتى بلي فـ <GPE> الجزائر </GPE> الأجور من بين الأضعف فالعالم، ومع ذلك كيتقال بلي عندهم اقتصاد قوي.
+الموضوع ماشي ضد الجزائريين، وماشي مقارنة باش يتقال بلي <GPE> المغرب </GPE> حسن من <GPE> الجزائر </GPE> ، ولكن الواقع كيبيّن بلي المغربي عندو فرص أكثر من الجزائري داخل <GPE> الجزائر </GPE> ، حتى إلا كان الاقتصاد كيبان مزيان فالأرقام.
+إلى قلتي عندكم مليار، خاص يتبان هاد الشي فالمعيشة اليومية. حتى موضوع التقاعد ومستقبل الأجيال خاصو يكون واضح.
+تمت محاولة البحث على معلومات بخصوص البورصة ديال <GPE> الجزائر </GPE> ولكن ما كانوش معطيات واضحة، وحتى الموقع ما كانش كيتحل بسهولة، ويمكن تكون كاينة أسباب سياسية.
+الفكرة الأساسية هي أن التركيز خاصو يكون على الفرص اللي كتوفرها البلاد للمواطنين، ماشي غير على أرقام الاقتصاد.
+حالياً <GPE> الجزائر </GPE> ومعاها <ORG> بوليساريو </ORG> ، وكاين نقاش على مستقبل <GPE> المغرب </GPE> إلا ما تتحلاتش بعض المشاكل العالقة.
+TAGGED TEXT (CLEAN ARABIZI)
+darou moqarana sghira bin <GPE> lmghrib </GPE> w <GPE> ljazair </GPE> f lmajjal liqtisadi, w kaynin li kay9olo bli i9tisad <GPE> ljazair </GPE> 7sen mn i9tisad <GPE> lmghrib </GPE> sawa2 mn na7iyat nisba mi2awiya wla mn na7iyat l2ar9am b lmilyarat, 7it l2sfar katkhalle3 w katdawwekh.
+walakin so2al li khas ytra7 howa: wash lmowatin ljazairi mstafed fi3lan? kayn klam bli f <GPE> ljazair </GPE> kayn i9tisad mzyan, walakin fin baynin lflous 3and nass? kaytgal 7ta bli f <GPE> ljazair </GPE> l2ojour mn bin l2ad3af f l3alam, w ma3a dalik kaytgal bli 3andhom i9tisad qawi.
+lmawdo3 mashi did ljazairiyin, w mashi moqarana bash ytgal bli <GPE> lmghrib </GPE> 7sen mn <GPE> ljazair </GPE> , walakin lwa9i3 kaybayen bli lmghribi 3ando foras aktar mn ljazairi dakhel <GPE> ljazair </GPE> , 7ta ila kan l i9tisad kayban mzyan f l2ar9am.
+ila 9lti 3andkom milyar, khas yban hadchi f lma3icha lyawmiya. 7ta mawdo3 tta9a3od w mosta9bal l2ajyal khaso ykoun wad7.
+tmat mo7awala lba7t 3la ma3lomat bkhossos lborsa dyal <GPE> ljazair </GPE> walakin ma kanosh ma3tiyat wad7a, w 7ta lmow9i3 ma kanch kayt7ell b sohola, w ymken tkoun kayna asbab siyasiya.
+lfikra l2asasiya hiya an ttarikiz khaso ykoun 3la lforas li katwafroha lblad lilmowatinin, mashi ghir 3la ar9am liqtisad.
+7aliyan <GPE> ljazair </GPE> w m3aha <ORG> bolisario </ORG> , w kayn ni9ach 3la mosta9bal <GPE> lmghrib </GPE> ila ma t7ellatch ba3d lmashakil l3ali9a.

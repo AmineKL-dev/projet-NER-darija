@@ -1,0 +1,9 @@
+=== CHAT: Darija NER Tagging Assistant Workflow ===
+
+[Assistant Response 1]:
+TAGGED TEXT (ARABIC)
+
+را <DATE>الوقت</DATE> غاديا وتزيان في <GPE>المغرب</GPE>، هادشي خذوه مني باليقين. <DATE>الوقت</DATE> غاديا وتزيان في <GPE>المغرب</GPE>. را <NORP>حنايا</NORP> تصرفنا في الخير اللي ما تصرفوا فيه <PERSON_AGG>والدينا</PERSON_AGG>، و<NORP>انتما</NORP> غتصرّفوا في <CARDINAL>واحد</CARDINAL> الخير ما تصرفنا فيه <NORP>حنايا</NORP>. وغادية هكاك، غير صبروا غتزيان القضية. وما تكونوش حاقدين وبعدوا من البلية ودخلوا ل
+
+--------------------------------------
+

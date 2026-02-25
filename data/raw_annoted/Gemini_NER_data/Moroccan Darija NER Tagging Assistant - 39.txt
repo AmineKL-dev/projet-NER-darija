@@ -1,0 +1,29 @@
+=== CHAT: Moroccan Darija NER Tagging Assistant ===
+
+[Assistant Response 1]:
+TAGGED TEXT (ARABIC)
+اللايف غيكون مخلط فيه بزاف ديال المواضيع كيف ديما، ولكن الموضوع الجوهري اللي غنهضر عليه هو انخفاض الأسعار ديال الخضر في <GPE>المغرب</GPE>، ومن بعد نجاوب على الأسئلة. دابا مطيشة دايرة بين <CARDINAL>3</CARDINAL> و <CARDINAL>5 دراهم</CARDINAL>، وكاين بلايص اللي طاحت فيها ل <CARDINAL>2 دراهم</CARDINAL>. هاد الانخفاض ربطوه <NORP>مهنيون</NORP> بتراجع التصدير ل <GPE>إفريقيا</GPE>، خصوصاً من بعد ما زادت <GPE>موريطانيا</GPE> ف <DATE>2024</DATE> تقريباً <CARDINAL>100%</CARDINAL> ديال الرسوم الجمركية على الصادرات ديال <GPE>المغرب</GPE>.
+
+من المنظور الاقتصادي، <PERSON_AGG>الفلاح</PERSON_AGG> هو المتضرر لول حيت التكلفة عليه طالعة: <ORG_AGG>الاسمدة</ORG_AGG> غالية، كاين <EVENT_AGG>جفاف</EVENT_AGG>، والمواد باش خدام مرتفعة. <PERSON_AGG>الفلاح</PERSON_AGG> كان كيدير التوازن بالتصدير اللي كيجيب <WORK_OF_ART_AGG>الدولار</WORK_OF_ART_AGG> و <WORK_OF_ART_AGG>الأورو</WORK_OF_ART_AGG>، ودابا فاش تحبس التصدير ل <GPE>إفريقيا</GPE>، الخضرة تفركعات فالسوق المحلية وطاح الثمن. هاد الانخفاض ماشي صحي، حيت <PERSON_AGG>الفلاح</PERSON_AGG> يلا بقى كينتج بالخسارة، <DATE>العام الجاي</DATE> ما غاديش يزرع، وغادي نطيحو فمشكل أن الخضرة ما غتكونش أصلاً ماشي غير غالية.
+
+الدولة خاصها تدخل بواحد من <CARDINAL>تلاتة</CARDINAL> ديال الحلول: يا إما دعم مباشر ل <PERSON_AGG>الفلاح</PERSON_AGG>، يا إما حل سياسي مع <GPE>موريطانيا</GPE> باش يخفضو الرسوم، يا إما يحلوا بيبان التصدير ل <GPE>أوروبا</GPE>. <GPE>المغرب</GPE> محتاج ل <WORK_OF_ART_AGG>العملة الصعبة</WORK_OF_ART_AGG> باش يشري الزريعة والمازوط، وهادشي كيجيبو التصدير و <GOV>المكتب الشريف للفوسفاط</GOV> و <ORG_AGG>السياحة</ORG_AGG>. المداخيل ديال <LOC>الفوسفاط</LOC> براسها ما وصلاش <CARDINAL>10%</CARDINAL> من الميزانية، داكشي علاش التوازن بين التصدير والاستهلاك الداخلي مهم بزاف باش نحافظو على "الأمن الاجتماعي".
+
+بالنسبة للمحروقات، الناس كيسولوا علاش فاش كيطيح <LOC>البيترول</LOC> فالعالم ما كيطيحش ف <GPE>المغرب</GPE> ديك الساعة. السبب هو "السطوك" اللي كيكونوا <ORG>شركات المحروقات</ORG> شاريينه بالثمن القديم من <GPE>هولندا</GPE> مثلاً، وخاص وقت باش يتقاضى داك السطوك عاد يهبط الثمن. أما قضية "تسقيف الأسعار"، فهي فكرة كتهرس <ORG_AGG>المنافسة</ORG_AGG>، والأحسن هو <GOV>مجلس المنافسة</GOV> يراقب باش ما يكونش اتفاق بين الشركات على الثمن.
+
+فمجال <ORG_AGG>العقار</ORG_AGG>، الدعم اللي دارت <GOV_AGG>الحكومة</GOV_AGG> ف <DATE>2023</DATE> مزيان حيت كيحرك الاقتصاد وكيخلي الشركات ديال <ORG_AGG>البناء</ORG_AGG> تخدم. أما بخصوص <ORG_AGG>الشركات</ORG_AGG> و <PERSON_AGG>المستثمرين</PERSON_AGG>، فمن المنظور الرأسمالي هوما اللي كيخلقوا الخدمة وكيخلصوا الضرائب، داكشي علاش خاص تحفيزات ليهم. وفي الأخير، الفقر كاين فيه أنواع، وكاين فئة اللي هي "عالة" على المجتمع ما باغياش تخدم، وهادو خاصهم <GOV_AGG>التجنيد الإجباري</GOV_AGG> باش يتعلموا الإنتاجية.
+
+TAGGED TEXT (CLEAN ARABIZI)
+llive ghaykon mkhlat fih bzzaf dyal lmowadi3 kif dima, wlkn lmowdo3 ljawahari lli ghnhdr 3lih hwa lnkhifad dyal l-as3ar dyal lkhodar fi <GPE>lmghrib</GPE>, wmn b3d njawb 3la l-asila. daba maticha dayra bin <CARDINAL>3</CARDINAL> w <CARDINAL>5 drahim</CARDINAL>, wkayn blays lli taht fiha l <CARDINAL>2 drahim</CARDINAL>. had lnkhifad rbtoh <NORP>mihaniyon</NORP> btarajo3 ttasdir l <GPE>ifriqiya</GPE>, khosossan mn b3d ma zadt <GPE>mourtania</GPE> f <DATE>2024</DATE> taqriban <CARDINAL>100%</CARDINAL> dyal rrossom ljomroukiya 3la ssadirat dyal <GPE>lmghrib</GPE>.
+
+mn lmandour l-iqtissadi, <PERSON_AGG>lfllah</PERSON_AGG> hwa lmotadarrir lwel hit ttakloufa 3lih tal3a: <ORG_AGG>l-asmida</ORG_AGG> ghalya, kayn <EVENT_AGG>jfaf</EVENT_AGG>, wlmo-wad bach khdam mortafi3a. <PERSON_AGG>lfllah</PERSON_AGG> kan kidir ttawazon bttasdir lli kijib <WORK_OF_ART_AGG>ddollar</WORK_OF_ART_AGG> w <WORK_OF_ART_AGG>l-euro</WORK_OF_ART_AGG>, wdaba fach thbbss ttasdir l <GPE>ifriqiya</GPE>, lkhodra tfrq3at f-ssoq lmahlliya wtah tthman. had lnkhifad machi sihi, hit <PERSON_AGG>lfllah</PERSON_AGG> ylla bqa kiyntj blkhssara, <DATE>l-3am ljay</DATE> ma ghadich yzr3, wghadi ntiho f-mochkil ana lkhodra ma ghtkonch aslan machi ghir ghalya.
+
+ddowla khassha tdkhol b-wahid mn <CARDINAL>tlata</CARDINAL> dyal lhouloul: ya imma da3m moubachir l <PERSON_AGG>lfllah</PERSON_AGG>, ya imma hll siyassi m3a <GPE>mourtania</GPE> bach ykhfdo rrossom, ya imma yhllo biban ttasdir l <GPE>europa</GPE>. <GPE>lmghrib</GPE> mhtaj l <WORK_OF_ART_AGG>l-3omla ssa3ba</WORK_OF_ART_AGG> bach ychri zzari3a wlmazot, whadchi kijibo ttasdir w <GOV>l-maktab lcharif lilfousfat</GOV> w <ORG_AGG>ssiyaha</ORG_AGG>. lmadakhil dyal <LOC>lfousfat</LOC> brassha ma wasslach <CARDINAL>10%</CARDINAL> mn lmizaniya, dakchi 3lach ttawazon bin ttasdir wl-istihlak ddakhili mohim bzzaf bach nhafdo 3la "l-amn l-ijtima3i".
+
+bnssba lmahouqat, nnas kiy-ssowlo 3lach fach kitiy-h <LOC>l-petrol</LOC> f-l-3alam ma kitiy-hch f <GPE>lmghrib</GPE> dik ssa3a. ssabab hwa "stock" lli kikonou <ORG>charikat lmahrouqat</ORG> charinh btthman lqdim mn <GPE>holanda</GPE> mathalan, wkhass waqt bach ytqada dak l-stock 3ad yhbt tthman. ama qadiya dyal "tsqif l-as3ar", f-hiya fikra kthrrs <ORG_AGG>lmonafassa</ORG_AGG>, wl-ahssen hwa <GOV>majlis lmonafassa</GOV> yraqb bach ma ykonch ittifaq bin charikat 3la tthman.
+
+f-majal <ORG_AGG>l-3aqar</ORG_AGG>, dda3m lli dart <GOV_AGG>lhokoma</GOV_AGG> f <DATE>2023</DATE> mzyan hit kiyh-rrik l-iqtissad wkiy-khlli charikat dyal <ORG_AGG>lbina</ORG_AGG> tkhdm. ama bkhousous <ORG_AGG>charikat</ORG_AGG> w <PERSON_AGG>lmostathmirin</PERSON_AGG>, f-mn lmandour r-ra-smali houma lli kiykh-lqo lkhidma wkiy-khllso ddarayib, dakchi 3lach khass tahfizat lihom. w-f-l-akhir, lfaqr kayn fih anwa3, wkayn fi-a lli hiya "3ala" 3la lmojtama3 ma baghyach tkhdm, whado khasshom <GOV_AGG>ttajnid l-ijbari</GOV_AGG> bach yt3allmo l-intajiya.
+
+Would you like me to extract a specific list of all the tagged entities mentioned in these texts?
+
+--------------------------------------
+

@@ -1,0 +1,94 @@
+=== CHAT: Moroccan Economy and Consumer Confidence ===
+
+[Assistant Response 1]:
+TAGGED TEXT (ARABIC)
+<CARDINAL>52%</CARDINAL> من <NORP>المغاربة</NORP> يلاه جابوا التعادل، المداخيل ديالهم قد المصاريف، بينما <CARDINAL>45%</CARDINAL> رقم كبير من <NORP>المغاربة</NORP> داخلين في الكريديات، و <CARDINAL>3%</CARDINAL> فقط هما اللي قدروا يدخروا. هاد الأرقام جاية من <ORG>المندوبية السامية للتخطيط</ORG> اللي كتحط تقارير على تطور مؤشر ثقة الأسر كل <DATE>ثلاث شهور</DATE>. <ORG>المندوبية</ORG> كترصد كيفاش كيشوف المستهلك <NORP>المغربي</NORP> وضعيتو، وهاد الأرقام ديال <DATE>الربع الثالث</DATE> من <DATE>2022</DATE> كانت هي الخايبة كاع من <DATE>2008</DATE>. <NORP>المغاربة</NORP> كيشوفوا باللي مستوى المعيشة تدهور والبطالة غادة وكتزاد. بالنسبة لشريان السلع المستديمة بحال الثلاجة، التلفزة، البيسي، ولا الطوموبيلات، <CARDINAL>79.9%</CARDINAL> من الأسر كيشوفوا باللي الظروف ما ملائماش باش يشريو هاد السلع ولا ياخدوا كريدي. وحتى على قضية الادخار، التصورات ديما متشائمة، <CARDINAL>88.9%</CARDINAL> كيشوفوا باللي في <DATE>2023</DATE> محال يقدروا يجمعوا شي ريال حيت الوضعية مزيرة بزاف، و <CARDINAL>5%</CARDINAL> فقط اللي كيتوقعوا الأثمنة تنقص. كاينين أرقام أخرى عندها علاقة بالخدمات الإدارية، حقوق الإنسان، والبيئة اللي جاو إيجابيين شوية، وخا بزاف ديال <NORP>المغاربة</NORP> عندهم رأي آخر في الإدارة في <GPE>المغرب</GPE>. هاد التدهور في الأرقام اللي عطات <ORG>المندوبية</ORG> كيعني باللي <ECONOMY_AGG>الاقتصاد المحلي</ECONOMY_AGG> كيتضرر في بزاف ديال القطاعات.
+
+TAGGED TEXT (CLEAN ARABIZI)
+<CARDINAL>52%</CARDINAL> mn <NORP>lmgharba</NORP> yallah jabou tteadul, lmadakhil dyalhom qed lmassarif, binama <CARDINAL>45%</CARDINAL> raqm kbir mn <NORP>lmgharba</NORP> dakhlin f lkridiyat, o <CARDINAL>3%</CARDINAL> faqat homa lli qdrou ydakhrou. Had l-arqam jaya mn <ORG>lmandoubiya ssamiya l-ttakhtit</ORG> lli katchat taqarir ala tatawor moachir tiqat l-ossar koll <DATE>tlat chhour</DATE>. <ORG>lmandoubiya</ORG> katarssad kifach kiychouf lmostahlik <NORP>lmaghribi</NORP> wadaiyto, o had l-arqam dyal <DATE>rrbo ttalit</DATE> mn <DATE>2022</DATE> kant hiya lkhaiba gaa mn <DATE>2008</DATE>. <NORP>lmgharba</NORP> kiychoufou blli moustawa lmaicha tdahwar o lbitalla ghada o katzad. Binnisba lchrayan ssilia lmostadima bhal tllaja, tlvaza, pc, ola tomobilat, <CARDINAL>79.9%</CARDINAL> mn l-ossar kiychoufou blli ddourouf ma mlaimach bach ychriou had ssilia ola yakhou lkridiyat. Ohidda ala qadiyat l-idtikhar, ttassaworat dima motacha-ima, <CARDINAL>88.9%</CARDINAL> kiychoufou blli f <DATE>2023</DATE> mouhal yqdrou yjmaou chi ryal hit lwadiyya mzira bzzaf, o <CARDINAL>5%</CARDINAL> faqat lli kitwaqqao l-atmina tnoqs. Kaynin arqam khrin endha alaqa b lkhadamat l-idariya, hoqouq l-insan, o lbi-a lli jaw ijabiyin chwiya, wakha bzzaf mn <NORP>lmgharba</NORP> endhom ray akhor f l-idara f <GPE>lmghrib</GPE>. Had ttadhwor f l-arqam lli attat <ORG>lmandoubiya</ORG> kyeni blli <ECONOMY_AGG>l-iqtissad lmahali</ECONOMY_AGG> kitdorrar f bzzaf dyal lqitaat.
+
+--------------------------------------
+
+[Assistant Response 2]:
+TAGGED TEXT (ARABIC)
+
+من بعد التصويت ديال <ORG>مجلس الامن</ORG> اللي خلى <LAW>الحكم الذاتي</LAW> هو الوسيلة الوحيدة والحل النهائي في <LOC>الصحراء المغربية</LOC>، قرر <PERSON_AGG>جلالة الملك</PERSON_AGG> باش يولي <DATE>31 اكتوبر</DATE> <EVENT>عيد وطني</EVENT> سميتو <EVENT>عيد الوحدة</EVENT>، كإعلان على نهاية النزاع. هاد التحول غيكون عندو تداعيات سياسية واقتصادية كبيرة على <GPE>المغرب</GPE> وعلى <LOC>المنطقة</LOC> كاملة. كاين مخطط كبير كيشمل <LOC>الجنوب</LOC> وحتى <LOC>الشمال</LOC>، وهادو <CARDINAL>عشرة</CARDINAL> ديال الحوايج اللي غادي يتبدلو ابتداء من <DATE>اليوم الاول</DATE> ديال <LAW>الحكم الذاتي</LAW>:
+
+أولا: جعل مدينة <GPE>الداخلة</GPE> بوابه ديال <LOC>افريقيا الغربية</LOC>، وهنا غيلعب <ORG>ميناء الداخلة الاطلسي</ORG> دور كبير في التصدير ديال الصناعة والمواد الغذائية. هاد <ORG>الميناء</ORG> غيخلي <GPE>الداخلة</GPE> تولي <ORDINAL>ثاني</ORDINAL> مدينة اقتصادية في <GPE>المغرب</GPE>، وغادي يرفع الصادرات بـ <CARDINAL>10%</CARDINAL> ويخلق كثر من <CARDINAL>30</CARDINAL> شركة جديدة.
+
+ثانيا: فتح معبر جديد ما بين <GPE>المغرب</GPE> و <GPE>موريطانيا</GPE>، الشيء اللي غايرفع التبادل التجاري بـ <CARDINAL>5%</CARDINAL> وغادي يدير نظام جمركي موحد ومستودعات لوجيستيكية بين <NORP>المغاربة</NORP> و <NORP>الموريطانيين</NORP>.
+
+ثالثا: تحويل <LOC>الصحراء</LOC> لمركز ديال <EVENT_AGG>الطاقة الخضراء</EVENT_AGG> والغاز، بمشاريع <EVENT_AGG>الهيدروجين الاخضر</EVENT_AGG> و <EVENT_AGG>الامونيا</EVENT_AGG> اللي غتعطي بين <CARDINAL>2</CARDINAL> حتى لـ <CARDINAL>3</CARDINAL> ميغاوات من طاقة الريح والشمس في <GPE>الداخلة</GPE>. زائد مشروع <ORG>انبوب الغاز المغرب نيجيريا</ORG> اللي غيستافدو منو <GPE>المغرب</GPE>، <GPE>نيجيريا</GPE> و <GPE>اوروبا</GPE>.
+
+رابعا: الرفع من القيمة ديال <EVENT_AGG>الثروة السمكية</EVENT_AGG> والفلاحية عن طريق تطوير <ORG>الموانئ</ORG> والتشجيع على <EVENT_AGG>تربية الاسماك</EVENT_AGG> باستثمارات كبار.
+
+خامسا: تنمية <EVENT_AGG>السياحة</EVENT_AGG> العالمية في <LOC>الصحراء المغربية</LOC>. التوقعات كتقول أن <EVENT_AGG>السياحة</EVENT_AGG> غتزاد بـ <CARDINAL>25%</CARDINAL> بفضل الاستقرار السياسي، وهادشي غايدخل <CARDINAL>الدولار</CARDINAL> و <CARDINAL>الاورو</CARDINAL> و <EVENT_AGG>العملة الصعبة</EVENT_AGG> للاقتصاد الوطني.
+
+سادسا: تصنيع <EVENT_AGG>الفوسفاط</EVENT_AGG> و <EVENT_AGG>الاسمده</EVENT_AGG> محليا بإنشاء وحدات إنتاج حدا <ORG>ميناء الداخلة</ORG> وتصديرها لـ <LOC>دول الساحل الافريقي</LOC>، بهدف زيادة الصادرات بـ <CARDINAL>15%</CARDINAL> سنويا.
+
+سابعا: تفعيل <LAW>اتفاقية التجارة الافريقية</LAW> في <LOC>المناطق الحره</LOC>، والهدف هو الوصول لـ <CARDINAL>200</CARDINAL> عملية تصدير في <DATE>السنة الاولى</DATE>.
+
+ثامنا: جلب استثمارات كبرى كتوصل لـ <CARDINAL>30</CARDINAL> حتى لـ <CARDINAL>40 مليار</CARDINAL> درهم، خاصة في <DATE>التلتا سنين الجاية</DATE>.
+
+تاسعا: تطوير البنية الرقمية بإنشاء مركز معلومات في <GPE>الداخلة</GPE> كيخدم بـ <EVENT_AGG>الطاقة النظيفة</EVENT_AGG>، باش يسهل الاتصال مع <LOC>افريقيا الغربية</LOC>.
+
+عاشرا: تأمين المنطقة وحمايتها تكنولوجيا وعسكريا ضد أي تحركات ديال <ORG>البوليزاريو</ORG>، خصوصا أن <GPE>الجزائر</GPE> كانت ديما كتدعمهم. ورغم أن <PERSON_AGG>الملك</PERSON_AGG> مد يد التعاون لـ <PERSON_AGG>رئيس الجزائر</PERSON_AGG>، <GPE>المغرب</GPE> غادي يكمل في المخطط ديالو باش يحمي الصحراء ديالو ويطورها اقتصاديا.
+
+TAGGED TEXT (CLEAN ARABIZI)
+
+mn b3d tswit dyal <ORG>majlis l-amn</ORG> li khlla <LAW>lhokm d-dati</LAW> hwa l-wasila l-wahida w l-hall l-nihai fi <LOC>lsahra lmghribiya</LOC>, qrrir <PERSON_AGG>jalalat l-malik</PERSON_AGG> bash y-oulli <DATE>31 october</DATE> <EVENT>3id watani</EVENT> smito <EVENT>3id l-wahda</EVENT>, k-i3lan 3la nihayat n-niza3. had t-tahawol gh-ikon 3ndo tada3iyat siyasiya w iqtisadiya kbira 3la <GPE>lmghrib</GPE> w 3la <LOC>l-mantiqa</LOC> kamla. kayn mokhattat kbir kishml <LOC>l-janoub</LOC> w hta <LOC>sh-shimal</LOC>, w hado <CARDINAL>3ashra</CARDINAL> dyal l-hwayj li ghadi y-tbdlo ibtida'an mn <DATE>lyoum l-awwal</DATE> dyal <LAW>lhokm d-dati</LAW>:
+
+awwalan: j3l mdinat <GPE>dakhla</GPE> bawwaba dyal <LOC>afriqia l-ghrbiya</LOC>, w hna gh-yl3b <ORG>mina dakhla l-atlasi</ORG> dawr kbir f t-tasdir dyal sina3a w l-mawad l-ghida'iya. had <ORG>l-mina</ORG> gh-ykhlli <GPE>dakhla</GPE> t-oulli <ORDINAL>tani</ORDINAL> mdina iqtisadiya f <GPE>lmghrib</GPE>, w ghadi y-rf3 s-sadirat b <CARDINAL>10%</CARDINAL> w y-khlq ktr mn <CARDINAL>30</CARDINAL> shirika jdida.
+
+taniyan: fth m3bar jdid ma bin <GPE>lmghrib</GPE> w <GPE>mauritania</GPE>, sh-shi li gh-yrf3 t-tabadol t-tijari b <CARDINAL>5%</CARDINAL> w ghadi y-dir nizam jomroki mowahhad w mstawda3at lojistikiya bin <NORP>lmgharba</NORP> w <NORP>l-mauritaniyin</NORP>.
+
+taltan: tahwil <LOC>lsahra</LOC> l-markaz dyal <EVENT_AGG>taqa l-khadra</EVENT_AGG> w l-ghaz, b-mashari3 <EVENT_AGG>hydrogen l-akhdar</EVENT_AGG> w <EVENT_AGG>ammonia</EVENT_AGG> li gh-t3ti bin <CARDINAL>2</CARDINAL> hta l <CARDINAL>3</CARDINAL> megawatt mn taqat r-rih w sh-shms f <GPE>dakhla</GPE>. za'id mshrou3 <ORG>anboub l-ghaz lmghrib nigeria</ORG> li gh-ystafdo mnno <GPE>lmghrib</GPE>, <GPE>nigeria</GPE> w <GPE>europa</GPE>.
+
+rab3an: r-rf3 mn l-qima dyal <EVENT_AGG>tarwa s-samakiya</EVENT_AGG> w l-filahiya 3n tariq tatwir <ORG>l-mawani'</ORG> w t-tashji3 3la <EVENT_AGG>tarbiyat l-asmak</EVENT_AGG> b-istitmarat kbar.
+
+khamsan: tanmiyat <EVENT_AGG>siyaha</EVENT_AGG> l-3alamiya f <LOC>lsahra lmghribiya</LOC>. t-tawaqo3at kat-qoul anna <EVENT_AGG>siyaha</EVENT_AGG> gh-tzad b <CARDINAL>25%</CARDINAL> b-fadl l-istiqrar s-siyasi, w had-shi gh-ydkhl <CARDINAL>dollar</CARDINAL> w <CARDINAL>euro</CARDINAL> w <EVENT_AGG>3omla s-sa3ba</EVENT_AGG> l-iqtisad l-watani.
+
+sadisan: tasni3 <EVENT_AGG>phosphate</EVENT_AGG> w <EVENT_AGG>asmida</EVENT_AGG> mahaliyan b-insha' wahadat intaj hda <ORG>mina dakhla</ORG> w tasdirha l <LOC>doul s-sahil l-afriqi</LOC>, b-hadaf ziyadat s-sadirat b <CARDINAL>15%</CARDINAL> sanawiyan.
+
+sabi3an: t-tf3il dyal <LAW>ittifaqiyat t-tijara l-afriqiya</LAW> f <LOC>l-mantiq l-horra</LOC>, w l-hadaf hwa l-wousoul l <CARDINAL>200</CARDINAL> 3amaliyat tasdir f <DATE>lsana l-oula</DATE>.
+
+tamanan: jlb istitmarat kobra kat-wsl l <CARDINAL>30</CARDINAL> hta l <CARDINAL>40 milyar</CARDINAL> dirham, khassatan f <DATE>t-tlta snin l-jayya</DATE>.
+
+tasi3an: tatwir l-binya r-raqmiya b-insha' markaz ma3loumat f <GPE>dakhla</GPE> kiy-khdm b <EVENT_AGG>taqa n-nadifa</EVENT_AGG>, bash y-shhl l-ittisal m3 <LOC>afriqia l-ghrbiya</LOC>.
+
+3ashiran: t-ta'min l-mantiqa w hmaytha tiknolojiyan w 3skariyan ddd ay taharoukat dyal <ORG>polisario</ORG>, khousousan anna <GPE>ljazair</GPE> kant dima kat-d3mhom. w rghma anna <PERSON_AGG>l-malik</PERSON_AGG> mdd yd t-ta3awon l <PERSON_AGG>ra'is ljazair</PERSON_AGG>, <GPE>lmghrib</GPE> ghadi y-kmml f l-mokhattat dyalo bash y-hmi sahra dyalo w y-towwrha iqtisadiyan.
+
+--------------------------------------
+
+[Assistant Response 3]:
+TAGGED TEXT (ARABIC)
+
+شركه <ORG>اس دي اكس انيرجي</ORG> ديال التنقيب على <EVENT_AGG>الغاز</EVENT_AGG> في <GPE>المغرب</GPE> لقات واحد لافامي ديال <EVENT_AGG>الغاز</EVENT_AGG> في منطقة <LOC>الغرب</LOC>. دابا غادية تبدا <ORDINAL>المرحلة الثانية</ORDINAL> اللي هي الإنتاج، وفي <ORDINAL>الاختبار الأول</ORDINAL> البير عطى <CARDINAL>4 ديال المليون</CARDINAL> قدم مكعب كل <DATE>نهار</DATE>. كاين اللي غايقول هاد الهضرة ديما كتعاود وما شفنا والو في الواقع، <EVENT_AGG>الخضرة</EVENT_AGG> و<EVENT_AGG>الحياة</EVENT_AGG> باقين غاليين و<NORP>المغربي</NORP> ما مستافد والو. الحقيقة هي أننا فاش كنسمعو اكتشاف <EVENT_AGG>البترول</EVENT_AGG> ولا <EVENT_AGG>الغاز</EVENT_AGG>، كيسحاب لينا غانوليو بحال <NORP>القطريين</NORP> ولا <NORP>الإماراتيين</NORP> ولا <NORP>السواعدة</NORP> وكلشي غايشد <CARDINAL>50 ألف</CARDINAL> <CARDINAL>دولار</CARDINAL> في <DATE>الشهر</DATE>. ولكن هاد المعادلة ما خداش ديما، بحال <GPE>ميريكان</GPE> دابا هي <ORDINAL>الأولى</ORDINAL> في إنتاج <EVENT_AGG>النفط</EVENT_AGG> فايتة <GPE>السعودية</GPE>، ومع ذلك الناس العاديين تما ما مستافدينش بزاف. حتى <GPE>روسيا</GPE> و<GPE>نيجيريا</GPE> و<GPE>غانة</GPE> فيهم <EVENT_AGG>النفط</EVENT_AGG> والشعوب ديالهم ما مستافداش بنفس الطريقة ديال <LOC>الخليج</LOC>، حيت القضية عندها علاقة ب <CARDINAL>عدد السكان</CARDINAL> والحاجيات ديال البلاد. هاد <EVENT_AGG>الغاز</EVENT_AGG> اللي لقات <ORG>اس دي اكس انيرجي</ORG> غايمشي ل <LOC>المنطقة الصناعية ب قنيطره</LOC> باش المصانع ينقصو من استهلاك الطاقة اللي كيتشرى ب <CARDINAL>الدولار</CARDINAL> و <CARDINAL>الاورو</CARDINAL> ويخلصوه ب <CARDINAL>الدرهم</CARDINAL>. <CARDINAL>90%</CARDINAL> من الواردات ديال <GPE>المغرب</GPE> هي طاقة، وهاد الآبار غاينقصو علينا <EVENT_AGG>العجز التجاري</EVENT_AGG>. في <DATE>2030</DATE> غانقدروا نسيطروا على الواردات بفضل <EVENT_AGG>الطاقة المتجددة</EVENT_AGG>، ومن تما ل <DATE>2050</DATE> يقد <GPE>المغرب</GPE> يوصل لمرتبة الدول المتقدمة إلى بقا غادي بهاد الوتيرة. حاليا <EVENT_AGG>العجز التجاري</EVENT_AGG> ديال <GPE>المغرب</GPE> هبط ل <DATE>الشهر الرابع</DATE> على التوالي، وتقلص ب <CARDINAL>7.2%</CARDINAL> في <DATE>تسع شهور الأولى</DATE>، وانخفض ب <CARDINAL>4%</CARDINAL> سنويا في <DATE>2023</DATE>. هادشي جا حيت أسعار الطاقة هبطات ب <CARDINAL>20.9%</CARDINAL>. الهدف هو في <DATE>2030</DATE> نكونو حيدنا هاد التبعية باش نحميو ريووسنا من تقلبات السوق <ORDINAL>العالمي</ORDINAL>.
+
+TAGGED TEXT (CLEAN ARABIZI)
+
+Charika <ORG>SDX Energy</ORG> dyal tneqqib 3la <EVENT_AGG>lgaz</EVENT_AGG> fi <GPE>lmghrib</GPE> lqat wahed l’affami dyal <EVENT_AGG>lgaz</EVENT_AGG> fi mantiqat <LOC>lgharb</LOC>. Daba ghadya tebda <ORDINAL>lmrhala tanya</ORDINAL> lli hiya lintaj, u fi <ORDINAL>likhtibar l’awal</ORDINAL> lbir 3ta <CARDINAL>4 dyal mlyun</CARDINAL> qadam mok3ab koll <DATE>nhar</DATE>. Kayn lli ghaygul had lhedra dima kat-t3awed u ma chfna walu fi lwaqi3, <EVENT_AGG>lkhodra</EVENT_AGG> u <EVENT_AGG>lhyat</EVENT_AGG> baqin ghalyin u <NORP>lmghribi</NORP> ma mostafed walu. lhaqiqa hiya enana fach kansm3u iktichaf <EVENT_AGG>lpetrol</EVENT_AGG> wala <EVENT_AGG>lgaz</EVENT_AGG>, kayshab lina ghanuliw bhal <NORP>lqataryin</NORP> wala <NORP>limaratyin</NORP> wala <NORP>sswa3da</NORP> u kolchi ghayched <CARDINAL>50 alf</CARDINAL> <CARDINAL>dollar</CARDINAL> fi <DATE>ch-hr</DATE>. Walakin had lmo3adala ma khadach dima, bhal <GPE>mirikan</GPE> daba hiya <ORDINAL>l’oula</ORDINAL> fi intaj <EVENT_AGG>lnift</EVENT_AGG> fayta <GPE>ssawdiya</GPE>, u m3a dalik nnas l3adiyin tamma ma mostafidinch bzaf. Htta <GPE>rossya</GPE> u <GPE>nijirya</GPE> u <GPE>ghana</GPE> fihom <EVENT_AGG>lnift</EVENT_AGG> u cho3oub dyalhom ma mostafdach b-nefs t-triqa dyal <LOC>lkhalij</LOC>, hit lqadiya 3ndha 3alaqa b <CARDINAL>3adad ssokkan</CARDINAL> u lhajjiyat dyal lblad. Had <EVENT_AGG>lgaz</EVENT_AGG> lli lqat <ORG>SDX Energy</ORG> ghaymchi l <LOC>lmantiqa ssina3iya b qnitra</LOC> bach lmasani3 ynqsu mn istihlak t-taqa lli kat-tchra b <CARDINAL>dollar</CARDINAL> u <CARDINAL>euro</CARDINAL> u ykhlsouh b <CARDINAL>derhem</CARDINAL>. <CARDINAL>90%</CARDINAL> mn lwaridat dyal <GPE>lmghrib</GPE> hiya taqa, u had l-abar ghaynqsu 3lina <EVENT_AGG>l3ajz ttijari</EVENT_AGG>. Fi <DATE>2030</DATE> ghanqedru nsitru 3la lwaridat b-fadl <EVENT_AGG>taqa motajaddida</EVENT_AGG>, u mn tamma l <DATE>2050</DATE> yqd <GPE>lmghrib</GPE> yusul l-martabat d-dowal lmo-taqaddima ila bqa ghadi b-had lwatira. haliyan <EVENT_AGG>l3ajz ttijari</EVENT_AGG> dyal <GPE>lmghrib</GPE> hbet l <DATE>ch-hr rrabe3</DATE> 3la t-tawali, u tqalless b <CARDINAL>7.2%</CARDINAL> fi <DATE>tes3 ch-hour l’oula</DATE>, u nkhfed b <CARDINAL>4%</CARDINAL> sanawiyan fi <DATE>2023</DATE>. Hadchi ja hit as3ar t-taqa hebttat b <CARDINAL>20.9%</CARDINAL>. Lhadaf huwa fi <DATE>2030</DATE> nkunu hyyadna had t-taba3iya bach nhmiw ryousna mn taqalloubat s-souq <ORDINAL>l3alami</ORDINAL>.
+
+--------------------------------------
+
+[Assistant Response 4]:
+TAGGED TEXT (ARABIC)
+
+ف <GPE>المغرب</GPE>، التوقعات كتقول بلي <EVENT_AGG>التضخم</EVENT_AGG> غادي يستقر في <CARDINAL>2.6%</CARDINAL> ف <DATE>2023</DATE>، وغادي يهبط للمستوى اللي كان فيه ما بين <DATE>2010</DATE> و <DATE>2020</DATE>. هاد الاستقرار كيرجع الحيوة كيف كانت قبل <EVENT_AGG>المرض</EVENT_AGG> وقبل المشاكل اللي دار <PERSON>بوتين</PERSON>. باش نفهموا هاد <EVENT_AGG>التضخم</EVENT_AGG>، خاص نعرفوا بلي كاين <CARDINAL>385</CARDINAL> منتوج و <CARDINAL>768</CARDINAL> ملاحظة كيتخدموا باش يتحسب. هاد المواد فيها الماكلة، الحوايج، والسفر اللي كيستهلكو <NORP>المغاربة</NORP>، وهي مختالفة على داكشي اللي كاين ف <GPE>أوروبا</GPE> ولا <GPE>ميريكان</GPE>. مثلا، الخبز عندو دور كبير ف <GPE>المغرب</GPE>، <GPE>مصر</GPE>، <GPE>تونس</GPE>، و <GPE>الجزائر</GPE>.
+
+ف <DATE>شهر يونيو</DATE>، <EVENT_AGG>التضخم</EVENT_AGG> نقص ب <CARDINAL>0.9%</CARDINAL> مقارنة ب <DATE>شهر ماي</DATE>، وهادشي بسباب انخفاض الاثمنة ديال المواد الغذائية بحال الحوت، الخضر، والفواكه. الخضر هبطات ب <CARDINAL>5.5%</CARDINAL>، اللحم ب <CARDINAL>4.3%</CARDINAL>، والفواكه ب <CARDINAL>3.5%</CARDINAL>، والحليب والبيض ب <CARDINAL>1%</CARDINAL>. هاد الهبوط جا بسباب <EVENT>العيد الكبير</EVENT>، حيت الناس ركزوا على الشري ديال الحولي ونقص الطلب على الحوت والدجاج. فالمقابل، المواد اللي غلات هي المياه المعدنية والمشروبات المنعشة ب <CARDINAL>1.3%</CARDINAL>، حيت كيكتر عليها الطلب فاش كيتزاد <EVENT_AGG>التوريزم</EVENT_AGG> وفالصيف.
+
+بالنسبة للمدن، <GPE>بني ملال</GPE> سجلات أكبر نزول ب <CARDINAL>2.2%</CARDINAL>، تابعاها <GPE>أسفي</GPE> ب <CARDINAL>2.1%</CARDINAL>، و <GPE>مكناس</GPE> و <GPE>الحسيمة</GPE> ب <CARDINAL>1.5%</CARDINAL>. ف <GPE>أكادير</GPE> و <GPE>الرباط</GPE>، الهبوط ما كانش كبير بزاف. ولكن على المستوى السنوي، <GPE>الحسيمة</GPE> و <GPE>وجدة</GPE> و <GPE>الرشيدية</GPE> ديما كيكون فيهم الثمن طالع بسباب البعد على بلايص الانتاج وتكاليف النقل والمازوت، عكس <GPE>الدار البيضاء</GPE> و <GPE>الرباط</GPE> اللي الاثمنة فيهم منخفضة شوية حيت الرواج كثير.
+
+TAGED TEXT (CLEAN ARABIZI)
+
+F <GPE>lmghrib</GPE>, tawaqo3at katgoul bli <EVENT_AGG>atadakhom</EVENT_AGG> ghadi ystaqar fi <CARDINAL>2.6%</CARDINAL> f <DATE>2023</DATE>, o ghadi yhbat llmostawa lli kan fih ma bin <DATE>2010</DATE> o <DATE>2020</DATE>. Had l'istiqrar kyrj3 lhayat kif kant qbal <EVENT_AGG>lmard</EVENT_AGG> o qbal lmachakil lli dar <PERSON>Putin</PERSON>. Bach nfahmo had <EVENT_AGG>atadakhom</EVENT_AGG>, khass n3arfo bli kayn <CARDINAL>385</CARDINAL> montouj o <CARDINAL>768</CARDINAL> molahada kytkhadmo bach yt7asab. Had lmowad fiha lmakla, lhwayj, o ssafar lli kystahelko <NORP>lmgharba</NORP>, o hiya mokhtalfa 3la dakchi lli kayn f <GPE>Europa</GPE> wala <GPE>Mirikan</GPE>. Matalan, lkhobz 3ando dwer kbir f <GPE>lmghrib</GPE>, <GPE>Misr</GPE>, <GPE>Tounis</GPE>, o <GPE>ljazair</GPE>.
+
+F <DATE>chhar younyou</DATE>, <EVENT_AGG>atadakhom</EVENT_AGG> nqas b <CARDINAL>0.9%</CARDINAL> moqarana b <DATE>chhar may</DATE>, o hadchi bsabab nkhifad l'atmina dyal lmowad lghidaiya bhal lhout, lkhodar, o lfawakih. Lkhodar hbtat b <CARDINAL>5.5%</CARDINAL>, llham b <CARDINAL>4.3%</CARDINAL>, o lfawakih b <CARDINAL>3.5%</CARDINAL>, o lhalib o lbayd b <CARDINAL>1%</CARDINAL>. Had lhoubout ja bsabab <EVENT>l3id lkbir</EVENT>, hit nnas rkzo 3la lchra dyal lhowli o nqas ttalab 3la lhout o ddjaj. Falmoqabil, lmowad lli ghlat hiya lmiyah lma3diniya o lmachroubat lmon3icha b <CARDINAL>1.3%</CARDINAL>, hit kykter 3liha ttalab fach kytzad <EVENT_AGG>atourizm</EVENT_AGG> o fssif.
+
+Bnissba l lmodon, <GPE>Beni Mellal</GPE> sfflat akbar nouzoul b <CARDINAL>2.2%</CARDINAL>, tab3aha <GPE>Safi</GPE> b <CARDINAL>2.1%</CARDINAL>, o <GPE>Meknes</GPE> o <GPE>Al Hoceima</GPE> b <CARDINAL>1.5%</CARDINAL>. F <GPE>Agadir</GPE> o <GPE>Rabat</GPE>, lhoubout ma kanch kbir bzaf. Walakin 3la lmostawa ssanawi, <GPE>Al Hoceima</GPE> o <GPE>Oujda</GPE> o <GPE>Errachidia</GPE> dima kykoun fihom tthaman tala3 bsabab lbou3d 3la blayss l'intaj o takalif nnaql o lmazot, 3aks <GPE>Ad-dar l-bayda</GPE> o <GPE>Rabat</GPE> lli l'atmina fihom monkhafida chwiya hit rrawaj ktir.
+
+Would you like me to extract a summary table of the inflation rates per city mentioned in this text?
+
+--------------------------------------
+

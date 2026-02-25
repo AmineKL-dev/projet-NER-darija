@@ -1,0 +1,32 @@
+TAGGED TEXT (ARABIC)
+كاين واحد <LAW> القانون 72.18 </LAW> لي متعلق بمنظومة استهداف المستفيدين من البرامج الاجتماعية، ومنو خرج <GOV> السجل الوطني للسكان </GOV> و <ORG> السجل الاجتماعي الموحد </ORG> . هاد المشروع بدا تجريبيا فـ <DATE> 2018 </DATE> فـ <GPE> الرباط </GPE> و <GPE> القنيطرة </GPE> ، وتعمم على <GPE> المغرب </GPE> كامل فـ نص <DATE> دجنبر 2022 </DATE> .
+الهدف منو هو يكونو جوج ديال قواعد بيانات:
+الأولى فيها المعطيات الشخصية ديال كل مواطن مغربي، والثانية فيها المعطيات الاجتماعية ديال الأسرة المغربية.
+فـ <GOV> السجل الوطني للسكان </GOV> كتدخل الاسم الشخصي والعائلي، تاريخ ومكان الازدياد، العنوان الحالي، الجنسية، ورقم الهاتف لي خاصو يكون خدام حيث عليه كيوصلوك SMS فيه رقم التعريف ديالك.
+منين كتسجل، كتخرج ورقة، وكتزيد أفراد الأسرة ديالك: الزوجة، الولاد، أو أي واحد ساكن معاك فنفس العنوان وعندكم مصاريف مشتركة. كل فرد راشد خاصو يتسجل بوحدو ويتوصل برسالة تأكيد إلا تزاد فشي أسرة. القاصر خاص يكون عندو نفس العنوان باش يتزاد.
+من بعد كتدوز للملحقة الإدارية باش يتحققو من المعطيات، كيديرو سكانير لوجهك ولسجل الحالة المدنية، وإذا كنت راشد وعندك بطاقة وطنية كيتواصْلو مع قاعدة بيانات البوليس باش ياخذو البصمة.
+من بعد التسجيل فـ <GOV> السجل الوطني للسكان </GOV> ، كتدير طلب فـ <ORG> السجل الاجتماعي الموحد </ORG> ، وكيعتمدو على نظام تنقيط فيه <CARDINAL> 3 </CARDINAL> أجزاء:
+الجزء الأول: واش ساكن فالمجال الحضري ولا القروي. إلا كنت حضري كتكون عندك نقطة تقريباً <CARDINAL> 9.825 </CARDINAL> ، وإلا كنت قروي كتكون تقريباً <CARDINAL> 8.695 </CARDINAL> حسب المنطقة.
+الجزء الثاني: الجهة لي ساكن فيها، مثلا <GPE> جهة الرباط سلا القنيطرة </GPE> عندها معامل معين.
+الجزء الثالث: الوضعية الاجتماعية ديال الأسرة، بحال مستوى التعليم، المداخيل، المصاريف، الملكيات، الطوموبيلات، وعدد التعاملات مع المؤسسات.
+كاين أكثر من <CARDINAL> 30 </CARDINAL> مؤسسة كيتواصلو معاها باش يتحققو من المعلومات، بحال شركات الماء والضو، المؤسسات البنكية، وهيئات تسجيل العربات. وأي تصريح بمعلومات مغلوطة كيعرض لغرامة حسب <LAW> القانون 72.18 </LAW> .
+كيجمعو مجموع النقط، ومن بعد كيحددو واش الأسرة عندها الحق تستافد من برامج اجتماعية بحال التغطية الصحية الإجبارية لي كتسيرها <ORG> الصندوق الوطني للضمان الاجتماعي </ORG> ، واللي كتسمح بالتعويض على المصاريف الطبية فالقطاع الخاص.
+منين كيخرج التنقيط، عندك مدة <CARDINAL> 60 </CARDINAL> يوم باش تراجع المعلومات ديالك إلا كان شي خطأ. تقدر تدير تحيين للمعطيات إلا تبدلات الحالة ديالك، سواء نقص المدخول ولا تزاد.
+أي فرد من الأسرة يقدر يتحيد ويسجل بوحدو إلا ولى عندو أسرة مستقلة، ويدير التسجيل ديالو كرئيس أسرة.
+التسجيل فـ <GOV> السجل الوطني للسكان </GOV> و <ORG> السجل الاجتماعي الموحد </ORG> اختياري من ناحية الطلب، ولكن ضروري إلا بغيتي تستافد من الدعم الاجتماعي فـ <GPE> المغرب </GPE> ، خصوصا بعد الأزمات العالمية بحال أزمة الغاز لي أثرت حتى على الطبقة المتوسطة.
+TAGGED TEXT (CLEAN ARABIZI)
+kayn wahed <LAW> l9anoun 72.18 </LAW> li m3alla9 bmanzomat istihdaf lmoustafidin mn lbaramij lijtima3iya, w mnno khrej <GOV> sijil lwatani lissokan </GOV> w <ORG> sijil lijtima3i lmowahad </ORG> . had lmashrou3 bda tajribi f <DATE> 2018 </DATE> f <GPE> rabat </GPE> w <GPE> 9nitra </GPE> , w t3ammem 3la <GPE> lmghrib </GPE> kamel f nss <DATE> dojnbir 2022 </DATE> .
+lhadaf menno howa يكونو joj dyal qawa3id bayanat:
+lawla fiha lma3tiyat chakhsiya dyal kol mowatin مغribi, w الثانية fiha lma3tiyat lijtima3iya dyal losra lmghribiya.
+f <GOV> sijil lwatani lissokan </GOV> katdkhel smiya chakhsiya w 3a2iliya, tarik w بلاست lizyad, l3onwan l7ali, ljinsiya, w ra9m الهاتف li khaso ykoun khddam 7it 3lih kaywslo SMS fih ra9m ta3rif dyalek.
+mlli katsjel, katkhrej war9a, w katzid afrad losra dyalek: zwja, lwlad, aw ay wahed sakin m3ak f nafs l3onwan w 3ndkom masarif moshtaraka. kol fard rashid khaso ytsjel بوحدو w ytwasel برسala ta2kid ila tzad f chi osra. l9asir khas ykoun 3ndo nafs l3onwan bach ytzad.
+mn b3d katdoz lml7a9a lidariya bach yth9o mn lma3tiyat, kaydiru scanner lwijhek w lsijil l7ala lmadaniya, w ila knti rashid w 3ndk بطاقة wataniya kaytwaslo m3a qaidat bayanat dyal البوليس bach yakhdo lbassma.
+mn b3d tsjil f <GOV> sijil lwatani lissokan </GOV> , katdir talab f <ORG> sijil lijtima3i lmowahad </ORG> , w kay3tamdo 3la nidam tan9it fih <CARDINAL> 3 </CARDINAL> ajza2:
+ljuz2 lawel: wash sakin f lmajale l7adari wala l9arawi. ila knti 7adari katkon 3ndk no9ta ta9riban <CARDINAL> 9.825 </CARDINAL> , w ila knti 9arawi katkon ta9riban <CARDINAL> 8.695 </CARDINAL> 7asab lminta9a.
+ljuz2 tani: ljihha li sakin fiha, مثلا <GPE> jihet rabat sala 9nitra </GPE> 3ndha mo3amal mo3ayan.
+ljuz2 talet: lwad3iya lijtima3iya dyal losra, b7al mostawa ta3lim, lmadakhil, lmasarif, lmilkya, tomobilat, w 3adad ta3amolat m3a lmo2assasat.
+kayn aktar mn <CARDINAL> 30 </CARDINAL> mo2assasa kaytwaslo m3aha bach yth9o mn lma3lomat, b7al شركات lma w ddo, lmo2assasat lbinkiya, w hay2at tsjil l3arabat. w ay tasri7 bma3lomat maghlota kay3ared lghrama 7asab <LAW> l9anoun 72.18 </LAW> .
+kayjma3o majmo3 nno9at, w mn b3d kay7ddo wash losra 3ndha l7a9 tstafed mn baramij lijtima3iya b7al taghtiya si7iya ijbariya li katsayrha <ORG> sando9 lwatani liddaman lijtima3i </ORG> , w li katsma7 btta3wid 3la lmasarif tibbia f l9ita3 lkhass.
+mlli kaykhrej tan9it, 3ndk moddat <CARDINAL> 60 </CARDINAL> yom bach traj3 lma3lomat dyalek ila kan chi khata2. t9der tdir ta7yin lma3tiyat ila tbddlat l7ala dyalek, sawa2 na9s lmadkhol wala tzad.
+ay fard mn losra y9der yt7ayd w ytsjel بوحدو ila wla 3ndo osra mosta9illa, w ydir tsjil dyalo كر2is osra.
+tsjil f <GOV> sijil lwatani lissokan </GOV> w <ORG> sijil lijtima3i lmowahad </ORG> ikhtiyari mn nahiyat talab, walakin darori ila bghiti tstafed mn dda3m lijtima3i f <GPE> lmghrib </GPE> , khossosan mn b3d lazamat 3alamiya b7al azmat lghaz li 2athrat 7tta 3la الطبقة lmotawassita.

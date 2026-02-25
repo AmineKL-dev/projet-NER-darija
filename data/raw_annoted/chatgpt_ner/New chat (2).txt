@@ -1,0 +1,34 @@
+TAGGED TEXT (ARABIC)
+كاين نقاش كبير ف <DATE> 2025 </DATE> على <LAW> القانون التنظيمي ديال الإضراب </LAW> اللي تبدا فـ <DATE> 2016 </DATE> ورجع بقوة دابا. فـ <DATE> 2018 </DATE> تضاعو كثر من <CARDINAL> 116 ألف </CARDINAL> نهار ديال الخدمة بسبب الإضرابات، وهاذ الشي خلا <GOV_AGG>الحكومة</GOV_AGG> تقول خاص تقنين هاد الحق.
+الإضراب ماشي هو المظاهرات. المظاهرات عندها <LAW> قانون التجمعات العمومية </LAW> ، أما الإضراب فهو التوقف الجماعي على الخدمة باش يتحقق مطلب اجتماعي ولا اقتصادي. هاد الحق تكتب أول مرة فـ <DATE> 1962 </DATE> فالدستور، ومن بعد تأكد فدستور <DATE> 2011 </DATE> ، ولكن القانون التنظيمي ما خرجش فداك الوقت.
+فـ <DATE> 6 أكتوبر 2016 </DATE> تحط مشروع القانون فالبرلمان فآخر نهار ديال <GOV_AGG>حكومة</GOV_AGG> <PERSON> عبد الإله بن كيران </PERSON> . من بعد فـ <DATE> 2016 </DATE> حتى لـ <DATE> 2021 </DATE> فـ <PERSON> سعد الدين العثماني </PERSON> ما تقربش ليه. ومن بعد مع <PERSON> عزيز أخنوش </PERSON> رجع النقاش عليه بقوة، خصوصا مع الإضرابات فالتعليم.
+المشكل الكبير كان هو التمثيلية. فالقانون ديال <DATE> 2016 </DATE> الجهة الداعية للإضراب خاصها تكون النقابة الأكثر تمثيلية. فالقطاع الخاص، <LAW> مدونة الشغل </LAW> كتقول النقابة الأكثر تمثيلية هي اللي عندها <CARDINAL> 35% </CARDINAL> من عدد مندوبي الأجراء فالشركة، وعلى المستوى الوطني خاص <CARDINAL> 6% </CARDINAL> من مجموع المندوبين.
+فالقطاع العام، <LAW> قانون 1957 للنقابات المهنية </LAW> ما فيهش تعريف واضح للتمثيلية، وبقا فراغ قانوني. الانتخابات ديال المندوبين كيدارو كل <CARDINAL> 6 </CARDINAL> سنين، وكيبان منهم شكون هي النقابات الأكثر تمثيلية.
+حسب النتائج الوطنية، غير ثلاث نقابات فاتوا <CARDINAL> 6% </CARDINAL> :
+<ORG> الكونفدرالية الديمقراطية للشغل </ORG> ،
+<ORG> الاتحاد المغربي للشغل </ORG> ،
+و <ORG> الاتحاد العام للشغالين بالمغرب </ORG> .
+وأكثر من <CARDINAL> 51% </CARDINAL> من الممثلين ما منتمين حتى لنقابة.
+فنسخة <DATE> 2016 </DATE> ، الإضراب كان مقتصر غير على الأجراء، وممنوع الإضراب السياسي، وممنوع الإضراب التضامني، وكان خاص إشعار بمدة توصل حتى لـ <DATE> 45 يوم </DATE> فبعض الحالات، وكانت عقوبات حتى للحبس توصل لـ <DATE> 3 شهور </DATE> .
+التعديلات الجديدة وسعات الحق وخلاوه يشمل المهنيين والعمال المستقلين والعمال المنزليين. تحيد منع الإضراب السياسي والتضامني، وتحيد الحبس وبقاو غير الغرامات. كذلك تقسمات المسطرة حسب نوع الإضراب: ملف مطلبي، قضايا خلافية، وخطر حال.
+فالإضراب بسبب ملف مطلبي فالقطاع العام، مدة التفاوض كتكون <DATE> 45 يوم </DATE> ممكن تزيد <DATE> 15 يوم </DATE> ، وفالقطاع الخاص <DATE> 15 يوم </DATE> ممكن تزيد <DATE> 15 يوم </DATE> . فالقضايا الخلافية المدة كتكون <DATE> 30 يوم </DATE> فالعام و <DATE> 10 أيام </DATE> فالخاص. وفحالة خطر حال كتكون <DATE> 6 أيام </DATE> كاملة بين التفاوض والإشعار.
+القانون دابا باقي كيتناقش فـ <ORG> مجلس النواب </ORG> ومن بعد غيمشي لـ <ORG> مجلس المستشارين </ORG> ومن بعد لـ <ORG> المحكمة الدستورية </ORG> .
+كاينين مؤسسات بحال <ORG> المجلس الاقتصادي والاجتماعي والبيئي </ORG> و <ORG> المجلس الوطني لحقوق الإنسان </ORG> قالو باللي بزاف ديال المواد خاصها تتراجع حيت كتحد من حق الإضراب اللي عطاه الدستور.
+النقاش باقي مفتوح واش تقنين الإضراب غادي يحمي الحق ولا غادي يحد من الحرية ديال الناس، وهاد الشي باقي موضوع جدل كبير فالمغرب.
+TAGGED TEXT (CLEAN ARABIZI)
+kayen ni9ach kbir f <DATE> 2025 </DATE> 3la <LAW> l9anoun tandimi dial lidirab </LAW> li tbda f <DATE> 2016 </DATE> w rja3 b9owa daba. f <DATE> 2018 </DATE> tda3o kter men <CARDINAL> 116 alf </CARDINAL> nhar dial lkhedma بسبب lidirabat, w hadchi khla <GOV_AGG>lhokoma</GOV_AGG> tgol khas ta9nin had l7a9.
+l idirab mashi howa lmoudaharat. lmoudaharat 3andha <LAW> 9anoun tajamo3at l3omomia </LAW> , ama l idirab howa twa9of jama3i 3la lkhedma bach yt7a9a9 matlab ijtima3i wla i9tisadi. had l7a9 tkteb awal mara f <DATE> 1962 </DATE> f dostor, w men ba3d t2akad f dostor <DATE> 2011 </DATE> , walakin l9anoun tandimi ma khrejch f dak lwa9t.
+f <DATE> 6 oktobar 2016 </DATE> t7at machrou3 l9anoun f lbarlaman f akher nhar dial <GOV_AGG>hokoma</GOV_AGG> <PERSON> Abdelilah Benkirane </PERSON> . men ba3d f <DATE> 2016 </DATE> 7ta l <DATE> 2021 </DATE> f <PERSON> Saad Dine El Otmani </PERSON> ma t9arebch lih. w men ba3d m3a <PERSON> Aziz Akhannouch </PERSON> rja3 ni9ach 3lih b9owa خصوصا m3a lidirabat f ta3lim.
+lmouchkil lkbir kan howa tamtiliya. f l9anoun dial <DATE> 2016 </DATE> ljiha da3iya lidirab khas-ha tkun ni9aba aktar tamtiliya. f l9ita3 lkhass, <LAW> Modawanat Choghl </LAW> katgol ni9aba aktar tamtiliya hiya li 3andha <CARDINAL> 35% </CARDINAL> men 3adad mandoubi l2ojara f charika, w 3la lmostawa lwatani khas <CARDINAL> 6% </CARDINAL> men majmou3 lmandoubin.
+f l9ita3 l3am, <LAW> 9anoun 1957 lilni9abat lmiihaniya </LAW> ma fihch ta3rif wad7 l tamtiliya, w b9a faragh 9anouni. l intikhabat dial lmandoubin kaydaro kol <CARDINAL> 6 </CARDINAL> snin, w kayban menhom chkoun hiya ni9abat aktar tamtiliya.
+7asab natayij lwataniya, ghir tlata ni9abat fatu <CARDINAL> 6% </CARDINAL> :
+<ORG> Confederation Democratique du Travail </ORG> ,
+<ORG> Union Marocaine du Travail </ORG> ,
+w <ORG> Union Generale des Travailleurs au Maroc </ORG> .
+w aktar men <CARDINAL> 51% </CARDINAL> men lmomatilin ma mntamin 7ta l ni9aba.
+f nuskhat <DATE> 2016 </DATE> , l idirab kan mo9tasar ghir 3la l2ojara, w mamnou3 l idirab siyasi, w mamnou3 l idirab tadamoni, w kan khas ich3ar ywsal 7ta l <DATE> 45 yom </DATE> f ba3d l7alat, w kanat 3o9obat 7ta l7abs twsal l <DATE> 3 chhor </DATE> .
+ta3dilat jdod wass3at l7a9 w khalawh ychmel lmiihaniyin w l3ommal lmosta9ilin w l3ommal lmanziliyin. t7ayd man3 l idirab siyasi w tadamoni, w t7ayd l7abs w b9aw ghir lghramat. كذلك t9asmath lmastra 7asab no3 l idirab: malaf matlabi, 9adaya khilafiya, w khatar 7al.
+f l idirab sabab malaf matlabi f l9ita3 l3am, modat tafawod katkon <DATE> 45 yom </DATE> momkin tzid <DATE> 15 yom </DATE> , w f l9ita3 lkhass <DATE> 15 yom </DATE> momkin tzid <DATE> 15 yom </DATE> . f 9adaya khilafiya lmoda katkon <DATE> 30 yom </DATE> f l3am w <DATE> 10 ayam </DATE> f lkhass. w f 7alat khatar 7al katkon <DATE> 6 ayam </DATE> kamla bin tafawod w ich3ar.
+l9anoun daba ba9i kaytna9ach f <ORG> Majlis Nowab </ORG> w men ba3d ghaymchi l <ORG> Majlis Mostacharin </ORG> w men ba3d l <ORG> Mahkama Dostoriya </ORG> .
+kaynin moassasat b7al <ORG> Majlis Iqtisadi wa Ijtimai wa Bi2i </ORG> w <ORG> Majlis Watani li7o9o9 linsan </ORG> galou belli bzaf dial lmawad khas-ha ttraja3 7it kat7ed men 7a9 l idirab li 3tah dostor.
+ni9ach ba9i maftou7 wach ta9nin l idirab ghadi y7mi l7a9 wla ghadi y7ed men l7oriya dial nass, w hadchi ba9i mawdo3 jadal kbir f lmghrib.

@@ -1,0 +1,30 @@
+TAGGED TEXT (ARABIC)
+فـ <GPE> المغرب </GPE> كاينين <CARDINAL> مليون ونص </CARDINAL> عاطل على الخدمة، و <CARDINAL> 82% </CARDINAL> منهم عندهم شهادات. هاد الرقم خاصو يتفهم مزيان. العاطل هو اللي كيقلب على خدمة وما لقاهاش، ماشي أي واحد جالس فالدار وما كيقلبش.
+الإحصائيات كتهضر على السكان النشيطين اللي فوق <CARDINAL> 15 </CARDINAL> عام. يعني أي واحد عندو <CARDINAL> 15 </CARDINAL> ولا <CARDINAL> 16 </CARDINAL> ولا <CARDINAL> 17 </CARDINAL> عام وتالف ما خدامش وكيدور على خدمة كيتحسب عاطل.
+كاين جزء كبير من هاد العدد نساء متزوجات عندهم شهادات ولكن ما دخلوش لسوق الشغل حيث تزوجو وبقاو فالدار. هادو كيتحسبو فالإحصائيات ولكن راه ماشي نفس الحالة بحال اللي كيقلب وما لقا.
+حسب تصريحات ديال <PERSON_AGG>والي</PERSON_AGG> <GOV> بنك المغرب </GOV> ، الاقتصاد المغربي كان معتمد بزاف على الفلاحة، تقريباً <CARDINAL> 40% </CARDINAL> من المغاربة خدامين فالمجال الفلاحي. مع الجفاف اللي ضرب البلاد فـ <DATE> 2023 </DATE> وقبلها، بزاف فقدو الخدمة ديالهم، وهاد الشي أثر على الأرقام.
+<GPE> المغرب </GPE> دابا كيدوز من نظام اقتصادي قديم لنظام جديد معتمد أكثر على الصناعة والخدمات بحال الأوفشورينغ والسياحة. هاد الانتقال كيحتاج الوقت، وما يمكنش واحد عندو <CARDINAL> 45 </CARDINAL> ولا <CARDINAL> 50 </CARDINAL> عام وخدام فالفلاحة يتحول بسهولة لقطاع صناعي.
+كاين حتى مشكل ديال القطاع غير المهيكل اللي كيشكل تقريباً <CARDINAL> 70% </CARDINAL> من النشاط. بزاف ديال الناس خدامين ولكن ما مصرحينش، وهاد الشي كيخلي الأرقام الرسمية ما تعكسش الصورة كاملة.
+طريقة الحساب كتجي حسب معايير دولية من <ORG> الأمم المتحدة </ORG> و <ORG> صندوق النقد الدولي </ORG> . ما يمكنش يتبدل التعريف حسب المزاج.
+كاين مشكل آخر مرتبط بالشواهد. بزاف كيعتابرو حتى <WORK_OF_ART>الباك</WORK_OF_ART> شهادة، وفعلاً هو شهادة، ولكن ماشي معيار كافي للشغل. كاينين بزاف عندهم باك وما عندهمش مهارات مطلوبة فالسوق.
+عدد كبير من الطلبة كيتوجهو لـ <ORG> كلية الحقوق </ORG> ، كيقراو القانون ولا الاقتصاد، ولكن السوق ما كيطلبش هاد الأعداد الكبيرة. مثلاً امتحان المحاماة عدد اللي كينجحو فيه قليل مقارنة بعدد اللي كيقراو.
+فالمقابل، مجالات بحال الأمن السيبراني وتحليل المعطيات مطلوبة بزاف. بزاف ديال الناس قراو من الانترنت وخدامين مع شركات عالمية، وحتى مع شركات فـ <GPE> أمريكا </GPE> و <GPE> ألمانيا </GPE> ، وكيشدّو مداخيل كبيرة بلا ما يكون عندهم ديبلوم تقليدي.
+فـ <DATE> 2020 </DATE> تبدلات بزاف ديال العلاقات الدولية، وشهدنا توتر بين <GPE> المغرب </GPE> و <GPE> إسبانيا </GPE> ، وحتى مع <GPE> ألمانيا </GPE> ، ولكن العلاقات رجعات عادية من بعد. السياسة الخارجية ديال <GPE> المغرب </GPE> مبنية على البراغماتية، يعني ما كاين لا عدو دائم ولا صديق دائم.
+مثلاً العلاقة مع <GPE> الجزائر </GPE> باقية متوترة، ولكن من الناحية الاقتصادية التعاون بين دول شمال إفريقيا يقدر يعطي نتائج كبيرة.
+كاينين دول ما خداماش بالمنطق البراغماتي بحال <GPE> كوريا الشمالية </GPE> اللي بقات مرتبطة بخيارات قديمة مرتبطة بمرحلة <EVENT> الحرب الباردة </EVENT> وتأثير <GPE> الصين </GPE> و <GPE> الاتحاد السوفيتي </GPE> سابقاً.
+الخلاصة، البطالة ماشي غير رقم، ولكن نتيجة ديال انتقال اقتصادي، اختيارات تعليمية ما متماشياش مع السوق، ووجود قطاع غير مهيكل كبير. الحل كيتطلب وعي اقتصادي، تعلم ذاتي، وتوجه لمجالات عندها طلب حقيقي.
+TAGGED TEXT (CLEAN ARABIZI)
+F <GPE> lmghrib </GPE> kaynin <CARDINAL> mليون w ns </CARDINAL> 3atil 3la lkhdma, w <CARDINAL> 82% </CARDINAL> منهم 3ndhom chahadat. had ra9m khaso ytfham mzyan. l3atil howa lli kay9lb 3la khdma w ma l9aha, machi ay wahed jales f ddar w ma kay9lbch.
+lihsaiyat kat9ol bli sskan nnachitin lli fo9 <CARDINAL> 15 </CARDINAL> 3am. ya3ni ay wahed 3ndo <CARDINAL> 15 </CARDINAL> wla <CARDINAL> 16 </CARDINAL> wla <CARDINAL> 17 </CARDINAL> 3am w kay9lb 3la khdma kayt7seb 3atil.
+kayen joz kbira mn had l3adad nssa mtezowjat 3ndhom chahadat walakin ma dkhlouch lsou9 choghl 7it tzwjo. hadou kayt7sebo f lihsaiyat walakin machi nafs l7ala.
+7sab tasri7at dyal <PERSON_AGG>wali</PERSON_AGG> <GOV> Bank Al Maghrib </GOV> , l9tisad dyal <GPE> lmghrib </GPE> kan m3tamed 3la lfla7a, ta9riban <CARDINAL> 40% </CARDINAL> mn lmgharba khdamin f lmajjal lfla7i. m3a ljfaf lli dar f <DATE> 2023 </DATE> , bzaf f9do lkhdma dyalhom.
+<GPE> lmghrib </GPE> daba kaydoz mn nidam 9dim l nidam jdod m3tamed 3la sina3a w khadamat. had linti9al kay7taj lwa9t, w wahed 3ndo <CARDINAL> 45 </CARDINAL> wla <CARDINAL> 50 </CARDINAL> 3am ma sahalch ybdel lmajjal.
+kayen 7ta l9ita3 ghir lmohaykal lli kaychkel ta9riban <CARDINAL> 70% </CARDINAL> . bzaf khdamin walakin ma msar7inch, w hadchi kay2ater 3la l2ar9am.
+tari9at l7isab jaaya mn <ORG> al omam al motta7ida </ORG> w <ORG> sandou9 nna9d dawli </ORG> .
+bzaf kay3tabro <WORK_OF_ART>lbak</WORK_OF_ART> chahada, walakin machi mi3yar kafi. kaynin bzaf 3ndhom bak w ma 3ndhomch maharat matloba.
+3adad kbira kaymchi l <ORG> kolliyat l7o9ou9 </ORG> , walakin sou9 ma kaytlobch had l3adad.
+f lmo9abil, majalat b7al amn siberani w t7lil lma3tiyat matloba. kaynin lli khdamin m3a charikat f <GPE> Amrika </GPE> w <GPE> Almania </GPE> .
+f <DATE> 2020 </DATE> kan tottar bin <GPE> lmghrib </GPE> w <GPE> Espanya </GPE> w 7ta <GPE> Almania </GPE> , walakin rj3at l3ala9at. siyasa dyal <GPE> lmghrib </GPE> mabniya 3la lbraghmatiya.
+l3ala9a m3a <GPE> ljazair </GPE> mazal motawtira.
+b7al <GPE> Korea Chamaliya </GPE> lli b9at merta b mar7alat <EVENT> l7arb lbarda </EVENT> w ta2tir <GPE> Sin </GPE> w <GPE> littihad soviati </GPE> .
+lkholasa, lbitala natija dyal inti9al 9tisadi, ikhtiyarat ta3limiya ghir motmahiya m3a sou9, w wjod 9ita3 ghir mohykal kbira. الحل howa wa3y 9tisadi w t3alom dati w tawajoh lmajlat 3ndha talab 7a9i9i.

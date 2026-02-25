@@ -1,0 +1,50 @@
+=== CHAT: Darija Text Tagging and Rewriting ===
+
+[Assistant Response 1]:
+TAGGED TEXT (ARABIC)
+
+بزاف كيسولوا على <EVENT_AGG>الفساد</EVENT_AGG> ديال <PERSON_AGG>السياسيين</PERSON_AGG> و <PERSON_AGG>البرلمانيين</PERSON_AGG> و <PERSON_AGG>الوزراء</PERSON_AGG>. واحد المرة <DATE>صباح</DATE> فقت لقيت <MEDIA_AGG>جريدة وطنية</MEDIA_AGG> دايرة صورتي وعنوان كيقول بلي <PERSON>بوعيدة</PERSON> كيستغل السلطة ديالو باش يدخل قريبتو ل <GOV>البرلمان</GOV>. بقيت كنستغرب شكون هاد القريبة، صدقت <PERSON_AGG>بنتي</PERSON_AGG> اللي في <DATE>2016</DATE> كان عندها غير <CARDINAL>أربع سنين</CARDINAL> وهي زايدة في <DATE>2012</DATE>. واش <CARDINAL>أربع سنين</CARDINAL> غدخل ل <GOV>البرلمان</GOV>؟ هادشي كيبين حجم <EVENT_AGG>التشهير</EVENT_AGG>.
+
+طيلة المدة اللي ترأست فيها <GOV>الجهة</GOV> تعرضت ل <EVENT_AGG>السب</EVENT_AGG> و <EVENT_AGG>القذف</EVENT_AGG>، ولكن المبدا ديالي هو ما نتابع حتى شي واحد قضائيا. <PERSON_AGG>السياسيين</PERSON_AGG> اللي كيمارسوا <EVENT_AGG>الشأن العام</EVENT_AGG> خاصهم يتقبلوا <EVENT_AGG>النقد</EVENT_AGG> حيت هما في الواجهة وما بقاتش عندهم حياة خاصة. دابا كاين <EVENT_AGG>التشهير</EVENT_AGG> حتى من عند <PERSON_AGG>المواطنين</PERSON_AGG> اللي عندهم هواتف، والحق والباطل تخلطوا.
+
+كاين <CARDINAL>جوج</CARDINAL> أنواع ديال <EVENT_AGG>المتابعات</EVENT_AGG>، ولكن ك <PERSON_AGG>مسؤول</PERSON_AGG> خاصني نتقبل <EVENT_AGG>الانتقادات</EVENT_AGG> الصحيحة ونصلح راسي. <PERSON_AGG>السياسيين</PERSON_AGG> ما خاصهمش يبقاو مقابلين غير شنو كيتكتب عليهم. <GPE>المغرب</GPE> دابا راه كيتولى رئاسة <GOV>المجلس الدولي لحقوق الإنسان</GOV> التابع ل <ORG>الأمم المتحدة</ORG>، ومن <DATE>التسعينات</DATE> ل <DATE>2024</DATE> كاين تطور كبير في هاد المجال.
+
+الغريب هو أن <GOV_AGG>مؤسسات الدولة</GOV_AGG> بحال <GOV_AGG>الأمن</GOV_AGG> ولا <GOV_AGG>الدرك</GOV_AGG> ما كيدعيو حد رغم <EVENT_AGG>الانتقاد</EVENT_AGG>، ولكن <PERSON_AGG>السياسيين</PERSON_AGG> و <ORG>الأحزاب</ORG> صدرهم ضيق. كاين أعطاب في <EVENT_AGG>المشهد السياسي</EVENT_AGG> وخاص إصلاح <LAW>مدونة الأخلاق</LAW> داخل <GOV>البرلمان</GOV> وخارجو. <EVENT_AGG>التشهير</EVENT_AGG> في <MEDIA_AGG>مواقع التواصل الاجتماعي</MEDIA_AGG> كيعطي صورة خايبة على <GPE>البلاد</GPE>. واخا كاين <EVENT_AGG>الفساد</EVENT_AGG> في بزاف ديال الطبقات، ولكن خاص ديما يكون الدليل قبل ما نهضرو.
+
+TAGGED TEXT (CLEAN ARABIZI)
+
+Bzaf kysouwlo ela <EVENT_AGG>lfasad</EVENT_AGG> dyal <PERSON_AGG>lsiyasiyin</PERSON_AGG> w <PERSON_AGG>lbarlamaniyin</PERSON_AGG> w <PERSON_AGG>lowazara</PERSON_AGG>. Wahed lmra <DATE>sbah</DATE> fqt lqit <MEDIA_AGG>jarida wataniya</MEDIA_AGG> dayra sourti w enwan kigoul bli <PERSON>Bouaida</PERSON> kistaghl ssoulta dyalo bash ydkhl qribto l <GOV>lbarlaman</GOV>. Bqit knstaghrb shkoun had lqriba, sdqat <PERSON_AGG>bnti</PERSON_AGG> lli fi <DATE>2016</DATE> kan endha ghir <CARDINAL>arba snin</CARDINAL> w hiya zayda fi <DATE>2012</DATE>. Wash <CARDINAL>arba snin</CARDINAL> ghatdkhl l <GOV>lbarlaman</GOV>? Hadshi kibiyen hajm <EVENT_AGG>ltashhir</EVENT_AGG>.
+
+Tilat lmouda lli t-raast fiha <GOV>ljika</GOV> t-arradt l <EVENT_AGG>lsabb</EVENT_AGG> w <EVENT_AGG>lqadf</EVENT_AGG>, walakin lmabda dyali houwa ma ntabe hatta shi wahed qadaiyan. <PERSON_AGG>Lsiyasiyin</PERSON_AGG> lli kimarsou <EVENT_AGG>lshan l-am</EVENT_AGG> khashom ytqeblou <EVENT_AGG>lnaqd</EVENT_AGG> hit houma fi l-wajika w ma bqatch endhom hayat khassa. Daba kayn <EVENT_AGG>ltashhir</EVENT_AGG> hatta mn end <PERSON_AGG>lmouatinin</PERSON_AGG> lli endhom hwatif, wl-haqq wl-batil tkhaltou.
+
+Kayn <CARDINAL>jouj</CARDINAL> enwae dyal <EVENT_AGG>lmotabaat</EVENT_AGG>, walakin ka <PERSON_AGG>masoul</PERSON_AGG> khasni ntqebl <EVENT_AGG>l-intiqadat</EVENT_AGG> lsahika w nslah rasi. <PERSON_AGG>Lsiyasiyin</PERSON_AGG> ma khashomsh ybqaw mqablin ghir shnou kitkteb elihom. <GPE>Lmghrib</GPE> daba rah kitwalla riasat <GOV>lmajlis l-dawli l-huquq l-insan</GOV> lli tabae l <ORG>l-omam l-mottahida</ORG>, w mn <DATE>ltsinat</DATE> l <DATE>2024</DATE> kayn tattawor kbir fi had l-majal.
+
+Lghrib houwa ana <GOV_AGG>mouassasat l-dawla</GOV_AGG> bhal <GOV_AGG>l-amn</GOV_AGG> wla <GOV_AGG>ldark</GOV_AGG> ma kid-aiw had rghm <EVENT_AGG>l-intiqad</EVENT_AGG>, walakin <PERSON_AGG>lsiyasiyin</PERSON_AGG> w <ORG>l-ahzab</ORG> sdrom dyyaq. Kayn a-tab fi <EVENT_AGG>lmash-had lsiyasi</EVENT_AGG> w khas islah <LAW>moudawanat l-akhlaq</LAW> dakhl <GOV>lbarlaman</GOV> w kharjo. <EVENT_AGG>Ltashhir</EVENT_AGG> fi <MEDIA_AGG>mawaqi l-tawasol l-ijtima-i</MEDIA_AGG> ki-ati soura khayba ela <GPE>lblad</GPE>. Wakha kayn <EVENT_AGG>lfasad</EVENT_AGG> fi bzaf dyal ttabaqat, walakin khas dima ykoun ddalil qbl ma nhadrou.
+
+Would you like me to extract a specific list of all tagged entities along with their types for your database?
+
+--------------------------------------
+
+[Assistant Response 2]:
+TAGGED TEXT (ARABIC)
+
+فالمرحلة اللخرة، كتر الهضرة على المهاجرين <NORP>الأفارقة</NORP> اللي جاو لـ <GPE>المغرب</GPE>. وخا <GPE>المغرب</GPE> راه جزء من <LOC>إفريقيا</LOC>، ولكن كاين اللي كيشوف هاد التواجد بحال شي هجوم، وكاين ردود فعل سلبية من طرف شي <NORP>مغاربة</NORP>. <GPE>المغرب</GPE> ولا كيتعبر <ORDINAL>ثاني</ORDINAL> دولة فـ <LOC>إفريقيا</LOC> كيقصدوها الناس من <GPE>إفريقيا الوسطى</GPE> باش يستقرو. هادشي راجع لـ <CARDINAL>جوج</CARDINAL> أسباب: الأول هو الموقع، حيت <GPE>المغرب</GPE> قريب لـ <GPE>صبانيا</GPE> و <GPE>أوروبا</GPE>، وكان ديما نقطة عبور للحريݣ، وهادشي جذب ناس من <NORP>عرب</NORP> و <NORP>هنود</NORP> و <NORP>باكستانيين</NORP>، وحتى <NORP>سوريين</NORP> و <NORP>ليبيين</NORP> فواحد الوقيتة.
+
+دابا، بزاف ديال <NORP>الأفارقة</NORP> مابقاوش كيشوفو <GPE>المغرب</GPE> غير قنطرة، ولقاو باللي العيشة بلا وراق فـ <GPE>أوروبا</GPE> صعابت، داكشي علاش بزاف اختارو يبقاو فـ <GPE>المغرب</GPE> حيت البنية التحتية ديالو أحسن بزايد مقارنة بدول <LOC>إفريقيا الوسطى</LOC>، وحتى الخدمة والطب متوفرين كثر. وخا شي <NORP>مغاربة</NORP> كيشوفو بلادهم عاد كتمى، ولكن اللي سافر لـ <LOC>إفريقيا</LOC> كيشوف الفرق فالتطور والظروف الصحية. حتى يلا قارنا <GPE>المغرب</GPE> مع <GPE>الجزائر</GPE>، <GPE>تونس</GPE>، و <GPE>مصر</GPE>، كنلقاو شهادات كتقول باللي هو الأفضل فالبنية التحتية.
+
+هاد الظاهرة خلات شي تعليقات عنصرية تظهر، وهاد الرفض للمهاجرين كاين فالعالم كامل عند الطبقة الفقيرة والمتوسطة. <NORP>المغاربة</NORP> اللي ساكنين فـ <GPE>الخارج</GPE> كيفهمو هادشي حيت كيعيشوه، وفـ <DATE>2022</DATE> و <DATE>2023</DATE> مع التضخم فـ <GPE>أوروبا</GPE>، زاد الحقد على المهاجرين. فـ <GPE>المغرب</GPE>، فاش غلا <ENTITY_TYPE_AGG>البترول</ENTITY_TYPE_AGG>، الانتقاد مشى كثر لـ <PERSON_AGG>السياسيين</PERSON_AGG> والوسطاء، وماشي للمهاجرين بحال <GPE>أوروبا</GPE>، وخا كاين تأثيرات ديال <EVENT_AGG>حرب</EVENT_AGG> <GPE>أوكرانيا</GPE> و <GPE>روسيا</GPE>.
+
+هاد الهجرة عندها جوانب سلبية بحال الصدمة الثقافية واختلاف <LAW>التقاليد</LAW> والدين بين <NORP>المسلمين</NORP> و <NORP>المسيحيين</NORP>، خاصة يلا المهاجرين عزلو راسهم فـ <LOC>أحياء</LOC> خاصة. ولكن كاين جوانب إيجابية، حيت <GPE>المغرب</GPE> غادي يحتاج يد عاملة فالمستقبل فمجالات بحال <ENTITY_TYPE_AGG>الطب</ENTITY_TYPE_AGG> حيت كاين نقص. المهاجرين يقدرو يعطيو دفعة <ENTITY_TYPE_AGG>اقتصادية</ENTITY_TYPE_AGG> و <ENTITY_TYPE_AGG>سياسية</ENTITY_TYPE_AGG>، وبزاف ديال <PERSON_AGG>الرؤساء</PERSON_AGG> فـ <LOC>إفريقيا</LOC> قراو فـ <GPE>المغرب</GPE>، وهادشي نفع البلاد فملف <LOC>الصحراء المغربية</LOC> وفالصراع مع <GPE>الجزائر</GPE>.
+
+TAGGED TEXT (CLEAN ARABIZI)
+
+Fl-marhala lkhra, ktrat lhoda ela lmouhajirin <NORP>lafarika</NORP> lli jaw l- <GPE>lmghrib</GPE>. Wakha <GPE>lmghrib</GPE> rah joze mn <LOC>ifriqya</LOC>, walakin kayn lli kychouf had tawajod bhal chi hojoum, w kayn roudoud fi3l silbiya mn taraf chi <NORP>mgharba</NORP>. <GPE>lmghrib</GPE> wlla kyt3teber <ORDINAL>thani</ORDINAL> dawla f- <LOC>ifriqya</LOC> kyqasdouha nass mn <GPE>ifriqya lwosta</GPE> bach ystagrou. Hadchi raje3 l- <CARDINAL>jouj</CARDINAL> asbab: l-awwal houwa l-mawqi3, hit <GPE>lmghrib</GPE> qrib l- <GPE>spanya</GPE> w <GPE>loropa</GPE>, w kan dima nuqtat obour l-hriq, w hadchi jdeb nass mn <NORP>arab</NORP> w <NORP>hnoud</NORP> w <NORP>bakistanayyin</NORP>, w hta <NORP>souriyyin</NORP> w <NORP>libiyyin</NORP> f-wahd l-weqita.
+
+Daba, bzaf dyal <NORP>lafarika</NORP> mabqawch kychoufou <GPE>lmghrib</GPE> ghir qntra, w lqaw billi l-3icha bla wraq f- <GPE>loropa</GPE> s3abet, dakchi elach bzaf khtaro ybqaw f- <GPE>lmghrib</GPE> hit l-binya l-tahtiya dyalou hssen b-zayed muqarana b-douwal <LOC>ifriqya lwosta</LOC>, w hta l-khidma w l-tebb mtowfrin kter. Wakha chi <NORP>mgharba</NORP> kychoufou bladhoum ad katnma, walakin lli safer l- <LOC>ifriqya</LOC> kychouf l-farq f-tatawor w l-dorouf l-sihiya. Hta ylla qarna <GPE>lmghrib</GPE> m3a <GPE>ljazair</GPE>, <GPE>tounes</GPE>, w <GPE>misr</GPE>, knlqaw chahadat katqoul billi houwa l-afdal f-lbinya l-tahtiya.
+
+Had l-dahira khlat chi teliqat onsouriya t-dher, w had l-rafd l-mouhajirin kayn f-l3alam kamel 3nd l-tabaqa l-faqira w l-mutawassita. <NORP>lmgharba</NORP> lli saknin f- <GPE>lkharij</GPE> kyfehmou hadchi hit ky3ichouh, w f- <DATE>2022</DATE> w <DATE>2023</DATE> m3a l-tadakhoum f- <GPE>loropa</GPE>, zad l-hiqd ela l-mouhajirin. F- <GPE>lmghrib</GPE>, fach ghla <ENTITY_TYPE_AGG>lpetrol</ENTITY_TYPE_AGG>, l-intiqad mcha kter l- <PERSON_AGG>lsiyasiyyin</PERSON_AGG> w l-ousata2, w machi l-mouhajirin bhal <GPE>loropa</GPE>, wakha kayn tatirat dyal <EVENT_AGG>harb</EVENT_AGG> <GPE>okranya</GPE> w <GPE>roussya</GPE>.
+
+Had l-hijra 3ndha jwanib silbiya bhal l-sadma l-thaqafiya w ikhtilaf <LAW>l-taqalid</LAW> w l-din bin <NORP>louslimin</NORP> w <NORP>lmasihiyyin</NORP>, khassatan ylla l-mouhajirin ezlou rashoum f- <LOC>ahya2</LOC> khassa. Walakin kayn jwanib ijabiya, hit <GPE>lmghrib</GPE> ghadi yhtaj yd amila f-lmostaqbal f-majallat bhal <ENTITY_TYPE_AGG>l-tebb</ENTITY_TYPE_AGG> hit kayn naqs. L-mouhajirin yqdrou ya3tiw df3a <ENTITY_TYPE_AGG>iqtisadiya</ENTITY_TYPE_AGG> w <ENTITY_TYPE_AGG>siyasiya</ENTITY_TYPE_AGG>, w bzaf dyal <PERSON_AGG>l-rou2assa</PERSON_AGG> f- <LOC>ifriqya</LOC> qraw f- <GPE>lmghrib</GPE>, w hadchi nfe3 l-blad f-milaf <LOC>lsahrae lmghribiya</LOC> w f-lsira3 m3a <GPE>ljazair</GPE>.
+
+--------------------------------------
+

@@ -1,0 +1,11 @@
+=== CHAT: Darija NER Tagging Assistant Workflow ===
+
+[Assistant Response 1]:
+TAGGED TEXT (ARABIC)
+القضية صعابت في <GPE>مصر</GPE> على <NORP>الإخوان</NORP> لدرجة أن <PERSON_AGG>الرئيس</PERSON_AGG> <PERSON>السيسي</PERSON> كيقول ليهم ديروا غير <CARDINAL>طبق واحد</CARDINAL> <ORDINAL>فقط</ORDINAL> في <DATE>رمضان</DATE> وما تعمروش الطبلة. هنا كيبان أن <NORP>المصري</NORP> بدا كياكل العصا، والأسعار ما بغاوش يهبطوا و<GOV_AGG>الدولة</GOV_AGG> ما قدراتش تواكب الوضع الاقتصادي العالمي، وهنا فين زادت غراقات القضية. في <DATE>شهر رمضان</DATE> خاص يتحط <CARDINAL>طبق واحد</CARDINAL> ويكون فيه يا دجاج يا اللي كان، ونشوفوا بعضياتنا وهادي نعتبروها <DATE>موضة</DATE>.
+
+TAGGED TEXT (CLEAN ARABIZI)
+lqadiya s3abat fi <GPE>misr</GPE> 3la <NORP>likhwan</NORP> ldaraja an <PERSON_AGG>lrais</PERSON_AGG> <PERSON>sissi</PERSON> kigoul lihom diro ghir <CARDINAL>tbaq wahid</CARDINAL> <ORDINAL>faqat</ORDINAL> fi <DATE>ramdan</DATE> wma t3mrouch ltabla. hna kiban an <NORP>lmasri</NORP> bda kayakol l3sa, wl2as3ar ma bgawch ihbto w<GOV_AGG>ldawla</GOV_AGG> ma qdratch twakb lwad3 liqtisadi l3alami, whna fin zadat graqat lqadiya. fi <DATE>chhar ramdan</DATE> khass ithat <CARDINAL>tbaq wahid</CARDINAL> wikoun fih ya djaj ya lli kan, wnchoufo b3dyatna whadi n3tbroha <DATE>mouda</DATE>.
+
+--------------------------------------
+

@@ -1,0 +1,23 @@
+=== CHAT: Moroccan Real Estate Market Analysis ===
+
+[Assistant Response 1]:
+TAGGED TEXT (ARABIC)
+<GPE>المغرب</GPE> دخل ف ركود اقتصادي ف قطاع العقار، خصوصا ف <DATE>الربع الأول من 2025</DATE>. المعاملات د البيع والشرا نخفضات ب <CARDINAL>30%</CARDINAL> تقريبا ما بين أواخر <DATE>2024</DATE> وبداية <DATE>2025</DATE>. وملي كنقارنو <DATE>الربع الأول ديال 2025</DATE> مع <DATE>الربع الأول ديال 2024</DATE>، كنلقاو تراجع عام فالمعاملات ب <CARDINAL>15%</CARDINAL>. أكثر المتضررين هما <LOC>البيرويات</LOC> اللي نخفضوا ب <CARDINAL>40%</CARDINAL>، و <LOC>المحلات التجارية</LOC> اللي عرفات أكبر تراجع فالمقارنة السنوية.
+
+وبالنسبة ل <LAW>دعم السكن</LAW>، الرقم ديال المستفيدين وصل غير ل <CARDINAL>55000</CARDINAL> من أصل <CARDINAL>177000</CARDINAL> طلب، وهاد الفرق الكبير كيبين أن الناس ماقادينش يشريو وخا بالمساعدة ديال الدولة. المهنيين كيشوفو أن مبيعات الإسمنت طالعة ماشي بسبب ديور السكن، ولكن بسبب مشاريع <EVENT>كاس العالم</EVENT> والبنية التحتية، وهاد الطلب رفع غلا مواد البنا وزاد ف ثمن العقار وخلا الشرا صعيب على اللي باغي دار جديدة.
+
+السوق كان محرك ف <DATE>العام اللي فات</DATE> بسبب أصحاب الكاش، والقطاع غير المهيكل، و <NORP>الجالية</NORP> اللي بغات تستثمر فبلادها، والناس اللي خدامين ف <MEDIA>الأنترنت</MEDIA> وعندهوم مدخول طالع. ولكن القدرة الشرائية د المواطن العادي ما طلعاتش باش تواكب هاد الغلا، و <ORG>الأبناك</ORG> صعيب تعطي كريديات لهاد الأثمنة الكبيرة، داكشي علاش وقع بلوكاج فالسوق.
+
+زيادة التحفيزات والدعم غادي تكون غير بحال "المنشطات" اللي كتنفع <PERSON_AGG>المنعشين العقاريين</PERSON_AGG> باش يبيعو بالغلا ويراكمو الأرباح، بينما الحل الصحي هو الأثمنة تنخفض باش توازن مع القدرة الشرائية الحقيقية للمواطنين. النمو الاقتصادي ف <GPE>المغرب</GPE> كيعطي دابا ظواهر بحال اللي كاينة ف <GPE>البرازيل</GPE>، فين كتوسع الهوة بين الأغنياء والفقراء، وهادشي كيخلق مشاكل اجتماعية واقتصادية بحال الهجرة خاص <GOV_AGG>الدولة</GOV_AGG> تلقى ليها حل.
+
+TAGGED TEXT (CLEAN ARABIZI)
+<GPE>lmghrib</GPE> dkhel f rokod i9tisadi f 9ita3 l3a9ar, khousosan f <DATE>rrob3 lowel men 2025</DATE>. lmo3amalat d lbi3 w chra nkhafdats b <CARDINAL>30%</CARDINAL> ta9riban ma bin awakher <DATE>2024</DATE> w bidayat <DATE>2025</DATE>. w melli kan9arno <DATE>rrob3 lowel dyal 2025</DATE> m3a <DATE>rrob3 lowel dyal 2024</DATE>, kanl9aw tarajo3 3am f lmo3amalat b <CARDINAL>15%</CARDINAL>. ktar lmotadaririn huma <LOC>lbirouwat</LOC> lli nkhafdo b <CARDINAL>40%</CARDINAL>, w <LOC>lma7alat tijariya</LOC> lli 3rfat akbar tarajo3 f lmo9arana sanawiya.
+
+w binisba l <LAW>da3m sakan</LAW>, rra9m dyal lmostafidin wsel ghir l <CARDINAL>55000</CARDINAL> men asl <CARDINAL>177000</CARDINAL> talab, w had lfar9 lkbir kaybyen anna nnas ma9adinch ychriw wakha b lmosa3ada dyal ddawla. lmihaniyin kaychoufo anna mabi3at lissment tal3a machi bsbab diour sakan, walakin bsbab machari3 <EVENT>kass l3alam</EVENT> w lbinya ta7tiya, w had ttalab rfa3 ghla mawad lbina w zad f taman l3a9ar w khalla chra s3ib 3la lli baghi dar jdida.
+
+ssou9 kan m7arek f <DATE>l3am lli fat</DATE> bsbab s7ab lcash, w l9ita3 ghir lmohaykal, w <NORP>ljaliya</NORP> lli bghat tastatmer f bladna, w nnas lli khddamin f <MEDIA>linternet</MEDIA> w 3ndhoum madkhoul tale3. walakin l9odra chira2iya d lmowatin l3adi matl3atch bach twakeb had lghla, w <ORG>l2abnak</ORG> s3ib ta3ti creditat l had latmina lkbira, dakchi lach w9a3 blocage f ssou9.
+
+ziyadat ta7fizat w dda3m ghadi tkoun ghir b7al "lmonachitat" lli katnfa3 <PERSON_AGG>lmon3ichin l3a9ariyin</PERSON_AGG> bach ybi3o b lghla w yrakmo larba7, baynama l7al ssi7i huwa latmina tankhafed bach twazen m3a l9odra chira2iya l7a9i9iya l lmowatinin. nnomow li9tisadi f <GPE>lmghrib</GPE> kay3ti daba dawahir b7al lli kayna f <GPE>lbarazil</GPE>, fin katwssa3 lhowa bin l2aghniya2 w lfo9ara2, w hadchi kaykhl9 machakil ijtima3iya w i9tisadiya b7al lhijra khass <GOV_AGG>ddawla</GOV_AGG> tl9a liha 7al.
+
+--------------------------------------
+

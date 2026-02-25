@@ -1,0 +1,93 @@
+TAGGED TEXT (ARABIC)
+فهاد <MEDIA_AGG>فيديو</MEDIA_AGG> كنهدرو على الدعم المالي المباشر اللي قيمتو <CARDINAL> 500 درهم </CARDINAL> وكيقدر يوصل لعدد كبير من الأسر فـ <GPE> المغرب </GPE> إلا توفرت فيهم الشروط.
+فـ <DATE> شهر 4 من عام 2021 </DATE> فـ القصر الملكي فـ <GPE> فاس </GPE> ، تقدم <PERSON> محمد بنشعبون </PERSON> قدام <PERSON_AGG>الملك</PERSON_AGG> باش يقرا قانون الإطار رقم <CARDINAL> 09.21 </CARDINAL> المتعلق بـ <LAW> الحماية الاجتماعية </LAW> . هاد القانون فرض على <GOV_AGG>الحكومة</GOV_AGG> مدة ديال <CARDINAL> 5 سنين </CARDINAL> باش تعمم التغطية الاجتماعية على حوالي <CARDINAL> 37 مليون </CARDINAL> مغربي.
+التغطية الاجتماعية كتضم:
+– التأمين الإجباري على المرض <ORG> AMO </ORG>
+– التعويضات العائلية
+– التقاعد الإجباري
+– التعويض عن فقدان الشغل
+قبل هاد القانون كانو غير حوالي <CARDINAL> 14 مليون </CARDINAL> مستافدين من <ORG> AMO </ORG> ، ومن بعد تزادو أكثر من <CARDINAL> 22 مليون </CARDINAL> مواطن. دابا العدد وصل تقريباً لـ <CARDINAL> 36 مليون </CARDINAL> .
+فـ <DATE> 13 أكتوبر 2023 </DATE> دار <PERSON_AGG>الملك</PERSON_AGG> خطاب فـ <GOV> البرلمان </GOV> أكد فيه على إخراج التعويضات العائلية. ومن بعد خرجات القوانين <LAW> 23.58 </LAW> و <LAW> 23.59 </LAW> فـ <DATE> 8 دجنبر 2023 </DATE> لتنظيم الدعم المباشر.
+الدعم فيه ثلاثة أنواع:
+1️⃣ إعانة حماية الطفولة
+2️⃣ الإعانة الجزافية ( <CARDINAL> 500 درهم </CARDINAL> )
+3️⃣ منحة الولادة
+🔹 إعانة حماية الطفولة
+كتعطى للأسر اللي عندهم أطفال أقل من <CARDINAL> 21 عام </CARDINAL> .
+ابتداءً من <DATE> 2026 </DATE> :
+– <CARDINAL> 300 درهم </CARDINAL> للطفل الواحد فـ الثلاثة الأوائل إلا كان كيقرا
+– <CARDINAL> 200 درهم </CARDINAL> إلا ماكيقراش
+– من الرابع للسادس: <CARDINAL> 36 درهم </CARDINAL> إلا كان كيقرا و< CARDINAL>24 درهم </CARDINAL> إلا ماكيقراش
+– من السابع لفوق: صفر
+الطفل فـ وضعية إعاقة عميقة كيزاد ليه <CARDINAL> 100 درهم </CARDINAL> إضافية، وكيتحسب بحال إلا كيقرا.
+الحد الأدنى لأي أسرة هو <CARDINAL> 500 درهم </CARDINAL> فالشهر.
+🔹 الإعانة الجزافية
+كتعطى لرب الأسرة اللي ماعندوش أطفال أو ولادو فاتو <CARDINAL> 21 عام </CARDINAL> . القيمة ديالها <CARDINAL> 500 درهم </CARDINAL> شهرياً.
+🔹 منحة الولادة
+– <CARDINAL> 2000 درهم </CARDINAL> فالولادة الأولى
+– <CARDINAL> 1000 درهم </CARDINAL> فالولادة الثانية
+خاص تسجيل المولود فـ <GOV> السجل الوطني للسكان </GOV> و< GPE>السجل الاجتماعي الموحد </GPE> فمدة ما تفوتش <CARDINAL> 6 شهور </CARDINAL> .
+باش تستافد خاص:
+– التسجيل فـ <GOV> السجل الوطني للسكان </GOV>
+– التسجيل فـ <GOV> السجل الاجتماعي الموحد </GOV>
+– التنقيط يكون ≤ <CARDINAL> 9.743 </CARDINAL>
+– ما تكونش كتستافد من تعويضات عائلية عبر <ORG> CNSS </ORG> أو وظيفة عمومية
+– ما تكونش كتستافد من <ORG> صندوق التكافل العائلي </ORG>
+التسجيل كيدار عبر الموقع:
+<MEDIA> www.asd.ma </MEDIA>
+خاصك:
+– رقم البطاقة الوطنية
+– المعرف الوطني للسكان
+– رقم الحساب البنكي (RIB فيه <CARDINAL> 24 رقم </CARDINAL> )
+– كود <ORG> مسار </ORG> إلا كانو الأطفال كيقرّاو
+الدولة كتقول الميزانية فـ <DATE> 2026 </DATE> غتوصل لـ <CARDINAL> 29 مليار درهم </CARDINAL> سنوياً، والمشروع كامل ديال الحماية الاجتماعية يقدر يوصل لـ <CARDINAL> 51 مليار درهم </CARDINAL> فالسنة.
+كاين نقاش على تأثير الدعم على القدرة الشرائية والتضخم، حيث ضخ فلوس فالسوق يقدر يرفع الأسعار. التضخم كان فوق <CARDINAL> 4% </CARDINAL> ودابا الهدف يوصل لـ <CARDINAL> 2% </CARDINAL> .
+كاين كذلك برنامج دعم السكن اللي يوصل لـ <CARDINAL> 70 مليون سنتيم </CARDINAL> .
+هاد الخطة مستمرة حتى <DATE> 2025 </DATE> باش يتعمم التقاعد والتعويض عن فقدان الشغل.
+━━━━━━━━━━━━━━━━━━━━
+TAGGED TEXT (CLEAN ARABIZI)
+fhad <MEDIA_AGG>video</MEDIA_AGG> kanhdro 3la dda3m lmali lmoubachir li qimto <CARDINAL> 500 dirham </CARDINAL> w kayqder ywsal l3dad kbira mn l2osar f <GPE> lmghrib </GPE> ila twfart fihom chrot.
+f <DATE> chhar 4 mn 3am 2021 </DATE> f l9asr lmalaki f <GPE> Fas </GPE> tqddem <PERSON> Mohamed Benchaaboun </PERSON> 9dam <PERSON_AGG>lmalik</PERSON_AGG> bach y9ra qanoun litar raqm <CARDINAL> 09.21 </CARDINAL> lmota3ali9 b <LAW> lhimaya lijtima3iya </LAW> . had lqanoun fard 3la <GOV_AGG>lhokoma</GOV_AGG> مدة dyal <CARDINAL> 5 snin </CARDINAL> bach t3ammem ttaghtiya 3la 7wali <CARDINAL> 37 million </CARDINAL> مغribi.
+ttaghtiya katdmen:
+– ta2min ijbari 3la lmard <ORG> AMO </ORG>
+– ta3widat 3a2iliya
+– ta9a3od ijbari
+– ta3wid 3an fa9dan choghl
+9bel had lqanoun kano ghir <CARDINAL> 14 million </CARDINAL> kaystafdo mn <ORG> AMO </ORG> w mn ba3d tzado aktar mn <CARDINAL> 22 million </CARDINAL> . daba l3dad wsal ta9riban l <CARDINAL> 36 million </CARDINAL> .
+f <DATE> 13 octobre 2023 </DATE> dar <PERSON_AGG>lmalik</PERSON_AGG> khitab f <GOV> lbarlaman </GOV> 2akkad fih 3la ta3widat 3a2iliya. mn ba3d kharjat l9awanin <LAW> 23.58 </LAW> w <LAW> 23.59 </LAW> f <DATE> 8 djenber 2023 </DATE> bach tnazzem dda3m.
+dda3m fih tlata anwa3:
+1️⃣ i3anat himayat ttofola
+2️⃣ i3ana jazafiya ( <CARDINAL> 500 dirham </CARDINAL> )
+3️⃣ min7at lwilada
+🔹 i3anat himayat ttofola
+kat3ta l2osar li 3andhom atfal a9al mn <CARDINAL> 21 3am </CARDINAL> .
+ibtida2an mn <DATE> 2026 </DATE> :
+– <CARDINAL> 300 dirham </CARDINAL> lttifl ila kay9ra
+– <CARDINAL> 200 dirham </CARDINAL> ila makay9rach
+– mn rabe3 l saddes: <CARDINAL> 36 dirham </CARDINAL> ila kay9ra w <CARDINAL> 24 dirham </CARDINAL> ila makay9rach
+– mn ssebe3 lfou9: sifr
+ttifl fi wad3iyat i3a9a 3ami9a kaytzed lih <CARDINAL> 100 dirham </CARDINAL> .
+l7ad l2adna howa <CARDINAL> 500 dirham </CARDINAL> .
+🔹 i3ana jazafiya
+< CARDINAL>500 dirham </CARDINAL> chahriya lrb l2osra li ma3andouch atfal aw wladou fatou <CARDINAL> 21 3am </CARDINAL> .
+🔹 min7at lwilada
+– <CARDINAL> 2000 dirham </CARDINAL> f lwilada lwla
+– <CARDINAL> 1000 dirham </CARDINAL> f taniya
+khass ttsjil f <GOV> ssijil lwatani lssokan </GOV> w <GOV> ssijil lijtima3i lmou7ad </GOV> f moddat ma tfoutch <CARDINAL> 6 chhor </CARDINAL> .
+chrot:
+– ttsjil f <GOV> ssijil lwatani lssokan </GOV>
+– ttsjil f <GOV> ssijil lijtima3i lmou7ad </GOV>
+– tan9it ≤ <CARDINAL> 9.743 </CARDINAL>
+– ma tkounch katstafd mn <ORG> CNSS </ORG> aw wadifa 3omoumiya
+– ma tkounch katstafd mn <ORG> sando9 takafol 3a2ili </ORG>
+ttsjl 3abr:
+<MEDIA> www.asd.ma </MEDIA>
+khass:
+– raqm bita9a wataniya
+– mo3arif watani lssokan
+– RIB fih <CARDINAL> 24 raqm </CARDINAL>
+– kod <ORG> Massar </ORG> ila l2atfal kay9raw
+lmizaniya f <DATE> 2026 </DATE> ghadi twsal l <CARDINAL> 29 مليار dirham </CARDINAL> sanawiyan, w lmachrou3 kamel y9dar ywsl l <CARDINAL> 51 milliard dirham </CARDINAL> fssana.
+ttadakhom kan fou9 <CARDINAL> 4% </CARDINAL> w lhadaf ywsl l <CARDINAL> 2% </CARDINAL> .
+ka2in barnamej dda3m sskan li ywsal l <CARDINAL> 70 million santim </CARDINAL> .
+lkhota mstamira 7tta <DATE> 2025 </DATE> .

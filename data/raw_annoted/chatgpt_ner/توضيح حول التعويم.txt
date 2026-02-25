@@ -1,0 +1,23 @@
+TAGGED TEXT (ARABIC)
+معلومة مهمة خرجات <DATE> البارح </DATE> وغادي تبدل لينا كاملين النظرة ديالنا على التعويم، وحتى التأثير ديالو على الدرهم غادي يختلف. الأرقام غادي يتبدلو وغادي تتبدل اللعبة.
+هاد المعلومة كتقول بلي <GPE> المغرب </GPE> غادي يخرج للأسواق الدولية باش ياخذ ديون، وهاد الشي عادي حيث معظم الدول فـ <LOC> العالم </LOC> ، خصوصا الدول المتقدمة، كيخرجو ديون بما يسمى بالباندس الخارجية وكيديرو حتى ديون داخلية حسب كل بلاد.
+هاد الديون عندهم علاقة باستقرار الدولة من الناحية الاقتصادية والسياسية. كلما كانت الثقة فالدولة طالعة كلما كان الوضع مزيان ليها، وكلما هبطات الثقة كتولي خايبة عليها.
+مني كتخرج شي دولة تطرح سندات ديالها فالسوق الدولية، كيشرّيوهم المؤسسات المالية وبعض الدول اللي كيستثمرو فهاد السندات. هنا ما كيكونوش توصيات ولا إملاءات مباشرة على البلد، حيث المستثمر كياخذ الريسك مع الدولة وما كيقولش ليها شنو تدير.
+ولكن إلا الدولة ما قدّراتش ترد الفلوس، هادي كتكون حاجة خايبة حيث كتأثر على سمعة البلاد وقدرتها تخرج سندات فالمستقبل. إلا ما بقاتش قادرة تخرج للأسواق الدولية، كتمشي لـ <ORG> صندوق النقد الدولي </ORG> باش تتسلف منو.
+هنا الفرق كبير، حيث ملي كتسلف من السوق الدولية المستثمر كياخذ الريسك بلا ما يفرض شروط، ولكن ملي كتمشي لـ <ORG> صندوق النقد الدولي </ORG> كيقدر يعطيك شروط باش يسلفك، ومن بين هاد الشروط يقدر يطلب التعويم وتطبيقو.
+حالياً <GPE> المغرب </GPE> ما محتاجش يمشي يتسلف عند <ORG> صندوق النقد الدولي </ORG> حيث قادر يخرج يطرح السندات ديالو فالأسواق الدولية.
+بالنسبة للتعويم، خاصو يجي بالتدريج، خصوصا فهاد الوقت اللي <LOC> العالم </LOC> كامل كيدوز من أزمة. إلا دارتي تعويم فجأة فواحد التوقيت خايب، الدولة تقدر تغرق اقتصادياً.
+هاد الشي وقع فـ< GPE>مصر </GPE> فواحد التعويم الجاف اللي خلا الجنيه يفقد القيمة بسرعة كبيرة. وممكن نشوفو نفس التأثير فـ< GPE>سوريا </GPE> و< GPE>لبنان </GPE> فحالات مشابهة.
+ولكن فـ< GPE>المغرب </GPE> التعويم غادي يجي بشوية بشوية، وغادي يعطي الوقت للمغاربة والشركات باش يتأقلمو ويركزو أكثر على العملة الصعبة كمداخيل، وعلى الصادرات أكثر من الواردات، وبهذا الشكل الاقتصاد المغربي ما غاديش يتضرب بدقة كبيرة.
+---
+TAGGED TEXT (CLEAN ARABIZI)
+ma3loma mohimma kharjat <DATE> lbar7 </DATE> w ghadi tbdel lina kamlin nadra dyalna 3la tta3wim, w 7ta tta2tir dyalo 3la ddarham ghadi ykhtalef. l2ar9am ghadi ytbaddlo w ghadi ttbaddel l3ba.
+had lma3loma kat9ol bli <GPE> lmghrib </GPE> ghadi ykhrj l2aswa9 dawliya باش yakhod dyoun, w had chi 3adi 7it mo3dam ddowal f <LOC> l3alam </LOC> , khossosan ddowal lmot9addima, kaykhrjo dyoun bima ysammo b bonds kharijiya w kaydiro 7ta dyoun dakhiliya 7sab kol blad.
+had dyoun 3andhom 3la9a باست9rar ddawla mn na7iya l2i9tisadiya w siyasiya. kolma kant ti9a f ddawla tal3a kolma kan lwad3 mzyan liha, w kolma hbatat ti9a katwlli khayba 3liha.
+mlli katkhrj chi dawla ttra7 sanadate dyalha f sso9 dawliya, kaychriwhom lmo2assasat lmaliya w ba3d ddowal lli kaystathmro f had ssanadat. hna ma kaykounoch tawsiyat wla imla2at mobachira 3la lblad, 7it lmostathmir kayakhod risk m3a ddawla w ma kay9ol lihach chno dir.
+walakin ila ddawla ma 9dratch trdd lflous, hadi katkon 7aja khayba 7it kat2ater 3la som3at lblad w 9odratha tkhrj sanadate f lmosta9bal. ila ma b9atch 9adra tkhrj l2aswa9 dawliya, katmchi l <ORG> Sandou9 Na9d Dawli </ORG> bash tsalf mno.
+hna lfar9 kbir, 7it mlli katsalf mn sso9 dawliya lmostathmir kayakhod risk bla ma yfred chrot, walakin mlli katmchi l <ORG> Sandou9 Na9d Dawli </ORG> y9der y3tik chrot bash ysalfk, w mn bin had chrot y9der ytleb tta3wim w tatbi9o.
+7aliyan <GPE> lmghrib </GPE> ma mhtajch ymchi ysalf 3and <ORG> Sandou9 Na9d Dawli </ORG> 7it 9ader ykhrj ytra7 sanadate dyalo f l2aswa9 dawliya.
+bennisba ltta3wim, khaso yji bchwiya bchwiya, khossosan f had lwa9t lli <LOC> l3alam </LOC> kamel kaydoz mn azma. ila drti tta3wim fj2a f wa7d lwa9t khayb, ddawla t9der tghre9 i9tisadiyan.
+had chi w9e3 f <GPE> masr </GPE> f wa7d tta3wim jaf lli khla ljnih yf9ed l9ima bsor3a kbira. w momkin nchoufo nafs tta2tir f <GPE> souriya </GPE> w <GPE> lobnan </GPE> f 7alat moshabiha.
+walakin f <GPE> lmghrib </GPE> tta3wim ghadi yji bchwiya bchwiya, w ghadi y3ti lwa9t lmgharba w charkat bash yta9lamo w yrkzo aktar 3la l3omla s3ba kmadakhil, w 3la ssadirat aktar mn lwariat, w bhad chkl l2i9tisad lmghribi ma ghadi ytdrebch bd9a kbira.

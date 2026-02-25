@@ -1,0 +1,13 @@
+=== CHAT: Moroccan Darija Election Analysis NER ===
+
+[Assistant Response 1]:
+TAGGED TEXT (ARABIC)
+
+<EVENT>الانتخابات</EVENT> ف <GPE>الجزائر</GPE> خلات <PERSON_AGG>الرئيس</PERSON_AGG> الحالي يربح ب <CARDINAL>94%</CARDINAL>، وهكا فات <PERSON_AGG>الرئيس</PERSON_AGG> <PERSON>السيسي</PERSON> ف <GPE>مصر</GPE> اللي كان الفوز ديالو ب <CARDINAL>89%</CARDINAL>، وقرب شوية ل <PERSON_AGG>الرئيس</PERSON_AGG> ديال <GPE>كوريا الشمالية</GPE> اللي كيجيب <CARDINAL>99.99%</CARDINAL>. <PERSON_AGG>الرئيس</PERSON_AGG> <NORP>الجزائري</NORP> ما رضاش ب <CARDINAL>الأرقام</CARDINAL> وما عجبوش الحال حيت جاتو <CARDINAL>94</CARDINAL> قليلة، وواقيلا <CARDINAL>النص</CARDINAL> ديال <NORP>الجزائريين</NORP> ما فوطاوش أصلا. ف هاد <EVENT>الانتخابات الرئاسية</EVENT> الناس ما كتعرف حتى شي واحد من غير <PERSON>تبون</PERSON> وللأسف ما عارفينش حتى سميات المرشحين لخرين، وخا كاين زعما التعددية باش يكون الاختيار و <NORP>المواطن الجزائري</NORP> يصوت بحرية.
+
+TAGGED TEXT (CLEAN ARABIZI)
+
+<EVENT>lntikhabat</EVENT> f <GPE>ljazair</GPE> khllat <PERSON_AGG>rais</PERSON_AGG> lhali yrb7 b <CARDINAL>94%</CARDINAL>, w hakka fat <PERSON_AGG>rais</PERSON_AGG> <PERSON>sissi</PERSON> f <GPE>misr</GPE> li kan lfawz dialo b <CARDINAL>89%</CARDINAL>, w qrrab chwiya l <PERSON_AGG>rais</PERSON_AGG> dial <GPE>korea chamaliya</GPE> li kayjib <CARDINAL>99.99%</CARDINAL>. <PERSON_AGG>rais</PERSON_AGG> <NORP>ljazairi</NORP> ma-rdach b <CARDINAL>l2arqam</CARDINAL> w ma-3jbouch l7al 7it jato <CARDINAL>94</CARDINAL> qlila, w waqila <CARDINAL>nss</CARDINAL> dial <NORP>ljazairiyin</NORP> ma-foutawch aslan. f had <EVENT>lntikhabat riasiya</EVENT> nass ma-kat3rf 7tta chi wa7d mn ghir <PERSON>tebboune</PERSON> w ll2asaf ma-3rfinch 7tta smiyat lmorach7in lkhrin, wakha kayn za3ma ta3adoudiya bach ykoun lkhtiyar w <NORP>lmuwatin ljazairi</NORP> ysawwt b 7ouriya.
+
+--------------------------------------
+

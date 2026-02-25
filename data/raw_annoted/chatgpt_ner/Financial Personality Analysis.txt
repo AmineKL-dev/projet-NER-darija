@@ -1,0 +1,6 @@
+TAGGED TEXT (ARABIC)
+معرفة الشخصية المالية ديال داك الشخص ضرورية. خاص يتعرف مزيان على الشخصية المالية ديالو من ناحية الأخلاق ومن ناحية العائلة ديالو حتى لآخر التفاصيل. حيت إلا ما تعرفاتش الشخصية المالية ديالو، تقدر تخرج عليك وتقدر ترون لك حياتك كاملة.
+لهذا أول حاجة خاص الواحد يعرف الخسائر وكيفاش كيديرو دوك <ORG> المصارف </ORG> باش يعرفو مزيان الشخصية المالية ديال الشخص.
+TAGGED TEXT (CLEAN ARABIZI)
+ma3rifat chakhsiya lmalya dyal dak chakhss daroriya. khas yta3raf mzyan 3la chakhsiya lmalya dyalo mn nahiya l2akhlaq w mn nahiya l3a2ila dyalo htta l2akher tafasil. hit ila ma t3arftach chakhsiya lmalya dyalo, t9dar tkhrej 3lik w t9dar tron lik 7yatek kamla.
+lihda awal haja khas lwa7ed y3ref lkhassar w kifach kaydirou dok <ORG> lmasarif </ORG> bach y3erfo mzyan chakhsiya lmalya dyal chakhss.
