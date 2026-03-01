@@ -1,0 +1,1467 @@
+[
+  {
+    "section": "ARABIC",
+    "label": "CARDINAL",
+    "entity": "142 melyar"
+  },
+  {
+    "section": "ARABIC",
+    "label": "CARDINAL",
+    "entity": "38 melyar"
+  },
+  {
+    "section": "ARABIC",
+    "label": "CARDINAL",
+    "entity": "477 melyar"
+  },
+  {
+    "section": "ARABIC",
+    "label": "CARDINAL",
+    "entity": "BBB-"
+  },
+  {
+    "section": "ARABIC",
+    "label": "CARDINAL",
+    "entity": "XL"
+  },
+  {
+    "section": "ARABIC",
+    "label": "CURRENCY_AGG",
+    "entity": "دولار</CARDINAL>، وفي <GPE>ميريكان</GPE> بـ <CARDINAL>5.69</CARDINAL> <CURRENCY_AGG>دولار"
+  },
+  {
+    "section": "ARABIC",
+    "label": "DATE",
+    "entity": "l3o9oud li dazet"
+  },
+  {
+    "section": "ARABIC",
+    "label": "DATE",
+    "entity": "lbar7"
+  },
+  {
+    "section": "ARABIC",
+    "label": "DATE",
+    "entity": "lmosta9bal"
+  },
+  {
+    "section": "ARABIC",
+    "label": "DATE",
+    "entity": "seb3 chhour"
+  },
+  {
+    "section": "ARABIC",
+    "label": "DATE",
+    "entity": "waqt"
+  },
+  {
+    "section": "ARABIC",
+    "label": "DATE",
+    "entity": "yom wa7d"
+  },
+  {
+    "section": "ARABIC",
+    "label": "DATE",
+    "entity": "القرن <ORDINAL>الثالث</ORDINAL> عشر"
+  },
+  {
+    "section": "ARABIC",
+    "label": "DATE",
+    "entity": "القرن <ORDINAL>الثامن</ORDINAL> عشر"
+  },
+  {
+    "section": "ARABIC",
+    "label": "DATE",
+    "entity": "القرن <ORDINAL>الحادي</ORDINAL> عشر"
+  },
+  {
+    "section": "ARABIC",
+    "label": "DATE",
+    "entity": "القرن <ORDINAL>الرابع</ORDINAL> عشر"
+  },
+  {
+    "section": "ARABIC",
+    "label": "DATE",
+    "entity": "القرن <ORDINAL>السابع</ORDINAL> عشر"
+  },
+  {
+    "section": "ARABIC",
+    "label": "DATE",
+    "entity": "القرن <ORDINAL>السادس</ORDINAL> عشر"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ECONOMY_AGG",
+    "entity": "BTP"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ECONOMY_AGG",
+    "entity": "MRE"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ECONOMY_AGG",
+    "entity": "PIB"
+  },
+  {
+    "section": "ARABIC",
+    "label": "EVENT",
+    "entity": "COP"
+  },
+  {
+    "section": "ARABIC",
+    "label": "EVENT",
+    "entity": "G20"
+  },
+  {
+    "section": "ARABIC",
+    "label": "EVENT",
+    "entity": "IPO"
+  },
+  {
+    "section": "ARABIC",
+    "label": "EVENT",
+    "entity": "PISA"
+  },
+  {
+    "section": "ARABIC",
+    "label": "EVENT",
+    "entity": "olampyad"
+  },
+  {
+    "section": "ARABIC",
+    "label": "EVENT_AGG",
+    "entity": "Dropshipping"
+  },
+  {
+    "section": "ARABIC",
+    "label": "EVENT_AGG",
+    "entity": "IPO"
+  },
+  {
+    "section": "ARABIC",
+    "label": "EVENT_AGG",
+    "entity": "ghasil lamwal"
+  },
+  {
+    "section": "ARABIC",
+    "label": "EVENT_AGG",
+    "entity": "lkhawsasa"
+  },
+  {
+    "section": "ARABIC",
+    "label": "EVENT_AGG",
+    "entity": "rabi3 l3arabi"
+  },
+  {
+    "section": "ARABIC",
+    "label": "EVENT_AGG",
+    "entity": "ta3wim"
+  },
+  {
+    "section": "ARABIC",
+    "label": "EVENT_AGG",
+    "entity": "tadakhom"
+  },
+  {
+    "section": "ARABIC",
+    "label": "EVENT_AGG",
+    "entity": "tamwil lirhab"
+  },
+  {
+    "section": "ARABIC",
+    "label": "GOV",
+    "entity": "AMMC"
+  },
+  {
+    "section": "ARABIC",
+    "label": "GOV",
+    "entity": "CCM"
+  },
+  {
+    "section": "ARABIC",
+    "label": "GOV",
+    "entity": "صناديق الخزينة (CST)"
+  },
+  {
+    "section": "ARABIC",
+    "label": "GOV_AGG",
+    "entity": "lkhazina"
+  },
+  {
+    "section": "ARABIC",
+    "label": "GOV_AGG",
+    "entity": "qita3at 3omomiya"
+  },
+  {
+    "section": "ARABIC",
+    "label": "GPE",
+    "entity": "Morocco"
+  },
+  {
+    "section": "ARABIC",
+    "label": "GPE",
+    "entity": "dawla"
+  },
+  {
+    "section": "ARABIC",
+    "label": "GPE",
+    "entity": "dowal"
+  },
+  {
+    "section": "ARABIC",
+    "label": "GPE",
+    "entity": "fransa"
+  },
+  {
+    "section": "ARABIC",
+    "label": "GPE",
+    "entity": "janoub ifriqiya"
+  },
+  {
+    "section": "ARABIC",
+    "label": "GPE",
+    "entity": "kanada"
+  },
+  {
+    "section": "ARABIC",
+    "label": "GPE",
+    "entity": "l9ahira"
+  },
+  {
+    "section": "ARABIC",
+    "label": "GPE",
+    "entity": "lbortoghal"
+  },
+  {
+    "section": "ARABIC",
+    "label": "GPE",
+    "entity": "ljazair"
+  },
+  {
+    "section": "ARABIC",
+    "label": "GPE",
+    "entity": "lmghrib"
+  },
+  {
+    "section": "ARABIC",
+    "label": "GPE",
+    "entity": "lmirikan"
+  },
+  {
+    "section": "ARABIC",
+    "label": "GPE",
+    "entity": "mirikan"
+  },
+  {
+    "section": "ARABIC",
+    "label": "GPE",
+    "entity": "misr"
+  },
+  {
+    "section": "ARABIC",
+    "label": "GPE",
+    "entity": "nijirya"
+  },
+  {
+    "section": "ARABIC",
+    "label": "GPE",
+    "entity": "oropa"
+  },
+  {
+    "section": "ARABIC",
+    "label": "GPE",
+    "entity": "sbanya"
+  },
+  {
+    "section": "ARABIC",
+    "label": "LANGUAGE",
+    "entity": "IQ"
+  },
+  {
+    "section": "ARABIC",
+    "label": "LANGUAGE",
+    "entity": "Python"
+  },
+  {
+    "section": "ARABIC",
+    "label": "LAW",
+    "entity": "CPS"
+  },
+  {
+    "section": "ARABIC",
+    "label": "LAW",
+    "entity": "ICE"
+  },
+  {
+    "section": "ARABIC",
+    "label": "LAW",
+    "entity": "RC"
+  },
+  {
+    "section": "ARABIC",
+    "label": "LAW",
+    "entity": "lqarar"
+  },
+  {
+    "section": "ARABIC",
+    "label": "LOC",
+    "entity": "KSR-21"
+  },
+  {
+    "section": "ARABIC",
+    "label": "LOC",
+    "entity": "asya"
+  },
+  {
+    "section": "ARABIC",
+    "label": "LOC",
+    "entity": "black list"
+  },
+  {
+    "section": "ARABIC",
+    "label": "LOC",
+    "entity": "dakhiliya"
+  },
+  {
+    "section": "ARABIC",
+    "label": "LOC",
+    "entity": "ddowal"
+  },
+  {
+    "section": "ARABIC",
+    "label": "LOC",
+    "entity": "dowal ifriqiya"
+  },
+  {
+    "section": "ARABIC",
+    "label": "LOC",
+    "entity": "ifriqiya"
+  },
+  {
+    "section": "ARABIC",
+    "label": "LOC",
+    "entity": "kharijia"
+  },
+  {
+    "section": "ARABIC",
+    "label": "LOC",
+    "entity": "l3alam"
+  },
+  {
+    "section": "ARABIC",
+    "label": "LOC",
+    "entity": "lmintaqa ramadia"
+  },
+  {
+    "section": "ARABIC",
+    "label": "LOC",
+    "entity": "lmintaqa sawda"
+  },
+  {
+    "section": "ARABIC",
+    "label": "LOC",
+    "entity": "mina Tanja"
+  },
+  {
+    "section": "ARABIC",
+    "label": "LOC",
+    "entity": "oropa"
+  },
+  {
+    "section": "ARABIC",
+    "label": "LOC",
+    "entity": "شمال <GPE> المغرب </GPE>"
+  },
+  {
+    "section": "ARABIC",
+    "label": "MEDIA",
+    "entity": "Airbnb"
+  },
+  {
+    "section": "ARABIC",
+    "label": "MEDIA",
+    "entity": "Barid eSign"
+  },
+  {
+    "section": "ARABIC",
+    "label": "MEDIA",
+    "entity": "GID Fournisseur"
+  },
+  {
+    "section": "ARABIC",
+    "label": "MEDIA",
+    "entity": "Global Finance"
+  },
+  {
+    "section": "ARABIC",
+    "label": "MEDIA",
+    "entity": "Psychology Today"
+  },
+  {
+    "section": "ARABIC",
+    "label": "MEDIA",
+    "entity": "so7of"
+  },
+  {
+    "section": "ARABIC",
+    "label": "MEDIA",
+    "entity": "tabligh-fassad.ma"
+  },
+  {
+    "section": "ARABIC",
+    "label": "MEDIA",
+    "entity": "www.asd.ma"
+  },
+  {
+    "section": "ARABIC",
+    "label": "MEDIA_AGG",
+    "entity": "9anat"
+  },
+  {
+    "section": "ARABIC",
+    "label": "NORP",
+    "entity": "ajanib"
+  },
+  {
+    "section": "ARABIC",
+    "label": "NORP",
+    "entity": "faransiya"
+  },
+  {
+    "section": "ARABIC",
+    "label": "NORP",
+    "entity": "lmgharba"
+  },
+  {
+    "section": "ARABIC",
+    "label": "NORP",
+    "entity": "lmghribia"
+  },
+  {
+    "section": "ARABIC",
+    "label": "NORP",
+    "entity": "maghribiya"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "AKDITAL"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "AMMC"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "AMO"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "AMO تضامن"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "Akdital"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "Apple Pay"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "BMCE"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "BMCI"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "CDG"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "CFGM"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "CIH"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "CIMR"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "CMT"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "CNSS"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "COP"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "Chanel"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "ChatGPT"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "Colorado"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "DeepSeek"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "GAFI"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "GTM"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "Gemini"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "Google"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "HCP"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "J-PAL"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "Jet Contractors"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "Knorr"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "LGMC"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "LVMH"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "LafargeHolcim Maroc"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "Lockheed Martin"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "Managem"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "Morocco AI"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "Morocco Now"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "Mutandis"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "NBA"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "Nestlé"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "OCP"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "OCP Green Water"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "OCP Sport Development"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "ONCF"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "OPCI"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "OpenAI"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "PepsiCo"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "SGTM"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "SMI"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "Seasons"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "Statista"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "TGCC"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "UNODC"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "Uber"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "Unilever"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "bank lmghrib"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "boko 7aram"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "borsat dar lbaida"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "charika"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "charikat"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "labnak"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "labnak listitmariya"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "laborsa"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "lghafi"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "litti7ad lifriqi"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "lmoassasat lmaliya"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "sandoq naqd dawli"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "الخطوط الملكية المغربية (RAM)"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "الصندوق الجماعي لمنح رواتب التقاعد RCAR"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "الصندوق المغربي للتقاعد CMR"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "الصندوق الوطني للضمان الاجتماعي CNSS"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "المكتب الوطني للسكك الحديدية (ONCF)"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "الوكالة الوطنية للتدبير الاستراتيجي لمساهمات الدولة (ANGES)"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG",
+    "entity": "एस डी एक्स एनर्जी (SDX Energy)"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG_AGG",
+    "entity": "dollar"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG_AGG",
+    "entity": "doyon"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG_AGG",
+    "entity": "drhm"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG_AGG",
+    "entity": "dyon"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG_AGG",
+    "entity": "flos"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG_AGG",
+    "entity": "intajiya"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG_AGG",
+    "entity": "iqtisad watani</ORG> wajdin. Lmohim daba hwa dor <GOV>lhokoma</GOV> w <ORG>mojtama3 madani</ORG> bach had <ORG_AGG>dyon"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG_AGG",
+    "entity": "lfaida"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG_AGG",
+    "entity": "liqtisad"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG_AGG",
+    "entity": "lkobra"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG_AGG",
+    "entity": "lmoachir"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG_AGG",
+    "entity": "lpetrol"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG_AGG",
+    "entity": "mawad awaliya</ORG> mn berra, zaid mochkil <EVENT_AGG>lmonakh</EVENT_AGG> w <EVENT_AGG>lbrd</EVENT_AGG> w <EVENT_AGG>lwasata</EVENT_AGG> f majal <ORG_AGG>lkhodar"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG_AGG",
+    "entity": "natij dakhili ijmali</ORG>, w <ORG_AGG>dyon"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG_AGG",
+    "entity": "natij dakhili kham</ORG>. Ktab smyto <WORK_OF_ART>The Deficit Myth</WORK_OF_ART> aw <WORK_OF_ART>khorafat l3ajz</WORK_OF_ART> kaychr7 bli <ORG_AGG>dyon"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG_AGG",
+    "entity": "oro"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG_AGG",
+    "entity": "sanadat"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG_AGG",
+    "entity": "si3r"
+  },
+  {
+    "section": "ARABIC",
+    "label": "ORG_AGG",
+    "entity": "soq"
+  },
+  {
+    "section": "ARABIC",
+    "label": "PERSON",
+    "entity": "<PERSON_AGG>الرئيس</PERSON_AGG> <PERSON> جو بايدن"
+  },
+  {
+    "section": "ARABIC",
+    "label": "PERSON",
+    "entity": "Daniel Kahneman"
+  },
+  {
+    "section": "ARABIC",
+    "label": "PERSON",
+    "entity": "Richard Wiseman"
+  },
+  {
+    "section": "ARABIC",
+    "label": "PERSON",
+    "entity": "sissi"
+  },
+  {
+    "section": "ARABIC",
+    "label": "PERSON",
+    "entity": "محمد <ORDINAL>الثالث</ORDINAL>"
+  },
+  {
+    "section": "ARABIC",
+    "label": "PERSON",
+    "entity": "والي <ORG> بنك المغرب </ORG>"
+  },
+  {
+    "section": "ARABIC",
+    "label": "PERSON_AGG",
+    "entity": "Data Analyst"
+  },
+  {
+    "section": "ARABIC",
+    "label": "PERSON_AGG",
+    "entity": "Data Scientist"
+  },
+  {
+    "section": "ARABIC",
+    "label": "PERSON_AGG",
+    "entity": "insan"
+  },
+  {
+    "section": "ARABIC",
+    "label": "PERSON_AGG",
+    "entity": "lkbar"
+  },
+  {
+    "section": "ARABIC",
+    "label": "PERSON_AGG",
+    "entity": "lmalik"
+  },
+  {
+    "section": "ARABIC",
+    "label": "PERSON_AGG",
+    "entity": "lmostathmirin"
+  },
+  {
+    "section": "ARABIC",
+    "label": "PERSON_AGG",
+    "entity": "mas2oulin"
+  },
+  {
+    "section": "ARABIC",
+    "label": "PERSON_AGG",
+    "entity": "mostathmirin"
+  },
+  {
+    "section": "ARABIC",
+    "label": "PERSON_AGG",
+    "entity": "roasa"
+  },
+  {
+    "section": "ARABIC",
+    "label": "PERSON_AGG",
+    "entity": "مولات الملوي</PRODUCT> غيغلى عليها الطياب وغادي تزيد فالثمن على <PERSON_AGG>المستهلك"
+  },
+  {
+    "section": "ARABIC",
+    "label": "WORK_OF_ART",
+    "entity": "AI"
+  },
+  {
+    "section": "ARABIC",
+    "label": "WORK_OF_ART",
+    "entity": "CBDC"
+  },
+  {
+    "section": "ARABIC",
+    "label": "WORK_OF_ART",
+    "entity": "Fiat Money"
+  },
+  {
+    "section": "ARABIC",
+    "label": "WORK_OF_ART",
+    "entity": "IOU"
+  },
+  {
+    "section": "ARABIC",
+    "label": "WORK_OF_ART",
+    "entity": "Indonesia Investment"
+  },
+  {
+    "section": "ARABIC",
+    "label": "WORK_OF_ART",
+    "entity": "Morocco Now"
+  },
+  {
+    "section": "ARABIC",
+    "label": "WORK_OF_ART",
+    "entity": "Multi-branding"
+  },
+  {
+    "section": "ARABIC",
+    "label": "WORK_OF_ART",
+    "entity": "NFT"
+  },
+  {
+    "section": "ARABIC",
+    "label": "WORK_OF_ART",
+    "entity": "Noise"
+  },
+  {
+    "section": "ARABIC",
+    "label": "WORK_OF_ART",
+    "entity": "O3"
+  },
+  {
+    "section": "ARABIC",
+    "label": "WORK_OF_ART",
+    "entity": "Profit Warning"
+  },
+  {
+    "section": "ARABIC",
+    "label": "WORK_OF_ART",
+    "entity": "Social Security Number"
+  },
+  {
+    "section": "ARABIC",
+    "label": "WORK_OF_ART",
+    "entity": "The Luck Factor"
+  },
+  {
+    "section": "ARABIC",
+    "label": "WORK_OF_ART",
+    "entity": "Wallet"
+  },
+  {
+    "section": "ARABIC",
+    "label": "WORK_OF_ART",
+    "entity": "lotto-import"
+  },
+  {
+    "section": "ARABIC",
+    "label": "WORK_OF_ART",
+    "entity": "البراق (TGV)"
+  },
+  {
+    "section": "ARABIC",
+    "label": "WORK_OF_ART",
+    "entity": "الدرهم</GPE>، و <GPE>أوروبا</GPE> كيطبعو <WORK_OF_ART>الأورو</GPE> شحال ما بغاو، ولكن <WORK_OF_ART>البيتكوين"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "CARDINAL",
+    "entity": "1.2 مليون dirham"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "CARDINAL",
+    "entity": "1.7 مليار دولار"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "CARDINAL",
+    "entity": "2.9 مليار دولار"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "CARDINAL",
+    "entity": "22 مليار دولار"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "CARDINAL",
+    "entity": "220 الف"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "CARDINAL",
+    "entity": "29 مليار dirham"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "CARDINAL",
+    "entity": "3شرين"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "CARDINAL",
+    "entity": "8.3 مليار دولار"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "CARDINAL",
+    "entity": "l3شرين"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "CARDINAL",
+    "entity": "mليون"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "CARDINAL",
+    "entity": "mليون w ns"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "DATE",
+    "entity": "8 chhor lولين"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "DATE",
+    "entity": "l9arn l2awal ba3d الميلاد"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "DATE",
+    "entity": "sana كاملة"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "EVENT",
+    "entity": "itفاقiya"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "EVENT",
+    "entity": "itفاقiyat"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "EVENT",
+    "entity": "itفاقiyat sayd lba7ri"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "EVENT",
+    "entity": "kas إفريقيا"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "EVENT",
+    "entity": "lجيل l akhdar"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "EVENT",
+    "entity": "كأس العالم"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "EVENT_AGG",
+    "entity": "أزمة"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "EVENT_AGG",
+    "entity": "زلزال"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "GOV",
+    "entity": "الوظيفة العمومية"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "GOV",
+    "entity": "وزارة التربية الوطنية"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "GOV",
+    "entity": "وزارة المالية"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "GOV_AGG",
+    "entity": "الحكومة"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "GPE",
+    "entity": "ben سليمان"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "GPE",
+    "entity": "ljنيه lmasri"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "GPE",
+    "entity": "lبرتغال"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "GPE",
+    "entity": "إسبانيا"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "GPE",
+    "entity": "الرباط"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "GPE",
+    "entity": "المغرب"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "GPE",
+    "entity": "تمارة"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "GPE",
+    "entity": "سلا"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "GPE",
+    "entity": "قطر"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "GPE",
+    "entity": "كاليفورنيا"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "GPE",
+    "entity": "مالي"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "GPE",
+    "entity": "ميرikan"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "LAW",
+    "entity": "القانون الإطار للتعليم"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "LAW",
+    "entity": "الميثاق الوطني للتربية والتكوين"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "LAW",
+    "entity": "النظام الأساسي للوظيفة العمومية"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "LAW",
+    "entity": "النظام الأساسي لموظفي قطاع التربية الوطنية"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "LAW",
+    "entity": "قانون المالية"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "LAW",
+    "entity": "قانون المالية 2024"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "LOC",
+    "entity": "chamal إفريقيا"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "LOC",
+    "entity": "janoub امريكا"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "LOC",
+    "entity": "qanat السويس"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "LOC",
+    "entity": "أمريكا"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "LOC",
+    "entity": "أوروبا"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "MEDIA",
+    "entity": "videoهات"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "NORP",
+    "entity": "lبرتغاليين"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "ORDINAL",
+    "entity": "rrtba الثالثة"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "ORDINAL",
+    "entity": "الأولى"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "ORDINAL",
+    "entity": "الثالثة"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "ORDINAL",
+    "entity": "الثانية"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "ORDINAL",
+    "entity": "الخامسة"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "ORDINAL",
+    "entity": "الرابعة"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "ORDINAL",
+    "entity": "السابعة"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "ORDINAL",
+    "entity": "السادسة"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "ORG",
+    "entity": "almaktab الشريف للفوسفاط"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "ORG",
+    "entity": "borst ddar البيضاء"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "ORG",
+    "entity": "hizb العدالة والتنمية"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "ORG",
+    "entity": "jabhat البوليساريو"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "ORG",
+    "entity": "janoub إفريقيا"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "ORG",
+    "entity": "lmaktab الشريف lfosfat"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "ORG",
+    "entity": "lmontakhab lبرتغالي"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "ORG",
+    "entity": "lyونسكو"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "ORG",
+    "entity": "tanja المتوسط"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "ORG",
+    "entity": "الأكاديميات الجهوية"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "ORG",
+    "entity": "الذكاء الاصطناعي"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "ORG",
+    "entity": "الشركة المغربية لتدبير صناديق ضمان الودائع البنكية"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "ORG",
+    "entity": "الصندوق المغربي للتقاعد"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "ORG",
+    "entity": "بنك المغرب"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "ORG",
+    "entity": "تي جي سي سي"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "ORG",
+    "entity": "جيت كونتراكتور"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "ORG",
+    "entity": "كنوبس"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "PERSON",
+    "entity": "abd l2ilah بنكيران"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "PERSON",
+    "entity": "l7asan الثاني"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "PERSON_AGG",
+    "entity": "l-wlيدات"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "PERSON_AGG",
+    "entity": "wali بنك المغرب"
+  },
+  {
+    "section": "ARABIZI",
+    "label": "WORK_OF_ART",
+    "entity": "الكتاب الأبيض"
+  }
+]
